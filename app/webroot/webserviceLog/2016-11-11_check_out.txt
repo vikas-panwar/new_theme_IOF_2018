@@ -1,0 +1,819 @@
+
+=========================06:13:56===========================
+Array
+(
+    [Host] => 12.201.42.18
+    [Connection] => keep-alive
+    [Content-Length] => 1344
+    [user_id] => NTI2
+    [merchant_id] => 85
+    [Cache-Control] => no-cache
+    [Origin] => chrome-extension://fhbjgbiflinjbdggehcddcbncdddomop
+    [Content-Type] => text/plain;charset=UTF-8
+    [User-Agent] => Mozilla/5.0 (X11; Linux i686) AppleWebKit/537.36 (KHTML, like Gecko) Ubuntu Chromium/45.0.2454.101 Chrome/45.0.2454.101 Safari/537.36
+    [Postman-Token] => 790af6cd-3b62-9402-3532-b034fcfa3fe5
+    [Accept] => */*
+    [Accept-Encoding] => gzip, deflate
+    [Accept-Language] => en-US,en;q=0.8
+    [Cookie] => CAKEPHP=4hepnvn3q62kdo8qqujv60n4e5
+)
+{"cart_item_list":[{"category_id":"824","comment":"","ExtendedPromo":[],"free_units":"","item_tax_value":"","item_id":"4972","Offers":[{"Item_price":"45","category_id":"824","isSizeApplicable":false,"isUnitApplicable":true,"is_fixed_price":false,"item_id":"4972","offer_id":"126","offered_items":[{"category_id":"824","Offered_id":"170","offered_item_id":"4972","price":"0.00","size_id":"0"}],"offerprice":"","size_id":"0","unit":"1"}],"quantity":"1","selectedSubAddonsModels":[],"selectedSubPreferencesModels":[],"size_id":"","tax":"0.0","total_price":"45.0"},{"category_id":"836","comment":"","ExtendedPromo":[],"free_units":"","item_tax_value":"8.5","item_id":"4974","Offers":[],"quantity":"1","selectedSubAddonsModels":[],"selectedSubPreferencesModels":[{"price":"2.00","subprefernce_id":"4225"},{"price":"8.00","subprefernce_id":"4235"}],"size_id":"334","tax":"1.275","total_price":"15.0"}],"coupon_code":"","coupon_discount":"","delivery_fee":"0.00","extended_discount":"0.0","order_details":{"address_id":"632","date":"12-11-2016","order_type":"Delivery","time":"10:05"},"payment_method":{"address":"","card_type":"","cc_number":"","city":"","cvv":"","expiry":"","fname":"","lastname":"","payment_type":"Cash","state":"","zip_code":""},"service_fee":"","store_id":"108","sub_total_price":"60.0","total_amount":"61.28","total_tax":"1.28"}
+=====================================================================
+
+=========================06:16:01===========================
+Array
+(
+    [Host] => 12.201.42.18
+    [Connection] => keep-alive
+    [Content-Length] => 709
+    [user_id] => NTI2
+    [merchant_id] => 85
+    [Cache-Control] => no-cache
+    [Origin] => chrome-extension://fhbjgbiflinjbdggehcddcbncdddomop
+    [Content-Type] => text/plain;charset=UTF-8
+    [User-Agent] => Mozilla/5.0 (X11; Linux i686) AppleWebKit/537.36 (KHTML, like Gecko) Ubuntu Chromium/45.0.2454.101 Chrome/45.0.2454.101 Safari/537.36
+    [Postman-Token] => ed78df2a-a160-d4a5-a94b-7abac67f2655
+    [Accept] => */*
+    [Accept-Encoding] => gzip, deflate
+    [Accept-Language] => en-US,en;q=0.8
+    [Cookie] => CAKEPHP=4hepnvn3q62kdo8qqujv60n4e5
+)
+{"cart_item_list":[{"category_id":"850","comment":"","ExtendedPromo":[],"free_units":"","item_tax_value":"","item_id":"5030","Offers":[],"quantity":"1","selectedSubAddonsModels":[],"selectedSubPreferencesModels":[],"size_id":"","tax":"0.0","total_price":"45.0"}],"coupon_code":"","coupon_discount":"","delivery_fee":"0.00","extended_discount":"0.0","order_details":{"address_id":"592","date":"12-11-2016","order_type":"Delivery","time":"07:00"},"payment_method":{"address":"","card_type":"","cc_number":"","city":"","cvv":"","expiry":"","fname":"","lastname":"","payment_type":"Cash","state":"","zip_code":""},"service_fee":"","store_id":"109","sub_total_price":"45.0","total_amount":"45.0","total_tax":"0.0"}
+=====================================================================
+
+=========================06:20:54===========================
+Array
+(
+    [Host] => 12.201.42.18
+    [Connection] => keep-alive
+    [Content-Length] => 709
+    [user_id] => NTc2
+    [merchant_id] => 85
+    [Cache-Control] => no-cache
+    [Origin] => chrome-extension://fhbjgbiflinjbdggehcddcbncdddomop
+    [Content-Type] => text/plain;charset=UTF-8
+    [User-Agent] => Mozilla/5.0 (X11; Linux i686) AppleWebKit/537.36 (KHTML, like Gecko) Ubuntu Chromium/45.0.2454.101 Chrome/45.0.2454.101 Safari/537.36
+    [Postman-Token] => 26e97db6-d2e8-3245-b1ac-6dbcbfa9aece
+    [Accept] => */*
+    [Accept-Encoding] => gzip, deflate
+    [Accept-Language] => en-US,en;q=0.8
+    [Cookie] => CAKEPHP=4hepnvn3q62kdo8qqujv60n4e5
+)
+{"cart_item_list":[{"category_id":"850","comment":"","ExtendedPromo":[],"free_units":"","item_tax_value":"","item_id":"5030","Offers":[],"quantity":"1","selectedSubAddonsModels":[],"selectedSubPreferencesModels":[],"size_id":"","tax":"0.0","total_price":"45.0"}],"coupon_code":"","coupon_discount":"","delivery_fee":"0.00","extended_discount":"0.0","order_details":{"address_id":"592","date":"11-11-2016","order_type":"Delivery","time":"07:00"},"payment_method":{"address":"","card_type":"","cc_number":"","city":"","cvv":"","expiry":"","fname":"","lastname":"","payment_type":"Cash","state":"","zip_code":""},"service_fee":"","store_id":"109","sub_total_price":"45.0","total_amount":"45.0","total_tax":"0.0"}
+=====================================================================
+
+=========================06:21:22===========================
+Array
+(
+    [Host] => 12.201.42.18
+    [Connection] => keep-alive
+    [Content-Length] => 709
+    [user_id] => NTc2
+    [merchant_id] => 85
+    [Cache-Control] => no-cache
+    [Origin] => chrome-extension://fhbjgbiflinjbdggehcddcbncdddomop
+    [Content-Type] => text/plain;charset=UTF-8
+    [User-Agent] => Mozilla/5.0 (X11; Linux i686) AppleWebKit/537.36 (KHTML, like Gecko) Ubuntu Chromium/45.0.2454.101 Chrome/45.0.2454.101 Safari/537.36
+    [Postman-Token] => 625dca02-73eb-488d-da7a-50614bc99c7b
+    [Accept] => */*
+    [Accept-Encoding] => gzip, deflate
+    [Accept-Language] => en-US,en;q=0.8
+    [Cookie] => CAKEPHP=4hepnvn3q62kdo8qqujv60n4e5
+)
+{"cart_item_list":[{"category_id":"850","comment":"","ExtendedPromo":[],"free_units":"","item_tax_value":"","item_id":"5030","Offers":[],"quantity":"1","selectedSubAddonsModels":[],"selectedSubPreferencesModels":[],"size_id":"","tax":"0.0","total_price":"45.0"}],"coupon_code":"","coupon_discount":"","delivery_fee":"0.00","extended_discount":"0.0","order_details":{"address_id":"592","date":"19-11-2016","order_type":"Delivery","time":"07:00"},"payment_method":{"address":"","card_type":"","cc_number":"","city":"","cvv":"","expiry":"","fname":"","lastname":"","payment_type":"Cash","state":"","zip_code":""},"service_fee":"","store_id":"109","sub_total_price":"45.0","total_amount":"45.0","total_tax":"0.0"}
+=====================================================================
+
+=========================06:21:37===========================
+Array
+(
+    [Host] => 12.201.42.18
+    [Connection] => keep-alive
+    [Content-Length] => 709
+    [user_id] => NTc2
+    [merchant_id] => 85
+    [Cache-Control] => no-cache
+    [Origin] => chrome-extension://fhbjgbiflinjbdggehcddcbncdddomop
+    [Content-Type] => text/plain;charset=UTF-8
+    [User-Agent] => Mozilla/5.0 (X11; Linux i686) AppleWebKit/537.36 (KHTML, like Gecko) Ubuntu Chromium/45.0.2454.101 Chrome/45.0.2454.101 Safari/537.36
+    [Postman-Token] => 59271cdf-7a59-f02f-2fda-6dc0b5aaa93d
+    [Accept] => */*
+    [Accept-Encoding] => gzip, deflate
+    [Accept-Language] => en-US,en;q=0.8
+    [Cookie] => CAKEPHP=4hepnvn3q62kdo8qqujv60n4e5
+)
+{"cart_item_list":[{"category_id":"850","comment":"","ExtendedPromo":[],"free_units":"","item_tax_value":"","item_id":"5030","Offers":[],"quantity":"1","selectedSubAddonsModels":[],"selectedSubPreferencesModels":[],"size_id":"","tax":"0.0","total_price":"45.0"}],"coupon_code":"","coupon_discount":"","delivery_fee":"0.00","extended_discount":"0.0","order_details":{"address_id":"592","date":"10-11-2016","order_type":"Delivery","time":"07:00"},"payment_method":{"address":"","card_type":"","cc_number":"","city":"","cvv":"","expiry":"","fname":"","lastname":"","payment_type":"Cash","state":"","zip_code":""},"service_fee":"","store_id":"109","sub_total_price":"45.0","total_amount":"45.0","total_tax":"0.0"}
+=====================================================================
+
+=========================06:24:19===========================
+Array
+(
+    [Host] => 12.201.42.18
+    [Connection] => keep-alive
+    [Content-Length] => 709
+    [user_id] => NTc2
+    [merchant_id] => 85
+    [Cache-Control] => no-cache
+    [Origin] => chrome-extension://fhbjgbiflinjbdggehcddcbncdddomop
+    [Content-Type] => text/plain;charset=UTF-8
+    [User-Agent] => Mozilla/5.0 (X11; Linux i686) AppleWebKit/537.36 (KHTML, like Gecko) Ubuntu Chromium/45.0.2454.101 Chrome/45.0.2454.101 Safari/537.36
+    [Postman-Token] => db2717ee-988f-ae07-dafa-a34c2ee637c1
+    [Accept] => */*
+    [Accept-Encoding] => gzip, deflate
+    [Accept-Language] => en-US,en;q=0.8
+    [Cookie] => CAKEPHP=4hepnvn3q62kdo8qqujv60n4e5
+)
+{"cart_item_list":[{"category_id":"850","comment":"","ExtendedPromo":[],"free_units":"","item_tax_value":"","item_id":"5030","Offers":[],"quantity":"1","selectedSubAddonsModels":[],"selectedSubPreferencesModels":[],"size_id":"","tax":"0.0","total_price":"45.0"}],"coupon_code":"","coupon_discount":"","delivery_fee":"0.00","extended_discount":"0.0","order_details":{"address_id":"592","date":"12-11-2016","order_type":"Delivery","time":"12:00"},"payment_method":{"address":"","card_type":"","cc_number":"","city":"","cvv":"","expiry":"","fname":"","lastname":"","payment_type":"Cash","state":"","zip_code":""},"service_fee":"","store_id":"109","sub_total_price":"45.0","total_amount":"45.0","total_tax":"0.0"}
+=====================================================================
+
+=========================06:24:26===========================
+Array
+(
+    [Host] => 12.201.42.18
+    [Connection] => keep-alive
+    [Content-Length] => 709
+    [user_id] => NTc2
+    [merchant_id] => 85
+    [Cache-Control] => no-cache
+    [Origin] => chrome-extension://fhbjgbiflinjbdggehcddcbncdddomop
+    [Content-Type] => text/plain;charset=UTF-8
+    [User-Agent] => Mozilla/5.0 (X11; Linux i686) AppleWebKit/537.36 (KHTML, like Gecko) Ubuntu Chromium/45.0.2454.101 Chrome/45.0.2454.101 Safari/537.36
+    [Postman-Token] => 51aecc0e-987c-a56b-7fed-f358c3015360
+    [Accept] => */*
+    [Accept-Encoding] => gzip, deflate
+    [Accept-Language] => en-US,en;q=0.8
+    [Cookie] => CAKEPHP=4hepnvn3q62kdo8qqujv60n4e5
+)
+{"cart_item_list":[{"category_id":"850","comment":"","ExtendedPromo":[],"free_units":"","item_tax_value":"","item_id":"5030","Offers":[],"quantity":"1","selectedSubAddonsModels":[],"selectedSubPreferencesModels":[],"size_id":"","tax":"0.0","total_price":"45.0"}],"coupon_code":"","coupon_discount":"","delivery_fee":"0.00","extended_discount":"0.0","order_details":{"address_id":"592","date":"12-11-2016","order_type":"Delivery","time":"19:00"},"payment_method":{"address":"","card_type":"","cc_number":"","city":"","cvv":"","expiry":"","fname":"","lastname":"","payment_type":"Cash","state":"","zip_code":""},"service_fee":"","store_id":"109","sub_total_price":"45.0","total_amount":"45.0","total_tax":"0.0"}
+=====================================================================
+
+=========================09:26:42===========================
+Array
+(
+    [Host] => 12.201.42.18
+    [Content-Type] => application/json
+    [Cookie] => CAKEPHP=5lp3tbibhmurffsipuh2icto93
+    [User-Agent] => FoodOrder/1 CFNetwork/758.3.15 Darwin/15.6.0
+    [Connection] => keep-alive
+    [Accept] => application/json
+    [user_id] => NTI2
+    [Accept-Language] => en-us
+    [merchant_id] => 85
+    [Content-Length] => 718
+    [Accept-Encoding] => gzip, deflate
+)
+{"cart_item_list":[{"quantity":"1","selectedSubPreferencesModels":[],"total_price":"45.0","tax":".00","category_id":"824","item_id":"4972","comment":"","selectedSubAddonsModels":[],"Offers":[],"item_tax_value":"0","free_units":"0","size_id":"","ExtendedPromo":[]}],"total_amount":"45.0","sub_total_price":"45.0","service_fee":"0.00","store_id":"108","order_details":{"address_id":"592","order_type":"Delivery","time":"11:15","date":"14-11-2016"},"payment_method":{"expiry":"","address":"","payment_type":"Cash","city":"","cc_number":"","cvv":"","fname":"","lastname":"","zip_code":"","card_type":"","state":""},"total_tax":"0.0","coupon_code":"","coupon_discount":"0.0","extended_discount":"0.0","delivery_fee":"0.00"}
+=====================================================================
+
+=========================09:27:10===========================
+Array
+(
+    [Host] => 12.201.42.18
+    [Content-Type] => application/json
+    [Cookie] => CAKEPHP=5lp3tbibhmurffsipuh2icto93
+    [User-Agent] => FoodOrder/1 CFNetwork/758.3.15 Darwin/15.6.0
+    [Connection] => keep-alive
+    [Accept] => application/json
+    [user_id] => NTI2
+    [Accept-Language] => en-us
+    [merchant_id] => 85
+    [Content-Length] => 910
+    [Accept-Encoding] => gzip, deflate
+)
+{"cart_item_list":[{"quantity":"2","selectedSubPreferencesModels":[],"total_price":"10.0","tax":".85","category_id":"836","item_id":"4974","comment":"","selectedSubAddonsModels":[{"sub_addons_size_id":"0","sub_addon_id":"8055","price":"0","size_price":"0","is_defualt":1},{"sub_addons_size_id":"0","sub_addon_id":"8067","price":"0","size_price":"0","is_defualt":1}],"Offers":[],"item_tax_value":"8.5","free_units":"0","size_id":"334","ExtendedPromo":[]}],"total_amount":"10.85","sub_total_price":"10.0","service_fee":"0.00","store_id":"108","order_details":{"address_id":"592","order_type":"Delivery","time":"11:15","date":"14-11-2016"},"payment_method":{"expiry":"","address":"","payment_type":"Cash","city":"","cc_number":"","cvv":"","fname":"","lastname":"","zip_code":"","card_type":"","state":""},"total_tax":"0.85","coupon_code":"","coupon_discount":"0.0","extended_discount":"0.0","delivery_fee":"0.00"}
+=====================================================================
+
+=========================09:28:27===========================
+Array
+(
+    [Host] => 12.201.42.18
+    [Content-Type] => application/json
+    [Cookie] => CAKEPHP=5lp3tbibhmurffsipuh2icto93
+    [User-Agent] => FoodOrder/1 CFNetwork/758.3.15 Darwin/15.6.0
+    [Connection] => keep-alive
+    [Accept] => application/json
+    [user_id] => NTI2
+    [Accept-Language] => en-us
+    [merchant_id] => 85
+    [Content-Length] => 2412
+    [Accept-Encoding] => gzip, deflate
+)
+{"cart_item_list":[{"quantity":"3","selectedSubPreferencesModels":[],"total_price":"30.0","tax":".00","category_id":"839","item_id":"4976","comment":"","selectedSubAddonsModels":[],"Offers":[],"item_tax_value":"0","free_units":"","size_id":"339","ExtendedPromo":[]},{"quantity":"3","selectedSubPreferencesModels":[],"total_price":"36.0","tax":".00","category_id":"842","item_id":"4999","comment":"","selectedSubAddonsModels":[],"Offers":[],"item_tax_value":"0","free_units":"","size_id":"","ExtendedPromo":[]},{"quantity":"1","selectedSubPreferencesModels":[],"total_price":"450.0","tax":".00","category_id":"845","item_id":"5010","comment":"","selectedSubAddonsModels":[],"Offers":[],"item_tax_value":"0","free_units":"","size_id":"341","ExtendedPromo":[]},{"quantity":"2","selectedSubPreferencesModels":[],"total_price":"0.02","tax":".00","category_id":"845","item_id":"5008","comment":"","selectedSubAddonsModels":[],"Offers":[],"item_tax_value":"0","free_units":"","size_id":"341","ExtendedPromo":[]},{"quantity":"4","selectedSubPreferencesModels":[],"total_price":"80.0","tax":".00","category_id":"847","item_id":"5022","comment":"","selectedSubAddonsModels":[],"Offers":[],"item_tax_value":"0","free_units":"","size_id":"345","ExtendedPromo":[]},{"quantity":"4","selectedSubPreferencesModels":[],"total_price":"124.0","tax":"10.54","category_id":"836","item_id":"5102","comment":"","selectedSubAddonsModels":[],"Offers":[{"size_id":"334","unit":"2","isSizeApplicable":true,"category_id":"836","offer_id":"116","offerprice":"","is_fixed_price":false,"isUnitApplicable":true,"offered_items":[{"size_id":"341","offered_item_id":"5008","category_id":"845","Offered_id":"153","price":"12.00"},{"size_id":"0","offered_item_id":"5006","category_id":"842","Offered_id":"154","price":"10.00"}],"item_id":"5102","Item_price":"20"}],"item_tax_value":"8.5","free_units":"1","size_id":"334","ExtendedPromo":[{"item_id":"5102","promo_id":"43","unit":"3"}]}],"total_amount":"710.56","sub_total_price":"720.02","service_fee":"0.00","store_id":"108","order_details":{"address_id":"592","order_type":"Delivery","time":"11:15","date":"14-11-2016"},"payment_method":{"expiry":"","address":"","payment_type":"PayPal","city":"","cc_number":"","cvv":"","fname":"","lastname":"","zip_code":"","card_type":"","state":""},"total_tax":"10.54","coupon_code":"","coupon_discount":"0.0","extended_discount":"20.0","delivery_fee":"0.00"}
+=====================================================================
+
+=========================09:28:47===========================
+Array
+(
+    [Host] => 12.201.42.18
+    [Content-Type] => application/json
+    [Cookie] => CAKEPHP=5lp3tbibhmurffsipuh2icto93
+    [User-Agent] => FoodOrder/1 CFNetwork/758.3.15 Darwin/15.6.0
+    [Connection] => keep-alive
+    [Accept] => application/json
+    [user_id] => NTI2
+    [Accept-Language] => en-us
+    [merchant_id] => 85
+    [Content-Length] => 2412
+    [Accept-Encoding] => gzip, deflate
+)
+{"cart_item_list":[{"quantity":"3","selectedSubPreferencesModels":[],"total_price":"30.0","tax":".00","category_id":"839","item_id":"4976","comment":"","selectedSubAddonsModels":[],"Offers":[],"item_tax_value":"0","free_units":"","size_id":"339","ExtendedPromo":[]},{"quantity":"3","selectedSubPreferencesModels":[],"total_price":"36.0","tax":".00","category_id":"842","item_id":"4999","comment":"","selectedSubAddonsModels":[],"Offers":[],"item_tax_value":"0","free_units":"","size_id":"","ExtendedPromo":[]},{"quantity":"1","selectedSubPreferencesModels":[],"total_price":"450.0","tax":".00","category_id":"845","item_id":"5010","comment":"","selectedSubAddonsModels":[],"Offers":[],"item_tax_value":"0","free_units":"","size_id":"341","ExtendedPromo":[]},{"quantity":"2","selectedSubPreferencesModels":[],"total_price":"0.02","tax":".00","category_id":"845","item_id":"5008","comment":"","selectedSubAddonsModels":[],"Offers":[],"item_tax_value":"0","free_units":"","size_id":"341","ExtendedPromo":[]},{"quantity":"4","selectedSubPreferencesModels":[],"total_price":"80.0","tax":".00","category_id":"847","item_id":"5022","comment":"","selectedSubAddonsModels":[],"Offers":[],"item_tax_value":"0","free_units":"","size_id":"345","ExtendedPromo":[]},{"quantity":"4","selectedSubPreferencesModels":[],"total_price":"124.0","tax":"10.54","category_id":"836","item_id":"5102","comment":"","selectedSubAddonsModels":[],"Offers":[{"size_id":"334","unit":"2","isSizeApplicable":true,"category_id":"836","offer_id":"116","offerprice":"","is_fixed_price":false,"isUnitApplicable":true,"offered_items":[{"size_id":"341","offered_item_id":"5008","category_id":"845","Offered_id":"153","price":"12.00"},{"size_id":"0","offered_item_id":"5006","category_id":"842","Offered_id":"154","price":"10.00"}],"item_id":"5102","Item_price":"20"}],"item_tax_value":"8.5","free_units":"1","size_id":"334","ExtendedPromo":[{"item_id":"5102","promo_id":"43","unit":"3"}]}],"total_amount":"710.56","sub_total_price":"720.02","service_fee":"0.00","store_id":"108","order_details":{"address_id":"592","order_type":"Delivery","time":"11:15","date":"14-11-2016"},"payment_method":{"expiry":"","address":"","payment_type":"PayPal","city":"","cc_number":"","cvv":"","fname":"","lastname":"","zip_code":"","card_type":"","state":""},"total_tax":"10.54","coupon_code":"","coupon_discount":"0.0","extended_discount":"20.0","delivery_fee":"0.00"}
+=====================================================================
+
+=========================09:29:04===========================
+Array
+(
+    [Host] => 12.201.42.18
+    [Content-Type] => application/json
+    [Cookie] => CAKEPHP=5lp3tbibhmurffsipuh2icto93
+    [User-Agent] => FoodOrder/1 CFNetwork/758.3.15 Darwin/15.6.0
+    [Connection] => keep-alive
+    [Accept] => application/json
+    [user_id] => NTI2
+    [Accept-Language] => en-us
+    [merchant_id] => 85
+    [Content-Length] => 2410
+    [Accept-Encoding] => gzip, deflate
+)
+{"cart_item_list":[{"quantity":"3","selectedSubPreferencesModels":[],"total_price":"30.0","tax":".00","category_id":"839","item_id":"4976","comment":"","selectedSubAddonsModels":[],"Offers":[],"item_tax_value":"0","free_units":"","size_id":"339","ExtendedPromo":[]},{"quantity":"3","selectedSubPreferencesModels":[],"total_price":"36.0","tax":".00","category_id":"842","item_id":"4999","comment":"","selectedSubAddonsModels":[],"Offers":[],"item_tax_value":"0","free_units":"","size_id":"","ExtendedPromo":[]},{"quantity":"1","selectedSubPreferencesModels":[],"total_price":"450.0","tax":".00","category_id":"845","item_id":"5010","comment":"","selectedSubAddonsModels":[],"Offers":[],"item_tax_value":"0","free_units":"","size_id":"341","ExtendedPromo":[]},{"quantity":"2","selectedSubPreferencesModels":[],"total_price":"0.02","tax":".00","category_id":"845","item_id":"5008","comment":"","selectedSubAddonsModels":[],"Offers":[],"item_tax_value":"0","free_units":"","size_id":"341","ExtendedPromo":[]},{"quantity":"4","selectedSubPreferencesModels":[],"total_price":"80.0","tax":".00","category_id":"847","item_id":"5022","comment":"","selectedSubAddonsModels":[],"Offers":[],"item_tax_value":"0","free_units":"","size_id":"345","ExtendedPromo":[]},{"quantity":"4","selectedSubPreferencesModels":[],"total_price":"124.0","tax":"10.54","category_id":"836","item_id":"5102","comment":"","selectedSubAddonsModels":[],"Offers":[{"size_id":"334","unit":"2","isSizeApplicable":true,"category_id":"836","offer_id":"116","offerprice":"","is_fixed_price":false,"isUnitApplicable":true,"offered_items":[{"size_id":"341","offered_item_id":"5008","category_id":"845","Offered_id":"153","price":"12.00"},{"size_id":"0","offered_item_id":"5006","category_id":"842","Offered_id":"154","price":"10.00"}],"item_id":"5102","Item_price":"20"}],"item_tax_value":"8.5","free_units":"1","size_id":"334","ExtendedPromo":[{"item_id":"5102","promo_id":"43","unit":"3"}]}],"total_amount":"710.56","sub_total_price":"720.02","service_fee":"0.00","store_id":"108","order_details":{"address_id":"592","order_type":"Delivery","time":"11:15","date":"14-11-2016"},"payment_method":{"expiry":"","address":"","payment_type":"Cash","city":"","cc_number":"","cvv":"","fname":"","lastname":"","zip_code":"","card_type":"","state":""},"total_tax":"10.54","coupon_code":"","coupon_discount":"0.0","extended_discount":"20.0","delivery_fee":"0.00"}
+=====================================================================
+
+=========================09:53:23===========================
+Array
+(
+    [Host] => 12.201.42.18
+    [Connection] => keep-alive
+    [Content-Length] => 1020
+    [user_id] => NTc2
+    [merchant_id] => 85
+    [Cache-Control] => no-cache
+    [Origin] => chrome-extension://fhbjgbiflinjbdggehcddcbncdddomop
+    [Content-Type] => text/plain;charset=UTF-8
+    [User-Agent] => Mozilla/5.0 (X11; Linux i686) AppleWebKit/537.36 (KHTML, like Gecko) Ubuntu Chromium/45.0.2454.101 Chrome/45.0.2454.101 Safari/537.36
+    [Postman-Token] => 0ced6a59-0bcc-f6ea-17ca-b8ba42774bf4
+    [Accept] => */*
+    [Accept-Encoding] => gzip, deflate
+    [Accept-Language] => en-US,en;q=0.8
+    [Cookie] => CAKEPHP=b7rmsl51oru2ouk3h3ds9a6bi6
+)
+{"cart_item_list":[{"quantity":"3","selectedSubPreferencesModels":[],"total_price":"135.0","tax":".00","category_id":"824","item_id":"4972","comment":"","selectedSubAddonsModels":[],"Offers":[{"size_id":"0","unit":"1","isSizeApplicable":false,"category_id":"824","offer_id":"126","offerprice":"","is_fixed_price":false,"isUnitApplicable":true,"offered_items":[{"size_id":"0","offered_item_id":"4972","category_id":"824","Offered_id":"170","price":"0.00"}],"item_id":"4972","Item_price":"45"}],"item_tax_value":"0","free_units":"0","size_id":"","ExtendedPromo":[]}],"total_amount":"135.0","sub_total_price":"135.0","service_fee":"0.00","store_id":"108","order_details":{"address_id":"632","order_type":"Delivery","time":"02:55","date":"11-11-2016"},"payment_method":{"expiry":"","address":"","payment_type":"Cash","city":"","cc_number":"","cvv":"","fname":"","lastname":"","zip_code":"","card_type":"","state":""},"total_tax":"0.0","coupon_code":"","coupon_discount":"0.0","extended_discount":"0.0","delivery_fee":"0.00"}
+=====================================================================
+
+=========================09:53:34===========================
+Array
+(
+    [Host] => 12.201.42.18
+    [Connection] => keep-alive
+    [Content-Length] => 1020
+    [user_id] => NTc2
+    [merchant_id] => 85
+    [Cache-Control] => no-cache
+    [Origin] => chrome-extension://fhbjgbiflinjbdggehcddcbncdddomop
+    [Content-Type] => text/plain;charset=UTF-8
+    [User-Agent] => Mozilla/5.0 (X11; Linux i686) AppleWebKit/537.36 (KHTML, like Gecko) Ubuntu Chromium/45.0.2454.101 Chrome/45.0.2454.101 Safari/537.36
+    [Postman-Token] => d70b9c8d-0dbf-4d24-0140-1eb9c9d64667
+    [Accept] => */*
+    [Accept-Encoding] => gzip, deflate
+    [Accept-Language] => en-US,en;q=0.8
+    [Cookie] => CAKEPHP=b7rmsl51oru2ouk3h3ds9a6bi6
+)
+{"cart_item_list":[{"quantity":"3","selectedSubPreferencesModels":[],"total_price":"135.0","tax":".00","category_id":"824","item_id":"4972","comment":"","selectedSubAddonsModels":[],"Offers":[{"size_id":"0","unit":"1","isSizeApplicable":false,"category_id":"824","offer_id":"126","offerprice":"","is_fixed_price":false,"isUnitApplicable":true,"offered_items":[{"size_id":"0","offered_item_id":"4972","category_id":"824","Offered_id":"170","price":"0.00"}],"item_id":"4972","Item_price":"45"}],"item_tax_value":"0","free_units":"0","size_id":"","ExtendedPromo":[]}],"total_amount":"135.0","sub_total_price":"135.0","service_fee":"0.00","store_id":"108","order_details":{"address_id":"632","order_type":"Delivery","time":"02:55","date":"12-11-2016"},"payment_method":{"expiry":"","address":"","payment_type":"Cash","city":"","cc_number":"","cvv":"","fname":"","lastname":"","zip_code":"","card_type":"","state":""},"total_tax":"0.0","coupon_code":"","coupon_discount":"0.0","extended_discount":"0.0","delivery_fee":"0.00"}
+=====================================================================
+
+=========================09:53:42===========================
+Array
+(
+    [Host] => 12.201.42.18
+    [Connection] => keep-alive
+    [Content-Length] => 1020
+    [user_id] => NTc2
+    [merchant_id] => 85
+    [Cache-Control] => no-cache
+    [Origin] => chrome-extension://fhbjgbiflinjbdggehcddcbncdddomop
+    [Content-Type] => text/plain;charset=UTF-8
+    [User-Agent] => Mozilla/5.0 (X11; Linux i686) AppleWebKit/537.36 (KHTML, like Gecko) Ubuntu Chromium/45.0.2454.101 Chrome/45.0.2454.101 Safari/537.36
+    [Postman-Token] => 9b2911e4-32a8-b91c-3ff7-390fb00bb66c
+    [Accept] => */*
+    [Accept-Encoding] => gzip, deflate
+    [Accept-Language] => en-US,en;q=0.8
+    [Cookie] => CAKEPHP=b7rmsl51oru2ouk3h3ds9a6bi6
+)
+{"cart_item_list":[{"quantity":"3","selectedSubPreferencesModels":[],"total_price":"135.0","tax":".00","category_id":"824","item_id":"4972","comment":"","selectedSubAddonsModels":[],"Offers":[{"size_id":"0","unit":"1","isSizeApplicable":false,"category_id":"824","offer_id":"126","offerprice":"","is_fixed_price":false,"isUnitApplicable":true,"offered_items":[{"size_id":"0","offered_item_id":"4972","category_id":"824","Offered_id":"170","price":"0.00"}],"item_id":"4972","Item_price":"45"}],"item_tax_value":"0","free_units":"0","size_id":"","ExtendedPromo":[]}],"total_amount":"135.0","sub_total_price":"135.0","service_fee":"0.00","store_id":"108","order_details":{"address_id":"632","order_type":"Delivery","time":"02:55","date":"13-11-2016"},"payment_method":{"expiry":"","address":"","payment_type":"Cash","city":"","cc_number":"","cvv":"","fname":"","lastname":"","zip_code":"","card_type":"","state":""},"total_tax":"0.0","coupon_code":"","coupon_discount":"0.0","extended_discount":"0.0","delivery_fee":"0.00"}
+=====================================================================
+
+=========================09:55:17===========================
+Array
+(
+    [Host] => 12.201.42.18
+    [Connection] => keep-alive
+    [Content-Length] => 1020
+    [user_id] => NTc2
+    [merchant_id] => 85
+    [Cache-Control] => no-cache
+    [Origin] => chrome-extension://fhbjgbiflinjbdggehcddcbncdddomop
+    [Content-Type] => text/plain;charset=UTF-8
+    [User-Agent] => Mozilla/5.0 (X11; Linux i686) AppleWebKit/537.36 (KHTML, like Gecko) Ubuntu Chromium/45.0.2454.101 Chrome/45.0.2454.101 Safari/537.36
+    [Postman-Token] => 6c55f791-241b-29b6-ba23-98838d7fb087
+    [Accept] => */*
+    [Accept-Encoding] => gzip, deflate
+    [Accept-Language] => en-US,en;q=0.8
+    [Cookie] => CAKEPHP=b7rmsl51oru2ouk3h3ds9a6bi6
+)
+{"cart_item_list":[{"quantity":"3","selectedSubPreferencesModels":[],"total_price":"135.0","tax":".00","category_id":"824","item_id":"4972","comment":"","selectedSubAddonsModels":[],"Offers":[{"size_id":"0","unit":"1","isSizeApplicable":false,"category_id":"824","offer_id":"126","offerprice":"","is_fixed_price":false,"isUnitApplicable":true,"offered_items":[{"size_id":"0","offered_item_id":"4972","category_id":"824","Offered_id":"170","price":"0.00"}],"item_id":"4972","Item_price":"45"}],"item_tax_value":"0","free_units":"0","size_id":"","ExtendedPromo":[]}],"total_amount":"135.0","sub_total_price":"135.0","service_fee":"0.00","store_id":"108","order_details":{"address_id":"632","order_type":"Delivery","time":"01:55","date":"13-11-2016"},"payment_method":{"expiry":"","address":"","payment_type":"Cash","city":"","cc_number":"","cvv":"","fname":"","lastname":"","zip_code":"","card_type":"","state":""},"total_tax":"0.0","coupon_code":"","coupon_discount":"0.0","extended_discount":"0.0","delivery_fee":"0.00"}
+=====================================================================
+
+=========================09:56:38===========================
+Array
+(
+    [Host] => 12.201.42.18
+    [Connection] => keep-alive
+    [Content-Length] => 1020
+    [user_id] => NTc2
+    [merchant_id] => 85
+    [Cache-Control] => no-cache
+    [Origin] => chrome-extension://fhbjgbiflinjbdggehcddcbncdddomop
+    [Content-Type] => text/plain;charset=UTF-8
+    [User-Agent] => Mozilla/5.0 (X11; Linux i686) AppleWebKit/537.36 (KHTML, like Gecko) Ubuntu Chromium/45.0.2454.101 Chrome/45.0.2454.101 Safari/537.36
+    [Postman-Token] => 5d514926-ec00-7c1f-103f-5738ce88066e
+    [Accept] => */*
+    [Accept-Encoding] => gzip, deflate
+    [Accept-Language] => en-US,en;q=0.8
+    [Cookie] => CAKEPHP=b7rmsl51oru2ouk3h3ds9a6bi6
+)
+{"cart_item_list":[{"quantity":"3","selectedSubPreferencesModels":[],"total_price":"135.0","tax":".00","category_id":"824","item_id":"4972","comment":"","selectedSubAddonsModels":[],"Offers":[{"size_id":"0","unit":"1","isSizeApplicable":false,"category_id":"824","offer_id":"126","offerprice":"","is_fixed_price":false,"isUnitApplicable":true,"offered_items":[{"size_id":"0","offered_item_id":"4972","category_id":"824","Offered_id":"170","price":"0.00"}],"item_id":"4972","Item_price":"45"}],"item_tax_value":"0","free_units":"0","size_id":"","ExtendedPromo":[]}],"total_amount":"135.0","sub_total_price":"135.0","service_fee":"0.00","store_id":"108","order_details":{"address_id":"645","order_type":"Delivery","time":"01:55","date":"13-11-2016"},"payment_method":{"expiry":"","address":"","payment_type":"Cash","city":"","cc_number":"","cvv":"","fname":"","lastname":"","zip_code":"","card_type":"","state":""},"total_tax":"0.0","coupon_code":"","coupon_discount":"0.0","extended_discount":"0.0","delivery_fee":"0.00"}
+=====================================================================
+
+=========================09:59:07===========================
+Array
+(
+    [Host] => 12.201.42.18
+    [Connection] => keep-alive
+    [Content-Length] => 4502
+    [user_id] => NTc2
+    [merchant_id] => 85
+    [Cache-Control] => no-cache
+    [Origin] => chrome-extension://fhbjgbiflinjbdggehcddcbncdddomop
+    [Content-Type] => text/plain;charset=UTF-8
+    [User-Agent] => Mozilla/5.0 (X11; Linux i686) AppleWebKit/537.36 (KHTML, like Gecko) Ubuntu Chromium/45.0.2454.101 Chrome/45.0.2454.101 Safari/537.36
+    [Postman-Token] => c242c60b-502b-6af6-4fc2-6ec9a64f2e6c
+    [Accept] => */*
+    [Accept-Encoding] => gzip, deflate
+    [Accept-Language] => en-US,en;q=0.8
+    [Cookie] => CAKEPHP=b7rmsl51oru2ouk3h3ds9a6bi6
+)
+{"cart_item_list":[{"quantity":"1","selectedSubPreferencesModels":[],"total_price":"45.0","tax":".00","category_id":"824","item_id":"4972","comment":"","selectedSubAddonsModels":[],"Offers":[{"size_id":"0","unit":"2","isSizeApplicable":false,"category_id":"824","offer_id":"126","offerprice":"75.00","is_fixed_price":true,"isUnitApplicable":true,"offered_items":[{"size_id":"0","offered_item_id":"4972","category_id":"824","Offered_id":"175","price":"75.00"}],"item_id":"4972","Item_price":"45"}],"item_tax_value":"0","free_units":"0","size_id":"","ExtendedPromo":[]},{"quantity":"2","selectedSubPreferencesModels":[],"total_price":"6.0","tax":".51","category_id":"830","item_id":"5017","comment":"","selectedSubAddonsModels":[],"Offers":[],"item_tax_value":"8.5","free_units":"0","size_id":"352","ExtendedPromo":[]},{"quantity":"3","selectedSubPreferencesModels":[],"total_price":"39.0","tax":"3.32","category_id":"836","item_id":"5093","comment":"","selectedSubAddonsModels":[],"Offers":[],"item_tax_value":"8.5","free_units":"0","size_id":"","ExtendedPromo":[]},{"quantity":"4","selectedSubPreferencesModels":[],"total_price":"40.0","tax":".00","category_id":"836","item_id":"5103","comment":"","selectedSubAddonsModels":[],"Offers":[{"size_id":"334","unit":"2","isSizeApplicable":true,"category_id":"836","offer_id":"118","offerprice":"20.00","is_fixed_price":true,"isUnitApplicable":true,"offered_items":[{"size_id":"0","offered_item_id":"4981","category_id":"836","Offered_id":"157","price":"20.00"}],"item_id":"5103","Item_price":"5"}],"item_tax_value":"0","free_units":"0","size_id":"334","ExtendedPromo":[]},{"quantity":"4","selectedSubPreferencesModels":[],"total_price":"20.0","tax":".00","category_id":"837","item_id":"4975","comment":"","selectedSubAddonsModels":[],"Offers":[],"item_tax_value":"0","free_units":"0","size_id":"337","ExtendedPromo":[]},{"quantity":"2","selectedSubPreferencesModels":[],"total_price":"40.0","tax":".00","category_id":"838","item_id":"4977","comment":"","selectedSubAddonsModels":[],"Offers":[],"item_tax_value":"0","free_units":"0","size_id":"","ExtendedPromo":[]},{"quantity":"4","selectedSubPreferencesModels":[],"total_price":"40.0","tax":".00","category_id":"839","item_id":"4976","comment":"","selectedSubAddonsModels":[],"Offers":[],"item_tax_value":"0","free_units":"0","size_id":"339","ExtendedPromo":[]},{"quantity":"2","selectedSubPreferencesModels":[],"total_price":"62.0","tax":"1.24","category_id":"842","item_id":"5006","comment":"","selectedSubAddonsModels":[],"Offers":[{"size_id":"0","unit":"1","isSizeApplicable":false,"category_id":"842","offer_id":"68","offerprice":"","is_fixed_price":false,"isUnitApplicable":true,"offered_items":[{"size_id":"341","offered_item_id":"5008","category_id":"845","Offered_id":"133","price":"5.00"},{"size_id":"341","offered_item_id":"5012","category_id":"845","Offered_id":"150","price":"3.00"}],"item_id":"5006","Item_price":"23"}],"item_tax_value":"2","free_units":"0","size_id":"","ExtendedPromo":[]},{"quantity":"2","selectedSubPreferencesModels":[],"total_price":"1000.0","tax":".00","category_id":"845","item_id":"5008","comment":"","selectedSubAddonsModels":[],"Offers":[],"item_tax_value":"0","free_units":"0","size_id":"341","ExtendedPromo":[]},{"quantity":"2","selectedSubPreferencesModels":[],"total_price":"60.0","tax":".00","category_id":"847","item_id":"5022","comment":"","selectedSubAddonsModels":[],"Offers":[{"size_id":"0","unit":"1","isSizeApplicable":false,"category_id":"847","offer_id":"111","offerprice":"","is_fixed_price":false,"isUnitApplicable":true,"offered_items":[{"size_id":"0","offered_item_id":"5022","category_id":"847","Offered_id":"147","price":"10.00"}],"item_id":"5022","Item_price":""}],"item_tax_value":"0","free_units":"0","size_id":"346","ExtendedPromo":[]},{"quantity":"2","selectedSubPreferencesModels":[],"total_price":"10.0","tax":".85","category_id":"860","item_id":"5094","comment":"","selectedSubAddonsModels":[],"Offers":[],"item_tax_value":"8.5","free_units":"0","size_id":"","ExtendedPromo":[]}],"total_amount":"1367.92","sub_total_price":"1362.0","service_fee":"0.00","store_id":"108","order_details":{"address_id":"","order_type":"Carry-Out","time":"00:55","date":"11-11-2016"},"payment_method":{"expiry":"","address":"","payment_type":"Cash","city":"","cc_number":"","cvv":"","fname":"","lastname":"","zip_code":"","card_type":"","state":""},"total_tax":"5.92","coupon_code":"","coupon_discount":"0.0","extended_discount":"0.0","delivery_fee":"0.00"}
+=====================================================================
+
+=========================09:59:18===========================
+Array
+(
+    [Host] => 12.201.42.18
+    [Connection] => keep-alive
+    [Content-Length] => 4502
+    [user_id] => NTc2
+    [merchant_id] => 85
+    [Cache-Control] => no-cache
+    [Origin] => chrome-extension://fhbjgbiflinjbdggehcddcbncdddomop
+    [Content-Type] => text/plain;charset=UTF-8
+    [User-Agent] => Mozilla/5.0 (X11; Linux i686) AppleWebKit/537.36 (KHTML, like Gecko) Ubuntu Chromium/45.0.2454.101 Chrome/45.0.2454.101 Safari/537.36
+    [Postman-Token] => a8192037-0fe1-618b-f018-d525f5f35b0d
+    [Accept] => */*
+    [Accept-Encoding] => gzip, deflate
+    [Accept-Language] => en-US,en;q=0.8
+    [Cookie] => CAKEPHP=b7rmsl51oru2ouk3h3ds9a6bi6
+)
+{"cart_item_list":[{"quantity":"1","selectedSubPreferencesModels":[],"total_price":"45.0","tax":".00","category_id":"824","item_id":"4972","comment":"","selectedSubAddonsModels":[],"Offers":[{"size_id":"0","unit":"2","isSizeApplicable":false,"category_id":"824","offer_id":"126","offerprice":"75.00","is_fixed_price":true,"isUnitApplicable":true,"offered_items":[{"size_id":"0","offered_item_id":"4972","category_id":"824","Offered_id":"175","price":"75.00"}],"item_id":"4972","Item_price":"45"}],"item_tax_value":"0","free_units":"0","size_id":"","ExtendedPromo":[]},{"quantity":"2","selectedSubPreferencesModels":[],"total_price":"6.0","tax":".51","category_id":"830","item_id":"5017","comment":"","selectedSubAddonsModels":[],"Offers":[],"item_tax_value":"8.5","free_units":"0","size_id":"352","ExtendedPromo":[]},{"quantity":"3","selectedSubPreferencesModels":[],"total_price":"39.0","tax":"3.32","category_id":"836","item_id":"5093","comment":"","selectedSubAddonsModels":[],"Offers":[],"item_tax_value":"8.5","free_units":"0","size_id":"","ExtendedPromo":[]},{"quantity":"4","selectedSubPreferencesModels":[],"total_price":"40.0","tax":".00","category_id":"836","item_id":"5103","comment":"","selectedSubAddonsModels":[],"Offers":[{"size_id":"334","unit":"2","isSizeApplicable":true,"category_id":"836","offer_id":"118","offerprice":"20.00","is_fixed_price":true,"isUnitApplicable":true,"offered_items":[{"size_id":"0","offered_item_id":"4981","category_id":"836","Offered_id":"157","price":"20.00"}],"item_id":"5103","Item_price":"5"}],"item_tax_value":"0","free_units":"0","size_id":"334","ExtendedPromo":[]},{"quantity":"4","selectedSubPreferencesModels":[],"total_price":"20.0","tax":".00","category_id":"837","item_id":"4975","comment":"","selectedSubAddonsModels":[],"Offers":[],"item_tax_value":"0","free_units":"0","size_id":"337","ExtendedPromo":[]},{"quantity":"2","selectedSubPreferencesModels":[],"total_price":"40.0","tax":".00","category_id":"838","item_id":"4977","comment":"","selectedSubAddonsModels":[],"Offers":[],"item_tax_value":"0","free_units":"0","size_id":"","ExtendedPromo":[]},{"quantity":"4","selectedSubPreferencesModels":[],"total_price":"40.0","tax":".00","category_id":"839","item_id":"4976","comment":"","selectedSubAddonsModels":[],"Offers":[],"item_tax_value":"0","free_units":"0","size_id":"339","ExtendedPromo":[]},{"quantity":"2","selectedSubPreferencesModels":[],"total_price":"62.0","tax":"1.24","category_id":"842","item_id":"5006","comment":"","selectedSubAddonsModels":[],"Offers":[{"size_id":"0","unit":"1","isSizeApplicable":false,"category_id":"842","offer_id":"68","offerprice":"","is_fixed_price":false,"isUnitApplicable":true,"offered_items":[{"size_id":"341","offered_item_id":"5008","category_id":"845","Offered_id":"133","price":"5.00"},{"size_id":"341","offered_item_id":"5012","category_id":"845","Offered_id":"150","price":"3.00"}],"item_id":"5006","Item_price":"23"}],"item_tax_value":"2","free_units":"0","size_id":"","ExtendedPromo":[]},{"quantity":"2","selectedSubPreferencesModels":[],"total_price":"1000.0","tax":".00","category_id":"845","item_id":"5008","comment":"","selectedSubAddonsModels":[],"Offers":[],"item_tax_value":"0","free_units":"0","size_id":"341","ExtendedPromo":[]},{"quantity":"2","selectedSubPreferencesModels":[],"total_price":"60.0","tax":".00","category_id":"847","item_id":"5022","comment":"","selectedSubAddonsModels":[],"Offers":[{"size_id":"0","unit":"1","isSizeApplicable":false,"category_id":"847","offer_id":"111","offerprice":"","is_fixed_price":false,"isUnitApplicable":true,"offered_items":[{"size_id":"0","offered_item_id":"5022","category_id":"847","Offered_id":"147","price":"10.00"}],"item_id":"5022","Item_price":""}],"item_tax_value":"0","free_units":"0","size_id":"346","ExtendedPromo":[]},{"quantity":"2","selectedSubPreferencesModels":[],"total_price":"10.0","tax":".85","category_id":"860","item_id":"5094","comment":"","selectedSubAddonsModels":[],"Offers":[],"item_tax_value":"8.5","free_units":"0","size_id":"","ExtendedPromo":[]}],"total_amount":"1367.92","sub_total_price":"1362.0","service_fee":"0.00","store_id":"108","order_details":{"address_id":"","order_type":"Carry-Out","time":"00:55","date":"13-11-2016"},"payment_method":{"expiry":"","address":"","payment_type":"Cash","city":"","cc_number":"","cvv":"","fname":"","lastname":"","zip_code":"","card_type":"","state":""},"total_tax":"5.92","coupon_code":"","coupon_discount":"0.0","extended_discount":"0.0","delivery_fee":"0.00"}
+=====================================================================
+
+=========================10:00:14===========================
+Array
+(
+    [Host] => 12.201.42.18
+    [Connection] => keep-alive
+    [Content-Length] => 1022
+    [user_id] => NTc2
+    [merchant_id] => 85
+    [Cache-Control] => no-cache
+    [Origin] => chrome-extension://fhbjgbiflinjbdggehcddcbncdddomop
+    [Content-Type] => text/plain;charset=UTF-8
+    [User-Agent] => Mozilla/5.0 (X11; Linux i686) AppleWebKit/537.36 (KHTML, like Gecko) Ubuntu Chromium/45.0.2454.101 Chrome/45.0.2454.101 Safari/537.36
+    [Postman-Token] => c4a4717f-b4ab-82b3-4c9e-43d992525de6
+    [Accept] => */*
+    [Accept-Encoding] => gzip, deflate
+    [Accept-Language] => en-US,en;q=0.8
+    [Cookie] => CAKEPHP=b7rmsl51oru2ouk3h3ds9a6bi6
+)
+{"cart_item_list":[{"quantity":"2","selectedSubPreferencesModels":[],"total_price":"75.0","tax":".00","category_id":"824","item_id":"4972","comment":"","selectedSubAddonsModels":[],"Offers":[{"size_id":"0","unit":"2","isSizeApplicable":false,"category_id":"824","offer_id":"126","offerprice":"75.00","is_fixed_price":true,"isUnitApplicable":true,"offered_items":[{"size_id":"0","offered_item_id":"4972","category_id":"824","Offered_id":"175","price":"75.00"}],"item_id":"4972","Item_price":"45"}],"item_tax_value":"0","free_units":"0","size_id":"","ExtendedPromo":[]}],"total_amount":"75.0","sub_total_price":"75.0","service_fee":"0.00","store_id":"108","order_details":{"address_id":"592","order_type":"Delivery","time":"10:40","date":"12-11-2016"},"payment_method":{"expiry":"","address":"","payment_type":"Cash","city":"","cc_number":"","cvv":"","fname":"","lastname":"","zip_code":"","card_type":"","state":""},"total_tax":"0.0","coupon_code":"","coupon_discount":"0.0","extended_discount":"0.0","delivery_fee":"0.00"}
+=====================================================================
+
+=========================10:00:23===========================
+Array
+(
+    [Host] => 12.201.42.18
+    [Connection] => keep-alive
+    [Content-Length] => 1022
+    [user_id] => NTc2
+    [merchant_id] => 85
+    [Cache-Control] => no-cache
+    [Origin] => chrome-extension://fhbjgbiflinjbdggehcddcbncdddomop
+    [Content-Type] => text/plain;charset=UTF-8
+    [User-Agent] => Mozilla/5.0 (X11; Linux i686) AppleWebKit/537.36 (KHTML, like Gecko) Ubuntu Chromium/45.0.2454.101 Chrome/45.0.2454.101 Safari/537.36
+    [Postman-Token] => c9379569-2079-3319-d3ad-50641d34da76
+    [Accept] => */*
+    [Accept-Encoding] => gzip, deflate
+    [Accept-Language] => en-US,en;q=0.8
+    [Cookie] => CAKEPHP=b7rmsl51oru2ouk3h3ds9a6bi6
+)
+{"cart_item_list":[{"quantity":"2","selectedSubPreferencesModels":[],"total_price":"75.0","tax":".00","category_id":"824","item_id":"4972","comment":"","selectedSubAddonsModels":[],"Offers":[{"size_id":"0","unit":"2","isSizeApplicable":false,"category_id":"824","offer_id":"126","offerprice":"75.00","is_fixed_price":true,"isUnitApplicable":true,"offered_items":[{"size_id":"0","offered_item_id":"4972","category_id":"824","Offered_id":"175","price":"75.00"}],"item_id":"4972","Item_price":"45"}],"item_tax_value":"0","free_units":"0","size_id":"","ExtendedPromo":[]}],"total_amount":"75.0","sub_total_price":"75.0","service_fee":"0.00","store_id":"108","order_details":{"address_id":"592","order_type":"Delivery","time":"10:40","date":"13-11-2016"},"payment_method":{"expiry":"","address":"","payment_type":"Cash","city":"","cc_number":"","cvv":"","fname":"","lastname":"","zip_code":"","card_type":"","state":""},"total_tax":"0.0","coupon_code":"","coupon_discount":"0.0","extended_discount":"0.0","delivery_fee":"0.00"}
+=====================================================================
+
+=========================10:00:31===========================
+Array
+(
+    [Host] => 12.201.42.18
+    [Connection] => keep-alive
+    [Content-Length] => 1022
+    [user_id] => NTc2
+    [merchant_id] => 85
+    [Cache-Control] => no-cache
+    [Origin] => chrome-extension://fhbjgbiflinjbdggehcddcbncdddomop
+    [Content-Type] => text/plain;charset=UTF-8
+    [User-Agent] => Mozilla/5.0 (X11; Linux i686) AppleWebKit/537.36 (KHTML, like Gecko) Ubuntu Chromium/45.0.2454.101 Chrome/45.0.2454.101 Safari/537.36
+    [Postman-Token] => 3f332003-a4ad-1924-d2c6-bbfe75204778
+    [Accept] => */*
+    [Accept-Encoding] => gzip, deflate
+    [Accept-Language] => en-US,en;q=0.8
+    [Cookie] => CAKEPHP=b7rmsl51oru2ouk3h3ds9a6bi6
+)
+{"cart_item_list":[{"quantity":"2","selectedSubPreferencesModels":[],"total_price":"75.0","tax":".00","category_id":"824","item_id":"4972","comment":"","selectedSubAddonsModels":[],"Offers":[{"size_id":"0","unit":"2","isSizeApplicable":false,"category_id":"824","offer_id":"126","offerprice":"75.00","is_fixed_price":true,"isUnitApplicable":true,"offered_items":[{"size_id":"0","offered_item_id":"4972","category_id":"824","Offered_id":"175","price":"75.00"}],"item_id":"4972","Item_price":"45"}],"item_tax_value":"0","free_units":"0","size_id":"","ExtendedPromo":[]}],"total_amount":"75.0","sub_total_price":"75.0","service_fee":"0.00","store_id":"108","order_details":{"address_id":"645","order_type":"Delivery","time":"10:40","date":"13-11-2016"},"payment_method":{"expiry":"","address":"","payment_type":"Cash","city":"","cc_number":"","cvv":"","fname":"","lastname":"","zip_code":"","card_type":"","state":""},"total_tax":"0.0","coupon_code":"","coupon_discount":"0.0","extended_discount":"0.0","delivery_fee":"0.00"}
+=====================================================================
+
+=========================10:01:56===========================
+Array
+(
+    [Host] => 12.201.42.18
+    [Connection] => keep-alive
+    [Content-Length] => 4502
+    [user_id] => NTc2
+    [merchant_id] => 85
+    [Cache-Control] => no-cache
+    [Origin] => chrome-extension://fhbjgbiflinjbdggehcddcbncdddomop
+    [Content-Type] => text/plain;charset=UTF-8
+    [User-Agent] => Mozilla/5.0 (X11; Linux i686) AppleWebKit/537.36 (KHTML, like Gecko) Ubuntu Chromium/45.0.2454.101 Chrome/45.0.2454.101 Safari/537.36
+    [Postman-Token] => 00d07d6a-dfc5-2726-73e4-2ebde318312b
+    [Accept] => */*
+    [Accept-Encoding] => gzip, deflate
+    [Accept-Language] => en-US,en;q=0.8
+    [Cookie] => CAKEPHP=b7rmsl51oru2ouk3h3ds9a6bi6
+)
+{"cart_item_list":[{"quantity":"1","selectedSubPreferencesModels":[],"total_price":"45.0","tax":".00","category_id":"824","item_id":"4972","comment":"","selectedSubAddonsModels":[],"Offers":[{"size_id":"0","unit":"2","isSizeApplicable":false,"category_id":"824","offer_id":"126","offerprice":"75.00","is_fixed_price":true,"isUnitApplicable":true,"offered_items":[{"size_id":"0","offered_item_id":"4972","category_id":"824","Offered_id":"175","price":"75.00"}],"item_id":"4972","Item_price":"45"}],"item_tax_value":"0","free_units":"0","size_id":"","ExtendedPromo":[]},{"quantity":"2","selectedSubPreferencesModels":[],"total_price":"6.0","tax":".51","category_id":"830","item_id":"5017","comment":"","selectedSubAddonsModels":[],"Offers":[],"item_tax_value":"8.5","free_units":"0","size_id":"352","ExtendedPromo":[]},{"quantity":"3","selectedSubPreferencesModels":[],"total_price":"39.0","tax":"3.32","category_id":"836","item_id":"5093","comment":"","selectedSubAddonsModels":[],"Offers":[],"item_tax_value":"8.5","free_units":"0","size_id":"","ExtendedPromo":[]},{"quantity":"4","selectedSubPreferencesModels":[],"total_price":"40.0","tax":".00","category_id":"836","item_id":"5103","comment":"","selectedSubAddonsModels":[],"Offers":[{"size_id":"334","unit":"2","isSizeApplicable":true,"category_id":"836","offer_id":"118","offerprice":"20.00","is_fixed_price":true,"isUnitApplicable":true,"offered_items":[{"size_id":"0","offered_item_id":"4981","category_id":"836","Offered_id":"157","price":"20.00"}],"item_id":"5103","Item_price":"5"}],"item_tax_value":"0","free_units":"0","size_id":"334","ExtendedPromo":[]},{"quantity":"4","selectedSubPreferencesModels":[],"total_price":"20.0","tax":".00","category_id":"837","item_id":"4975","comment":"","selectedSubAddonsModels":[],"Offers":[],"item_tax_value":"0","free_units":"0","size_id":"337","ExtendedPromo":[]},{"quantity":"2","selectedSubPreferencesModels":[],"total_price":"40.0","tax":".00","category_id":"838","item_id":"4977","comment":"","selectedSubAddonsModels":[],"Offers":[],"item_tax_value":"0","free_units":"0","size_id":"","ExtendedPromo":[]},{"quantity":"4","selectedSubPreferencesModels":[],"total_price":"40.0","tax":".00","category_id":"839","item_id":"4976","comment":"","selectedSubAddonsModels":[],"Offers":[],"item_tax_value":"0","free_units":"0","size_id":"339","ExtendedPromo":[]},{"quantity":"2","selectedSubPreferencesModels":[],"total_price":"62.0","tax":"1.24","category_id":"842","item_id":"5006","comment":"","selectedSubAddonsModels":[],"Offers":[{"size_id":"0","unit":"1","isSizeApplicable":false,"category_id":"842","offer_id":"68","offerprice":"","is_fixed_price":false,"isUnitApplicable":true,"offered_items":[{"size_id":"341","offered_item_id":"5008","category_id":"845","Offered_id":"133","price":"5.00"},{"size_id":"341","offered_item_id":"5012","category_id":"845","Offered_id":"150","price":"3.00"}],"item_id":"5006","Item_price":"23"}],"item_tax_value":"2","free_units":"0","size_id":"","ExtendedPromo":[]},{"quantity":"2","selectedSubPreferencesModels":[],"total_price":"1000.0","tax":".00","category_id":"845","item_id":"5008","comment":"","selectedSubAddonsModels":[],"Offers":[],"item_tax_value":"0","free_units":"0","size_id":"341","ExtendedPromo":[]},{"quantity":"2","selectedSubPreferencesModels":[],"total_price":"60.0","tax":".00","category_id":"847","item_id":"5022","comment":"","selectedSubAddonsModels":[],"Offers":[{"size_id":"0","unit":"1","isSizeApplicable":false,"category_id":"847","offer_id":"111","offerprice":"","is_fixed_price":false,"isUnitApplicable":true,"offered_items":[{"size_id":"0","offered_item_id":"5022","category_id":"847","Offered_id":"147","price":"10.00"}],"item_id":"5022","Item_price":""}],"item_tax_value":"0","free_units":"0","size_id":"346","ExtendedPromo":[]},{"quantity":"2","selectedSubPreferencesModels":[],"total_price":"10.0","tax":".85","category_id":"860","item_id":"5094","comment":"","selectedSubAddonsModels":[],"Offers":[],"item_tax_value":"8.5","free_units":"0","size_id":"","ExtendedPromo":[]}],"total_amount":"1367.92","sub_total_price":"1362.0","service_fee":"0.00","store_id":"108","order_details":{"address_id":"","order_type":"Carry-Out","time":"00:55","date":"13-11-2016"},"payment_method":{"expiry":"","address":"","payment_type":"Cash","city":"","cc_number":"","cvv":"","fname":"","lastname":"","zip_code":"","card_type":"","state":""},"total_tax":"5.92","coupon_code":"","coupon_discount":"0.0","extended_discount":"0.0","delivery_fee":"0.00"}
+=====================================================================
+
+=========================10:16:01===========================
+Array
+(
+    [Host] => 12.201.42.18
+    [Content-Type] => application/json
+    [Cookie] => CAKEPHP=ljappbbstipf7rv83jdikdpqp3
+    [User-Agent] => FoodOrder/1 CFNetwork/758.3.15 Darwin/15.6.0
+    [Connection] => keep-alive
+    [Accept] => application/json
+    [user_id] => NTI2
+    [Accept-Language] => en-us
+    [merchant_id] => 85
+    [Content-Length] => 718
+    [Accept-Encoding] => gzip, deflate
+)
+{"cart_item_list":[{"quantity":"2","selectedSubPreferencesModels":[],"total_price":"90.0","tax":".00","category_id":"824","item_id":"4972","comment":"","selectedSubAddonsModels":[],"Offers":[],"item_tax_value":"0","free_units":"0","size_id":"","ExtendedPromo":[]}],"total_amount":"90.0","sub_total_price":"90.0","service_fee":"0.00","store_id":"108","order_details":{"address_id":"592","order_type":"Delivery","time":"10:15","date":"13-11-2016"},"payment_method":{"expiry":"","address":"","payment_type":"Cash","city":"","cc_number":"","cvv":"","fname":"","lastname":"","zip_code":"","card_type":"","state":""},"total_tax":"0.0","coupon_code":"","coupon_discount":"0.0","extended_discount":"0.0","delivery_fee":"0.00"}
+=====================================================================
+
+=========================10:28:03===========================
+Array
+(
+    [Host] => 12.201.42.18
+    [Connection] => keep-alive
+    [Content-Length] => 1011
+    [user_id] => NTc2
+    [merchant_id] => 85
+    [Cache-Control] => no-cache
+    [Origin] => chrome-extension://fhbjgbiflinjbdggehcddcbncdddomop
+    [Content-Type] => text/plain;charset=UTF-8
+    [User-Agent] => Mozilla/5.0 (X11; Linux i686) AppleWebKit/537.36 (KHTML, like Gecko) Ubuntu Chromium/45.0.2454.101 Chrome/45.0.2454.101 Safari/537.36
+    [Postman-Token] => 8ced92d6-c2b9-69e3-c71c-532928651047
+    [Accept] => */*
+    [Accept-Encoding] => gzip, deflate
+    [Accept-Language] => en-US,en;q=0.8
+    [Cookie] => CAKEPHP=b7rmsl51oru2ouk3h3ds9a6bi6
+)
+{"cart_item_list":[{"category_id":"824","comment":"","ExtendedPromo":[],"free_units":"","item_tax_value":"8.5","item_id":"5020","Offers":[{"Item_price":"1","category_id":"824","isSizeApplicable":false,"isUnitApplicable":true,"is_fixed_price":false,"item_id":"5020","offer_id":"127","offered_items":[{"category_id":"824","Offered_id":"171","offered_item_id":"5020","price":"0.00","size_id":"0"}],"offerprice":"","size_id":"0","unit":"1"}],"quantity":"3","selectedSubAddonsModels":[],"selectedSubPreferencesModels":[],"size_id":"","tax":"0.255","total_price":"3.0"}],"coupon_code":"","coupon_discount":"","delivery_fee":"0.00","extended_discount":"0.0","order_details":{"address_id":"565","date":"16-11-2016","order_type":"Delivery","time":"16:46"},"payment_method":{"address":"","card_type":"","cc_number":"","city":"","cvv":"","expiry":"","fname":"","lastname":"","payment_type":"Cash","state":"","zip_code":""},"service_fee":"","store_id":"108","sub_total_price":"3.0","total_amount":"3.26","total_tax":"0.26"}
+=====================================================================
+
+=========================10:28:18===========================
+Array
+(
+    [Host] => 12.201.42.18
+    [Connection] => keep-alive
+    [Content-Length] => 1011
+    [user_id] => NTc2
+    [merchant_id] => 85
+    [Cache-Control] => no-cache
+    [Origin] => chrome-extension://fhbjgbiflinjbdggehcddcbncdddomop
+    [Content-Type] => text/plain;charset=UTF-8
+    [User-Agent] => Mozilla/5.0 (X11; Linux i686) AppleWebKit/537.36 (KHTML, like Gecko) Ubuntu Chromium/45.0.2454.101 Chrome/45.0.2454.101 Safari/537.36
+    [Postman-Token] => 9d7072c0-f9d0-56f1-8648-7adbd10bf686
+    [Accept] => */*
+    [Accept-Encoding] => gzip, deflate
+    [Accept-Language] => en-US,en;q=0.8
+    [Cookie] => CAKEPHP=b7rmsl51oru2ouk3h3ds9a6bi6
+)
+{"cart_item_list":[{"category_id":"824","comment":"","ExtendedPromo":[],"free_units":"","item_tax_value":"8.5","item_id":"5020","Offers":[{"Item_price":"1","category_id":"824","isSizeApplicable":false,"isUnitApplicable":true,"is_fixed_price":false,"item_id":"5020","offer_id":"127","offered_items":[{"category_id":"824","Offered_id":"171","offered_item_id":"5020","price":"0.00","size_id":"0"}],"offerprice":"","size_id":"0","unit":"1"}],"quantity":"3","selectedSubAddonsModels":[],"selectedSubPreferencesModels":[],"size_id":"","tax":"0.255","total_price":"3.0"}],"coupon_code":"","coupon_discount":"","delivery_fee":"0.00","extended_discount":"0.0","order_details":{"address_id":"645","date":"16-11-2016","order_type":"Delivery","time":"16:46"},"payment_method":{"address":"","card_type":"","cc_number":"","city":"","cvv":"","expiry":"","fname":"","lastname":"","payment_type":"Cash","state":"","zip_code":""},"service_fee":"","store_id":"108","sub_total_price":"3.0","total_amount":"3.26","total_tax":"0.26"}
+=====================================================================
+
+=========================10:30:31===========================
+Array
+(
+    [Host] => 12.201.42.18
+    [Connection] => keep-alive
+    [Content-Length] => 1011
+    [user_id] => NTc2
+    [merchant_id] => 85
+    [Cache-Control] => no-cache
+    [Origin] => chrome-extension://fhbjgbiflinjbdggehcddcbncdddomop
+    [Content-Type] => text/plain;charset=UTF-8
+    [User-Agent] => Mozilla/5.0 (X11; Linux i686) AppleWebKit/537.36 (KHTML, like Gecko) Ubuntu Chromium/45.0.2454.101 Chrome/45.0.2454.101 Safari/537.36
+    [Postman-Token] => e94d4eed-f805-05dc-f0c4-0dd42b55e054
+    [Accept] => */*
+    [Accept-Encoding] => gzip, deflate
+    [Accept-Language] => en-US,en;q=0.8
+    [Cookie] => CAKEPHP=b7rmsl51oru2ouk3h3ds9a6bi6
+)
+{"cart_item_list":[{"category_id":"824","comment":"","ExtendedPromo":[],"free_units":"","item_tax_value":"8.5","item_id":"5020","Offers":[{"Item_price":"1","category_id":"824","isSizeApplicable":false,"isUnitApplicable":true,"is_fixed_price":false,"item_id":"5020","offer_id":"127","offered_items":[{"category_id":"824","Offered_id":"171","offered_item_id":"5020","price":"0.00","size_id":"0"}],"offerprice":"","size_id":"0","unit":"1"}],"quantity":"3","selectedSubAddonsModels":[],"selectedSubPreferencesModels":[],"size_id":"","tax":"0.255","total_price":"3.0"}],"coupon_code":"","coupon_discount":"","delivery_fee":"0.00","extended_discount":"0.0","order_details":{"address_id":"645","date":"16-11-2016","order_type":"Delivery","time":"17:46"},"payment_method":{"address":"","card_type":"","cc_number":"","city":"","cvv":"","expiry":"","fname":"","lastname":"","payment_type":"Cash","state":"","zip_code":""},"service_fee":"","store_id":"108","sub_total_price":"3.0","total_amount":"3.26","total_tax":"0.26"}
+=====================================================================
+
+=========================10:40:36===========================
+Array
+(
+    [Host] => 12.201.42.18
+    [Content-Type] => application/json
+    [Cookie] => CAKEPHP=ljappbbstipf7rv83jdikdpqp3
+    [User-Agent] => FoodOrder/1 CFNetwork/758.3.15 Darwin/15.6.0
+    [Connection] => keep-alive
+    [Accept] => application/json
+    [user_id] => NTI2
+    [Accept-Language] => en-us
+    [merchant_id] => 85
+    [Content-Length] => 2345
+    [Accept-Encoding] => gzip, deflate
+)
+{"cart_item_list":[{"quantity":"2","selectedSubPreferencesModels":[],"total_price":"90.0","tax":".00","category_id":"824","item_id":"4972","comment":"","selectedSubAddonsModels":[],"Offers":[],"item_tax_value":"0","free_units":"","size_id":"","ExtendedPromo":[]},{"quantity":"2","selectedSubPreferencesModels":[],"total_price":"90.0","tax":".00","category_id":"824","item_id":"4973","comment":"","selectedSubAddonsModels":[],"Offers":[],"item_tax_value":"0","free_units":"","size_id":"","ExtendedPromo":[]},{"quantity":"3","selectedSubPreferencesModels":[],"total_price":"15.0","tax":"1.28","category_id":"836","item_id":"4974","comment":"","selectedSubAddonsModels":[{"sub_addons_size_id":"0","sub_addon_id":"8055","price":"0","size_price":"0","is_defualt":1},{"sub_addons_size_id":"0","sub_addon_id":"8067","price":"0","size_price":"0","is_defualt":1}],"Offers":[],"item_tax_value":"8.5","free_units":"","size_id":"334","ExtendedPromo":[]},{"quantity":"2","selectedSubPreferencesModels":[],"total_price":"62.0","tax":"5.27","category_id":"836","item_id":"5102","comment":"","selectedSubAddonsModels":[],"Offers":[{"size_id":"334","unit":"2","isSizeApplicable":true,"category_id":"836","offer_id":"116","offerprice":"","is_fixed_price":false,"isUnitApplicable":true,"offered_items":[{"size_id":"341","offered_item_id":"5008","category_id":"845","Offered_id":"153","price":"12.00"},{"size_id":"0","offered_item_id":"5006","category_id":"842","Offered_id":"154","price":"10.00"}],"item_id":"5102","Item_price":"20"}],"item_tax_value":"8.5","free_units":"1","size_id":"334","ExtendedPromo":[]},{"quantity":"2","selectedSubPreferencesModels":[{"subprefernce_id":"4225","price":"2.00"}],"total_price":"12.0","tax":".00","category_id":"836","item_id":"4981","comment":"","selectedSubAddonsModels":[],"Offers":[],"item_tax_value":"0","free_units":"","size_id":"","ExtendedPromo":[]}],"total_amount":"155.54","sub_total_price":"269.0","service_fee":"0.00","store_id":"108","order_details":{"address_id":"592","order_type":"Delivery","time":"16:25","date":"13-11-2016"},"payment_method":{"expiry":"","address":"","payment_type":"Cash","city":"","cc_number":"","cvv":"","fname":"","lastname":"","zip_code":"","card_type":"","state":""},"total_tax":"6.54","coupon_code":"DIW2016","coupon_discount":"100.0","extended_discount":"20.0","delivery_fee":"0.00"}
+=====================================================================
+
+=========================10:40:37===========================
+Array
+(
+    [user_id] => NTI2
+    [merchant_id] => 85
+    [Content-Type] => application/json; charset=UTF-8
+    [Content-Length] => 2151
+    [Host] => 12.201.42.18
+    [Connection] => Keep-Alive
+    [Accept-Encoding] => gzip
+    [User-Agent] => okhttp/3.4.1
+)
+{"cart_item_list":[{"category_id":"824","comment":"","ExtendedPromo":[],"free_units":"","item_tax_value":"","item_id":"4972","Offers":[],"quantity":"2","selectedSubAddonsModels":[],"selectedSubPreferencesModels":[],"size_id":"","tax":"0.0","total_price":"90.0"},{"category_id":"824","comment":"","ExtendedPromo":[],"free_units":"","item_tax_value":"","item_id":"4973","Offers":[],"quantity":"2","selectedSubAddonsModels":[],"selectedSubPreferencesModels":[],"size_id":"","tax":"0.0","total_price":"90.0"},{"category_id":"836","comment":"","ExtendedPromo":[],"free_units":"","item_tax_value":"8.5","item_id":"4974","Offers":[],"quantity":"3","selectedSubAddonsModels":[],"selectedSubPreferencesModels":[],"size_id":"334","tax":"1.275","total_price":"15.0"},{"category_id":"836","comment":"","ExtendedPromo":[],"free_units":"1","item_tax_value":"8.5","item_id":"5102","Offers":[{"Item_price":"20","category_id":"836","isSizeApplicable":true,"isUnitApplicable":true,"is_fixed_price":false,"item_id":"5102","offer_id":"116","offered_items":[{"category_id":"845","Offered_id":"153","offered_item_id":"5008","price":"12.00","size_id":"341"},{"category_id":"842","Offered_id":"154","offered_item_id":"5006","price":"10.00","size_id":"0"}],"offerprice":"","size_id":"334","unit":"2"}],"quantity":"2","selectedSubAddonsModels":[],"selectedSubPreferencesModels":[],"size_id":"334","tax":"5.27","total_price":"62.0"},{"category_id":"836","comment":"","ExtendedPromo":[],"free_units":"","item_tax_value":"","item_id":"4981","Offers":[],"quantity":"2","selectedSubAddonsModels":[],"selectedSubPreferencesModels":[{"price":"2.00","subprefernce_id":"4225"}],"size_id":"","tax":"0.0","total_price":"12.0"}],"coupon_code":"diw2016","coupon_discount":"100","delivery_fee":"0.00","extended_discount":"0.0","order_details":{"address_id":"592","date":"13-11-2016","order_type":"Delivery","time":"16:25"},"payment_method":{"address":"","card_type":"","cc_number":"","city":"","cvv":"","expiry":"","fname":"","lastname":"","payment_type":"Cash","state":"","zip_code":""},"service_fee":"","store_id":"108","sub_total_price":"269.0","total_amount":"175.54","total_tax":"6.54"}
+=====================================================================
+
+=========================10:42:17===========================
+Array
+(
+    [user_id] => NTI2
+    [merchant_id] => 85
+    [Content-Type] => application/json; charset=UTF-8
+    [Content-Length] => 2153
+    [Host] => 12.201.42.18
+    [Connection] => Keep-Alive
+    [Accept-Encoding] => gzip
+    [User-Agent] => okhttp/3.4.1
+)
+{"cart_item_list":[{"category_id":"824","comment":"","ExtendedPromo":[],"free_units":"","item_tax_value":"","item_id":"4972","Offers":[],"quantity":"2","selectedSubAddonsModels":[],"selectedSubPreferencesModels":[],"size_id":"","tax":"0.0","total_price":"90.0"},{"category_id":"824","comment":"","ExtendedPromo":[],"free_units":"","item_tax_value":"","item_id":"4973","Offers":[],"quantity":"2","selectedSubAddonsModels":[],"selectedSubPreferencesModels":[],"size_id":"","tax":"0.0","total_price":"90.0"},{"category_id":"836","comment":"","ExtendedPromo":[],"free_units":"","item_tax_value":"8.5","item_id":"4974","Offers":[],"quantity":"3","selectedSubAddonsModels":[],"selectedSubPreferencesModels":[],"size_id":"334","tax":"1.275","total_price":"15.0"},{"category_id":"836","comment":"","ExtendedPromo":[],"free_units":"1","item_tax_value":"8.5","item_id":"5102","Offers":[{"Item_price":"20","category_id":"836","isSizeApplicable":true,"isUnitApplicable":true,"is_fixed_price":false,"item_id":"5102","offer_id":"116","offered_items":[{"category_id":"845","Offered_id":"153","offered_item_id":"5008","price":"12.00","size_id":"341"},{"category_id":"842","Offered_id":"154","offered_item_id":"5006","price":"10.00","size_id":"0"}],"offerprice":"","size_id":"334","unit":"2"}],"quantity":"2","selectedSubAddonsModels":[],"selectedSubPreferencesModels":[],"size_id":"334","tax":"5.27","total_price":"62.0"},{"category_id":"836","comment":"","ExtendedPromo":[],"free_units":"","item_tax_value":"","item_id":"4981","Offers":[],"quantity":"2","selectedSubAddonsModels":[],"selectedSubPreferencesModels":[{"price":"2.00","subprefernce_id":"4225"}],"size_id":"","tax":"0.0","total_price":"12.0"}],"coupon_code":"diw2016","coupon_discount":"100","delivery_fee":"0.00","extended_discount":"0.0","order_details":{"address_id":"592","date":"13-11-2016","order_type":"Delivery","time":"16:25"},"payment_method":{"address":"","card_type":"","cc_number":"","city":"","cvv":"","expiry":"","fname":"","lastname":"","payment_type":"Paypal","state":"","zip_code":""},"service_fee":"","store_id":"108","sub_total_price":"269.0","total_amount":"175.54","total_tax":"6.54"}
+=====================================================================
+
+=========================10:42:39===========================
+Array
+(
+    [Host] => 12.201.42.18
+    [Content-Type] => application/json
+    [Cookie] => CAKEPHP=ljappbbstipf7rv83jdikdpqp3
+    [User-Agent] => FoodOrder/1 CFNetwork/758.3.15 Darwin/15.6.0
+    [Connection] => keep-alive
+    [Accept] => application/json
+    [user_id] => NTI2
+    [Accept-Language] => en-us
+    [merchant_id] => 85
+    [Content-Length] => 2345
+    [Accept-Encoding] => gzip, deflate
+)
+{"cart_item_list":[{"quantity":"2","selectedSubPreferencesModels":[],"total_price":"90.0","tax":".00","category_id":"824","item_id":"4972","comment":"","selectedSubAddonsModels":[],"Offers":[],"item_tax_value":"0","free_units":"","size_id":"","ExtendedPromo":[]},{"quantity":"2","selectedSubPreferencesModels":[],"total_price":"90.0","tax":".00","category_id":"824","item_id":"4973","comment":"","selectedSubAddonsModels":[],"Offers":[],"item_tax_value":"0","free_units":"","size_id":"","ExtendedPromo":[]},{"quantity":"3","selectedSubPreferencesModels":[],"total_price":"15.0","tax":"1.28","category_id":"836","item_id":"4974","comment":"","selectedSubAddonsModels":[{"sub_addons_size_id":"0","sub_addon_id":"8055","price":"0","size_price":"0","is_defualt":1},{"sub_addons_size_id":"0","sub_addon_id":"8067","price":"0","size_price":"0","is_defualt":1}],"Offers":[],"item_tax_value":"8.5","free_units":"","size_id":"334","ExtendedPromo":[]},{"quantity":"2","selectedSubPreferencesModels":[],"total_price":"62.0","tax":"5.27","category_id":"836","item_id":"5102","comment":"","selectedSubAddonsModels":[],"Offers":[{"size_id":"334","unit":"2","isSizeApplicable":true,"category_id":"836","offer_id":"116","offerprice":"","is_fixed_price":false,"isUnitApplicable":true,"offered_items":[{"size_id":"341","offered_item_id":"5008","category_id":"845","Offered_id":"153","price":"12.00"},{"size_id":"0","offered_item_id":"5006","category_id":"842","Offered_id":"154","price":"10.00"}],"item_id":"5102","Item_price":"20"}],"item_tax_value":"8.5","free_units":"1","size_id":"334","ExtendedPromo":[]},{"quantity":"2","selectedSubPreferencesModels":[{"subprefernce_id":"4225","price":"2.00"}],"total_price":"12.0","tax":".00","category_id":"836","item_id":"4981","comment":"","selectedSubAddonsModels":[],"Offers":[],"item_tax_value":"0","free_units":"","size_id":"","ExtendedPromo":[]}],"total_amount":"155.54","sub_total_price":"269.0","service_fee":"0.00","store_id":"108","order_details":{"address_id":"592","order_type":"Delivery","time":"16:25","date":"13-11-2016"},"payment_method":{"expiry":"","address":"","payment_type":"Cash","city":"","cc_number":"","cvv":"","fname":"","lastname":"","zip_code":"","card_type":"","state":""},"total_tax":"6.54","coupon_code":"DIW2016","coupon_discount":"100.0","extended_discount":"20.0","delivery_fee":"0.00"}
+=====================================================================
+
+=========================10:42:53===========================
+Array
+(
+    [Host] => 12.201.42.18
+    [Connection] => keep-alive
+    [Content-Length] => 2153
+    [user_id] => NTc2
+    [merchant_id] => 85
+    [Cache-Control] => no-cache
+    [Origin] => chrome-extension://fhbjgbiflinjbdggehcddcbncdddomop
+    [Content-Type] => text/plain;charset=UTF-8
+    [User-Agent] => Mozilla/5.0 (X11; Linux i686) AppleWebKit/537.36 (KHTML, like Gecko) Ubuntu Chromium/45.0.2454.101 Chrome/45.0.2454.101 Safari/537.36
+    [Postman-Token] => 262ca87b-115a-3f06-bd5a-0a020cf44b99
+    [Accept] => */*
+    [Accept-Encoding] => gzip, deflate
+    [Accept-Language] => en-US,en;q=0.8
+    [Cookie] => CAKEPHP=b7rmsl51oru2ouk3h3ds9a6bi6
+)
+{"cart_item_list":[{"category_id":"824","comment":"","ExtendedPromo":[],"free_units":"","item_tax_value":"","item_id":"4972","Offers":[],"quantity":"2","selectedSubAddonsModels":[],"selectedSubPreferencesModels":[],"size_id":"","tax":"0.0","total_price":"90.0"},{"category_id":"824","comment":"","ExtendedPromo":[],"free_units":"","item_tax_value":"","item_id":"4973","Offers":[],"quantity":"2","selectedSubAddonsModels":[],"selectedSubPreferencesModels":[],"size_id":"","tax":"0.0","total_price":"90.0"},{"category_id":"836","comment":"","ExtendedPromo":[],"free_units":"","item_tax_value":"8.5","item_id":"4974","Offers":[],"quantity":"3","selectedSubAddonsModels":[],"selectedSubPreferencesModels":[],"size_id":"334","tax":"1.275","total_price":"15.0"},{"category_id":"836","comment":"","ExtendedPromo":[],"free_units":"1","item_tax_value":"8.5","item_id":"5102","Offers":[{"Item_price":"20","category_id":"836","isSizeApplicable":true,"isUnitApplicable":true,"is_fixed_price":false,"item_id":"5102","offer_id":"116","offered_items":[{"category_id":"845","Offered_id":"153","offered_item_id":"5008","price":"12.00","size_id":"341"},{"category_id":"842","Offered_id":"154","offered_item_id":"5006","price":"10.00","size_id":"0"}],"offerprice":"","size_id":"334","unit":"2"}],"quantity":"2","selectedSubAddonsModels":[],"selectedSubPreferencesModels":[],"size_id":"334","tax":"5.27","total_price":"62.0"},{"category_id":"836","comment":"","ExtendedPromo":[],"free_units":"","item_tax_value":"","item_id":"4981","Offers":[],"quantity":"2","selectedSubAddonsModels":[],"selectedSubPreferencesModels":[{"price":"2.00","subprefernce_id":"4225"}],"size_id":"","tax":"0.0","total_price":"12.0"}],"coupon_code":"diw2016","coupon_discount":"100","delivery_fee":"0.00","extended_discount":"0.0","order_details":{"address_id":"592","date":"13-11-2016","order_type":"Delivery","time":"16:25"},"payment_method":{"address":"","card_type":"","cc_number":"","city":"","cvv":"","expiry":"","fname":"","lastname":"","payment_type":"Paypal","state":"","zip_code":""},"service_fee":"","store_id":"108","sub_total_price":"269.0","total_amount":"175.54","total_tax":"6.54"}
+=====================================================================
+
+=========================10:46:29===========================
+Array
+(
+    [Host] => 12.201.42.18
+    [Connection] => keep-alive
+    [Content-Length] => 2153
+    [user_id] => NTc2
+    [merchant_id] => 85
+    [Cache-Control] => no-cache
+    [Origin] => chrome-extension://fhbjgbiflinjbdggehcddcbncdddomop
+    [Content-Type] => text/plain;charset=UTF-8
+    [User-Agent] => Mozilla/5.0 (X11; Linux i686) AppleWebKit/537.36 (KHTML, like Gecko) Ubuntu Chromium/45.0.2454.101 Chrome/45.0.2454.101 Safari/537.36
+    [Postman-Token] => 7ea9e09a-c104-4582-9ef6-a4d3b06596be
+    [Accept] => */*
+    [Accept-Encoding] => gzip, deflate
+    [Accept-Language] => en-US,en;q=0.8
+    [Cookie] => CAKEPHP=b7rmsl51oru2ouk3h3ds9a6bi6
+)
+{"cart_item_list":[{"category_id":"824","comment":"","ExtendedPromo":[],"free_units":"","item_tax_value":"","item_id":"4972","Offers":[],"quantity":"2","selectedSubAddonsModels":[],"selectedSubPreferencesModels":[],"size_id":"","tax":"0.0","total_price":"90.0"},{"category_id":"824","comment":"","ExtendedPromo":[],"free_units":"","item_tax_value":"","item_id":"4973","Offers":[],"quantity":"2","selectedSubAddonsModels":[],"selectedSubPreferencesModels":[],"size_id":"","tax":"0.0","total_price":"90.0"},{"category_id":"836","comment":"","ExtendedPromo":[],"free_units":"","item_tax_value":"8.5","item_id":"4974","Offers":[],"quantity":"3","selectedSubAddonsModels":[],"selectedSubPreferencesModels":[],"size_id":"334","tax":"1.275","total_price":"15.0"},{"category_id":"836","comment":"","ExtendedPromo":[],"free_units":"1","item_tax_value":"8.5","item_id":"5102","Offers":[{"Item_price":"20","category_id":"836","isSizeApplicable":true,"isUnitApplicable":true,"is_fixed_price":false,"item_id":"5102","offer_id":"116","offered_items":[{"category_id":"845","Offered_id":"153","offered_item_id":"5008","price":"12.00","size_id":"341"},{"category_id":"842","Offered_id":"154","offered_item_id":"5006","price":"10.00","size_id":"0"}],"offerprice":"","size_id":"334","unit":"2"}],"quantity":"2","selectedSubAddonsModels":[],"selectedSubPreferencesModels":[],"size_id":"334","tax":"5.27","total_price":"62.0"},{"category_id":"836","comment":"","ExtendedPromo":[],"free_units":"","item_tax_value":"","item_id":"4981","Offers":[],"quantity":"2","selectedSubAddonsModels":[],"selectedSubPreferencesModels":[{"price":"2.00","subprefernce_id":"4225"}],"size_id":"","tax":"0.0","total_price":"12.0"}],"coupon_code":"diw2016","coupon_discount":"100","delivery_fee":"0.00","extended_discount":"0.0","order_details":{"address_id":"592","date":"13-11-2016","order_type":"Delivery","time":"16:25"},"payment_method":{"address":"","card_type":"","cc_number":"","city":"","cvv":"","expiry":"","fname":"","lastname":"","payment_type":"Paypal","state":"","zip_code":""},"service_fee":"","store_id":"108","sub_total_price":"269.0","total_amount":"175.54","total_tax":"6.54"}
+=====================================================================
+
+=========================11:12:09===========================
+Array
+(
+    [Host] => 12.201.42.18
+    [Connection] => keep-alive
+    [Content-Length] => 2152
+    [user_id] => NTc2
+    [merchant_id] => 85
+    [Cache-Control] => no-cache
+    [Origin] => chrome-extension://fhbjgbiflinjbdggehcddcbncdddomop
+    [Content-Type] => text/plain;charset=UTF-8
+    [User-Agent] => Mozilla/5.0 (X11; Linux i686) AppleWebKit/537.36 (KHTML, like Gecko) Ubuntu Chromium/45.0.2454.101 Chrome/45.0.2454.101 Safari/537.36
+    [Postman-Token] => 3afd9a33-4424-49e4-2ab7-78f64974691f
+    [Accept] => */*
+    [Accept-Encoding] => gzip, deflate
+    [Accept-Language] => en-US,en;q=0.8
+    [Cookie] => CAKEPHP=2u5g80gki9m9qelnpmrfa37oi7
+)
+{"cart_item_list":[{"category_id":"824","comment":"","ExtendedPromo":[],"free_units":"","item_tax_value":"","item_id":"4972","Offers":[],"quantity":"2","selectedSubAddonsModels":[],"selectedSubPreferencesModels":[],"size_id":"","tax":"0.0","total_price":"90.0"},{"category_id":"824","comment":"","ExtendedPromo":[],"free_units":"","item_tax_value":"","item_id":"4973","Offers":[],"quantity":"2","selectedSubAddonsModels":[],"selectedSubPreferencesModels":[],"size_id":"","tax":"0.0","total_price":"90.0"},{"category_id":"836","comment":"","ExtendedPromo":[],"free_units":"","item_tax_value":"8.5","item_id":"4974","Offers":[],"quantity":"3","selectedSubAddonsModels":[],"selectedSubPreferencesModels":[],"size_id":"334","tax":"1.275","total_price":"15.0"},{"category_id":"836","comment":"","ExtendedPromo":[],"free_units":"1","item_tax_value":"8.5","item_id":"5102","Offers":[{"Item_price":"20","category_id":"836","isSizeApplicable":true,"isUnitApplicable":true,"is_fixed_price":false,"item_id":"5102","offer_id":"116","offered_items":[{"category_id":"845","Offered_id":"153","offered_item_id":"5008","price":"12.00","size_id":"341"},{"category_id":"842","Offered_id":"154","offered_item_id":"5006","price":"10.00","size_id":"0"}],"offerprice":"","size_id":"334","unit":"2"}],"quantity":"2","selectedSubAddonsModels":[],"selectedSubPreferencesModels":[],"size_id":"334","tax":"5.27","total_price":"62.0"},{"category_id":"836","comment":"","ExtendedPromo":[],"free_units":"","item_tax_value":"","item_id":"4981","Offers":[],"quantity":"2","selectedSubAddonsModels":[],"selectedSubPreferencesModels":[{"price":"2.00","subprefernce_id":"4225"}],"size_id":"","tax":"0.0","total_price":"12.0"}],"coupon_code":"920810","coupon_discount":"100","delivery_fee":"0.00","extended_discount":"0.0","order_details":{"address_id":"592","date":"13-11-2016","order_type":"Delivery","time":"16:25"},"payment_method":{"address":"","card_type":"","cc_number":"","city":"","cvv":"","expiry":"","fname":"","lastname":"","payment_type":"Paypal","state":"","zip_code":""},"service_fee":"","store_id":"108","sub_total_price":"269.0","total_amount":"175.54","total_tax":"6.54"}
+=====================================================================
+
+=========================11:18:43===========================
+Array
+(
+    [Host] => 12.201.42.18
+    [Connection] => keep-alive
+    [Content-Length] => 2152
+    [user_id] => NTc2
+    [merchant_id] => 85
+    [Cache-Control] => no-cache
+    [Origin] => chrome-extension://fhbjgbiflinjbdggehcddcbncdddomop
+    [Content-Type] => text/plain;charset=UTF-8
+    [User-Agent] => Mozilla/5.0 (X11; Linux i686) AppleWebKit/537.36 (KHTML, like Gecko) Ubuntu Chromium/45.0.2454.101 Chrome/45.0.2454.101 Safari/537.36
+    [Postman-Token] => dd42379b-8379-a34a-89f7-ff0e91f8cebb
+    [Accept] => */*
+    [Accept-Encoding] => gzip, deflate
+    [Accept-Language] => en-US,en;q=0.8
+    [Cookie] => CAKEPHP=2u5g80gki9m9qelnpmrfa37oi7
+)
+{"cart_item_list":[{"category_id":"824","comment":"","ExtendedPromo":[],"free_units":"","item_tax_value":"","item_id":"4972","Offers":[],"quantity":"2","selectedSubAddonsModels":[],"selectedSubPreferencesModels":[],"size_id":"","tax":"0.0","total_price":"90.0"},{"category_id":"824","comment":"","ExtendedPromo":[],"free_units":"","item_tax_value":"","item_id":"4973","Offers":[],"quantity":"2","selectedSubAddonsModels":[],"selectedSubPreferencesModels":[],"size_id":"","tax":"0.0","total_price":"90.0"},{"category_id":"836","comment":"","ExtendedPromo":[],"free_units":"","item_tax_value":"8.5","item_id":"4974","Offers":[],"quantity":"3","selectedSubAddonsModels":[],"selectedSubPreferencesModels":[],"size_id":"334","tax":"1.275","total_price":"15.0"},{"category_id":"836","comment":"","ExtendedPromo":[],"free_units":"1","item_tax_value":"8.5","item_id":"5102","Offers":[{"Item_price":"20","category_id":"836","isSizeApplicable":true,"isUnitApplicable":true,"is_fixed_price":false,"item_id":"5102","offer_id":"116","offered_items":[{"category_id":"845","Offered_id":"153","offered_item_id":"5008","price":"12.00","size_id":"341"},{"category_id":"842","Offered_id":"154","offered_item_id":"5006","price":"10.00","size_id":"0"}],"offerprice":"","size_id":"334","unit":"2"}],"quantity":"2","selectedSubAddonsModels":[],"selectedSubPreferencesModels":[],"size_id":"334","tax":"5.27","total_price":"62.0"},{"category_id":"836","comment":"","ExtendedPromo":[],"free_units":"","item_tax_value":"","item_id":"4981","Offers":[],"quantity":"2","selectedSubAddonsModels":[],"selectedSubPreferencesModels":[{"price":"2.00","subprefernce_id":"4225"}],"size_id":"","tax":"0.0","total_price":"12.0"}],"coupon_code":"920810","coupon_discount":"100","delivery_fee":"0.00","extended_discount":"0.0","order_details":{"address_id":"592","date":"13-11-2016","order_type":"Delivery","time":"16:25"},"payment_method":{"address":"","card_type":"","cc_number":"","city":"","cvv":"","expiry":"","fname":"","lastname":"","payment_type":"Paypal","state":"","zip_code":""},"service_fee":"","store_id":"108","sub_total_price":"269.0","total_amount":"175.54","total_tax":"6.54"}
+=====================================================================
+
+=========================11:19:12===========================
+Array
+(
+    [Host] => 12.201.42.18
+    [Connection] => keep-alive
+    [Content-Length] => 2152
+    [user_id] => NTc2
+    [merchant_id] => 85
+    [Cache-Control] => no-cache
+    [Origin] => chrome-extension://fhbjgbiflinjbdggehcddcbncdddomop
+    [Content-Type] => text/plain;charset=UTF-8
+    [User-Agent] => Mozilla/5.0 (X11; Linux i686) AppleWebKit/537.36 (KHTML, like Gecko) Ubuntu Chromium/45.0.2454.101 Chrome/45.0.2454.101 Safari/537.36
+    [Postman-Token] => 407de408-3d2d-d612-f890-68c4e09abafe
+    [Accept] => */*
+    [Accept-Encoding] => gzip, deflate
+    [Accept-Language] => en-US,en;q=0.8
+    [Cookie] => CAKEPHP=2u5g80gki9m9qelnpmrfa37oi7
+)
+{"cart_item_list":[{"category_id":"824","comment":"","ExtendedPromo":[],"free_units":"","item_tax_value":"","item_id":"4972","Offers":[],"quantity":"2","selectedSubAddonsModels":[],"selectedSubPreferencesModels":[],"size_id":"","tax":"0.0","total_price":"90.0"},{"category_id":"824","comment":"","ExtendedPromo":[],"free_units":"","item_tax_value":"","item_id":"4973","Offers":[],"quantity":"2","selectedSubAddonsModels":[],"selectedSubPreferencesModels":[],"size_id":"","tax":"0.0","total_price":"90.0"},{"category_id":"836","comment":"","ExtendedPromo":[],"free_units":"","item_tax_value":"8.5","item_id":"4974","Offers":[],"quantity":"3","selectedSubAddonsModels":[],"selectedSubPreferencesModels":[],"size_id":"334","tax":"1.275","total_price":"15.0"},{"category_id":"836","comment":"","ExtendedPromo":[],"free_units":"1","item_tax_value":"8.5","item_id":"5102","Offers":[{"Item_price":"20","category_id":"836","isSizeApplicable":true,"isUnitApplicable":true,"is_fixed_price":false,"item_id":"5102","offer_id":"116","offered_items":[{"category_id":"845","Offered_id":"153","offered_item_id":"5008","price":"12.00","size_id":"341"},{"category_id":"842","Offered_id":"154","offered_item_id":"5006","price":"10.00","size_id":"0"}],"offerprice":"","size_id":"334","unit":"2"}],"quantity":"2","selectedSubAddonsModels":[],"selectedSubPreferencesModels":[],"size_id":"334","tax":"5.27","total_price":"62.0"},{"category_id":"836","comment":"","ExtendedPromo":[],"free_units":"","item_tax_value":"","item_id":"4981","Offers":[],"quantity":"2","selectedSubAddonsModels":[],"selectedSubPreferencesModels":[{"price":"2.00","subprefernce_id":"4225"}],"size_id":"","tax":"0.0","total_price":"12.0"}],"coupon_code":"920810","coupon_discount":"100","delivery_fee":"0.00","extended_discount":"0.0","order_details":{"address_id":"592","date":"13-11-2016","order_type":"Delivery","time":"16:25"},"payment_method":{"address":"","card_type":"","cc_number":"","city":"","cvv":"","expiry":"","fname":"","lastname":"","payment_type":"Paypal","state":"","zip_code":""},"service_fee":"","store_id":"108","sub_total_price":"269.0","total_amount":"175.54","total_tax":"6.54"}
+=====================================================================
+
+=========================11:19:36===========================
+Array
+(
+    [Host] => 12.201.42.18
+    [Connection] => keep-alive
+    [Content-Length] => 2152
+    [user_id] => NTc2
+    [merchant_id] => 85
+    [Cache-Control] => no-cache
+    [Origin] => chrome-extension://fhbjgbiflinjbdggehcddcbncdddomop
+    [Content-Type] => text/plain;charset=UTF-8
+    [User-Agent] => Mozilla/5.0 (X11; Linux i686) AppleWebKit/537.36 (KHTML, like Gecko) Ubuntu Chromium/45.0.2454.101 Chrome/45.0.2454.101 Safari/537.36
+    [Postman-Token] => 76bde356-539e-606f-e0b3-9971125f0909
+    [Accept] => */*
+    [Accept-Encoding] => gzip, deflate
+    [Accept-Language] => en-US,en;q=0.8
+    [Cookie] => CAKEPHP=2u5g80gki9m9qelnpmrfa37oi7
+)
+{"cart_item_list":[{"category_id":"824","comment":"","ExtendedPromo":[],"free_units":"","item_tax_value":"","item_id":"4972","Offers":[],"quantity":"2","selectedSubAddonsModels":[],"selectedSubPreferencesModels":[],"size_id":"","tax":"0.0","total_price":"90.0"},{"category_id":"824","comment":"","ExtendedPromo":[],"free_units":"","item_tax_value":"","item_id":"4973","Offers":[],"quantity":"2","selectedSubAddonsModels":[],"selectedSubPreferencesModels":[],"size_id":"","tax":"0.0","total_price":"90.0"},{"category_id":"836","comment":"","ExtendedPromo":[],"free_units":"","item_tax_value":"8.5","item_id":"4974","Offers":[],"quantity":"3","selectedSubAddonsModels":[],"selectedSubPreferencesModels":[],"size_id":"334","tax":"1.275","total_price":"15.0"},{"category_id":"836","comment":"","ExtendedPromo":[],"free_units":"1","item_tax_value":"8.5","item_id":"5102","Offers":[{"Item_price":"20","category_id":"836","isSizeApplicable":true,"isUnitApplicable":true,"is_fixed_price":false,"item_id":"5102","offer_id":"116","offered_items":[{"category_id":"845","Offered_id":"153","offered_item_id":"5008","price":"12.00","size_id":"341"},{"category_id":"842","Offered_id":"154","offered_item_id":"5006","price":"10.00","size_id":"0"}],"offerprice":"","size_id":"334","unit":"2"}],"quantity":"2","selectedSubAddonsModels":[],"selectedSubPreferencesModels":[],"size_id":"334","tax":"5.27","total_price":"62.0"},{"category_id":"836","comment":"","ExtendedPromo":[],"free_units":"","item_tax_value":"","item_id":"4981","Offers":[],"quantity":"2","selectedSubAddonsModels":[],"selectedSubPreferencesModels":[{"price":"2.00","subprefernce_id":"4225"}],"size_id":"","tax":"0.0","total_price":"12.0"}],"coupon_code":"920810","coupon_discount":"100","delivery_fee":"0.00","extended_discount":"0.0","order_details":{"address_id":"592","date":"13-11-2016","order_type":"Delivery","time":"16:25"},"payment_method":{"address":"","card_type":"","cc_number":"","city":"","cvv":"","expiry":"","fname":"","lastname":"","payment_type":"Paypal","state":"","zip_code":""},"service_fee":"","store_id":"108","sub_total_price":"269.0","total_amount":"175.54","total_tax":"6.54"}
+=====================================================================
+
+=========================11:20:47===========================
+Array
+(
+    [Host] => 12.201.42.18
+    [Connection] => keep-alive
+    [Content-Length] => 2152
+    [user_id] => NTI2
+    [merchant_id] => 85
+    [Cache-Control] => no-cache
+    [Origin] => chrome-extension://fhbjgbiflinjbdggehcddcbncdddomop
+    [Content-Type] => text/plain;charset=UTF-8
+    [User-Agent] => Mozilla/5.0 (X11; Linux i686) AppleWebKit/537.36 (KHTML, like Gecko) Ubuntu Chromium/45.0.2454.101 Chrome/45.0.2454.101 Safari/537.36
+    [Postman-Token] => 17780b0c-0d9d-ca80-06be-115a1287e4c8
+    [Accept] => */*
+    [Accept-Encoding] => gzip, deflate
+    [Accept-Language] => en-US,en;q=0.8
+    [Cookie] => CAKEPHP=2u5g80gki9m9qelnpmrfa37oi7
+)
+{"cart_item_list":[{"category_id":"824","comment":"","ExtendedPromo":[],"free_units":"","item_tax_value":"","item_id":"4972","Offers":[],"quantity":"2","selectedSubAddonsModels":[],"selectedSubPreferencesModels":[],"size_id":"","tax":"0.0","total_price":"90.0"},{"category_id":"824","comment":"","ExtendedPromo":[],"free_units":"","item_tax_value":"","item_id":"4973","Offers":[],"quantity":"2","selectedSubAddonsModels":[],"selectedSubPreferencesModels":[],"size_id":"","tax":"0.0","total_price":"90.0"},{"category_id":"836","comment":"","ExtendedPromo":[],"free_units":"","item_tax_value":"8.5","item_id":"4974","Offers":[],"quantity":"3","selectedSubAddonsModels":[],"selectedSubPreferencesModels":[],"size_id":"334","tax":"1.275","total_price":"15.0"},{"category_id":"836","comment":"","ExtendedPromo":[],"free_units":"1","item_tax_value":"8.5","item_id":"5102","Offers":[{"Item_price":"20","category_id":"836","isSizeApplicable":true,"isUnitApplicable":true,"is_fixed_price":false,"item_id":"5102","offer_id":"116","offered_items":[{"category_id":"845","Offered_id":"153","offered_item_id":"5008","price":"12.00","size_id":"341"},{"category_id":"842","Offered_id":"154","offered_item_id":"5006","price":"10.00","size_id":"0"}],"offerprice":"","size_id":"334","unit":"2"}],"quantity":"2","selectedSubAddonsModels":[],"selectedSubPreferencesModels":[],"size_id":"334","tax":"5.27","total_price":"62.0"},{"category_id":"836","comment":"","ExtendedPromo":[],"free_units":"","item_tax_value":"","item_id":"4981","Offers":[],"quantity":"2","selectedSubAddonsModels":[],"selectedSubPreferencesModels":[{"price":"2.00","subprefernce_id":"4225"}],"size_id":"","tax":"0.0","total_price":"12.0"}],"coupon_code":"920810","coupon_discount":"100","delivery_fee":"0.00","extended_discount":"0.0","order_details":{"address_id":"592","date":"13-11-2016","order_type":"Delivery","time":"16:25"},"payment_method":{"address":"","card_type":"","cc_number":"","city":"","cvv":"","expiry":"","fname":"","lastname":"","payment_type":"Paypal","state":"","zip_code":""},"service_fee":"","store_id":"108","sub_total_price":"269.0","total_amount":"175.54","total_tax":"6.54"}
+=====================================================================
+
+=========================11:33:16===========================
+Array
+(
+    [Host] => 12.201.42.18
+    [Connection] => keep-alive
+    [Content-Length] => 2152
+    [user_id] => NTI2
+    [merchant_id] => 85
+    [Cache-Control] => no-cache
+    [Origin] => chrome-extension://fhbjgbiflinjbdggehcddcbncdddomop
+    [Content-Type] => text/plain;charset=UTF-8
+    [User-Agent] => Mozilla/5.0 (X11; Linux i686) AppleWebKit/537.36 (KHTML, like Gecko) Ubuntu Chromium/45.0.2454.101 Chrome/45.0.2454.101 Safari/537.36
+    [Postman-Token] => d2611de5-b047-30bb-42d9-1ca6c5b84cf1
+    [Accept] => */*
+    [Accept-Encoding] => gzip, deflate
+    [Accept-Language] => en-US,en;q=0.8
+    [Cookie] => CAKEPHP=2u5g80gki9m9qelnpmrfa37oi7
+)
+{"cart_item_list":[{"category_id":"824","comment":"","ExtendedPromo":[],"free_units":"","item_tax_value":"","item_id":"4972","Offers":[],"quantity":"2","selectedSubAddonsModels":[],"selectedSubPreferencesModels":[],"size_id":"","tax":"0.0","total_price":"90.0"},{"category_id":"824","comment":"","ExtendedPromo":[],"free_units":"","item_tax_value":"","item_id":"4973","Offers":[],"quantity":"2","selectedSubAddonsModels":[],"selectedSubPreferencesModels":[],"size_id":"","tax":"0.0","total_price":"90.0"},{"category_id":"836","comment":"","ExtendedPromo":[],"free_units":"","item_tax_value":"8.5","item_id":"4974","Offers":[],"quantity":"3","selectedSubAddonsModels":[],"selectedSubPreferencesModels":[],"size_id":"334","tax":"1.275","total_price":"15.0"},{"category_id":"836","comment":"","ExtendedPromo":[],"free_units":"1","item_tax_value":"8.5","item_id":"5102","Offers":[{"Item_price":"20","category_id":"836","isSizeApplicable":true,"isUnitApplicable":true,"is_fixed_price":false,"item_id":"5102","offer_id":"116","offered_items":[{"category_id":"845","Offered_id":"153","offered_item_id":"5008","price":"12.00","size_id":"341"},{"category_id":"842","Offered_id":"154","offered_item_id":"5006","price":"10.00","size_id":"0"}],"offerprice":"","size_id":"334","unit":"2"}],"quantity":"2","selectedSubAddonsModels":[],"selectedSubPreferencesModels":[],"size_id":"334","tax":"5.27","total_price":"62.0"},{"category_id":"836","comment":"","ExtendedPromo":[],"free_units":"","item_tax_value":"","item_id":"4981","Offers":[],"quantity":"2","selectedSubAddonsModels":[],"selectedSubPreferencesModels":[{"price":"2.00","subprefernce_id":"4225"}],"size_id":"","tax":"0.0","total_price":"12.0"}],"coupon_code":"920810","coupon_discount":"100","delivery_fee":"0.00","extended_discount":"0.0","order_details":{"address_id":"592","date":"13-11-2016","order_type":"Delivery","time":"16:25"},"payment_method":{"address":"","card_type":"","cc_number":"","city":"","cvv":"","expiry":"","fname":"","lastname":"","payment_type":"Paypal","state":"","zip_code":""},"service_fee":"","store_id":"108","sub_total_price":"269.0","total_amount":"175.54","total_tax":"6.54"}
+=====================================================================
+
+=========================12:19:40===========================
+Array
+(
+    [Host] => 12.201.42.18
+    [Content-Type] => application/json
+    [Cookie] => CAKEPHP=ljappbbstipf7rv83jdikdpqp3
+    [User-Agent] => FoodOrder/1 CFNetwork/758.3.15 Darwin/15.6.0
+    [Connection] => keep-alive
+    [Accept] => application/json
+    [user_id] => NTI2
+    [Accept-Language] => en-us
+    [merchant_id] => 85
+    [Content-Length] => 1424
+    [Accept-Encoding] => gzip, deflate
+)
+{"cart_item_list":[{"quantity":"1","selectedSubPreferencesModels":[],"total_price":"45.0","tax":".00","category_id":"824","item_id":"4972","comment":"","selectedSubAddonsModels":[],"Offers":[],"item_tax_value":"0","free_units":"","size_id":"","ExtendedPromo":[]},{"quantity":"3","selectedSubPreferencesModels":[],"total_price":"82.0","tax":"6.97","category_id":"836","item_id":"5102","comment":"","selectedSubAddonsModels":[],"Offers":[{"size_id":"334","unit":"2","isSizeApplicable":true,"category_id":"836","offer_id":"116","offerprice":"","is_fixed_price":false,"isUnitApplicable":true,"offered_items":[{"size_id":"341","offered_item_id":"5008","category_id":"845","Offered_id":"153","price":"12.00"},{"size_id":"0","offered_item_id":"5006","category_id":"842","Offered_id":"154","price":"10.00"}],"item_id":"5102","Item_price":"20"}],"item_tax_value":"8.5","free_units":"1","size_id":"334","ExtendedPromo":[{"item_id":"5102","promo_id":"43","unit":"3"}]}],"total_amount":"102.57","sub_total_price":"127.0","service_fee":"0.00","store_id":"108","order_details":{"address_id":"592","order_type":"Delivery","time":"10:05","date":"13-11-2016"},"payment_method":{"expiry":"","address":"","payment_type":"Cash","city":"","cc_number":"","cvv":"","fname":"","lastname":"","zip_code":"","card_type":"","state":""},"total_tax":"6.97","coupon_code":"NY2016","coupon_discount":"11.4","extended_discount":"20.0","delivery_fee":"0.00"}
+=====================================================================
+
+=========================13:06:00===========================
+Array
+(
+    [Host] => 12.201.42.18
+    [Content-Type] => application/json
+    [Cookie] => CAKEPHP=f92udgcq3ltkm2cvkhvuluuqn7
+    [User-Agent] => FoodOrder/1 CFNetwork/808.0.2 Darwin/16.0.0
+    [Connection] => keep-alive
+    [Accept] => application/json
+    [user_id] => NTI2
+    [Accept-Language] => en-us
+    [merchant_id] => 85
+    [Content-Length] => 1850
+    [Accept-Encoding] => gzip, deflate
+)
+{"cart_item_list":[{"quantity":"2","selectedSubPreferencesModels":[],"total_price":"2.0","tax":".17","category_id":"824","item_id":"5110","comment":"","selectedSubAddonsModels":[],"Offers":[],"item_tax_value":"8.5","free_units":"","size_id":"","ExtendedPromo":[]},{"quantity":"2","selectedSubPreferencesModels":[],"total_price":"10.0","tax":".85","category_id":"836","item_id":"4974","comment":"","selectedSubAddonsModels":[{"sub_addons_size_id":"0","sub_addon_id":"8055","price":"0","size_price":"0","is_defualt":1},{"sub_addons_size_id":"0","sub_addon_id":"8067","price":"0","size_price":"0","is_defualt":1}],"Offers":[],"item_tax_value":"8.5","free_units":"","size_id":"334","ExtendedPromo":[]},{"quantity":"3","selectedSubPreferencesModels":[],"total_price":"82.0","tax":"6.97","category_id":"836","item_id":"5102","comment":"","selectedSubAddonsModels":[],"Offers":[{"size_id":"334","unit":"2","isSizeApplicable":true,"category_id":"836","offer_id":"116","offerprice":"","is_fixed_price":false,"isUnitApplicable":true,"offered_items":[{"size_id":"341","offered_item_id":"5008","category_id":"845","Offered_id":"153","price":"12.00"},{"size_id":"0","offered_item_id":"5006","category_id":"842","Offered_id":"154","price":"10.00"}],"item_id":"5102","Item_price":"20"}],"item_tax_value":"8.5","free_units":"1","size_id":"334","ExtendedPromo":[{"item_id":"5102","promo_id":"43","unit":"3"}]}],"total_amount":"81.99","sub_total_price":"94.0","service_fee":"0.00","store_id":"108","order_details":{"address_id":"592","order_type":"Delivery","time":"11:15","date":"13-11-2016"},"payment_method":{"expiry":"","address":"","payment_type":"Cash","city":"","cc_number":"","cvv":"","fname":"","lastname":"","zip_code":"","card_type":"","state":""},"total_tax":"7.99","coupon_code":"","coupon_discount":"0.0","extended_discount":"20.0","delivery_fee":"0.00"}
+=====================================================================

@@ -1,0 +1,169 @@
+
+=========================06:04:01===========================
+Array
+(
+    [Host] => 12.201.42.18
+    [Connection] => keep-alive
+    [Content-Length] => 0
+    [user_id] => NTI2
+    [merchant_id] => 85
+    [Cache-Control] => no-cache
+    [Origin] => chrome-extension://fhbjgbiflinjbdggehcddcbncdddomop
+    [User-Agent] => Mozilla/5.0 (X11; Linux i686) AppleWebKit/537.36 (KHTML, like Gecko) Ubuntu Chromium/45.0.2454.101 Chrome/45.0.2454.101 Safari/537.36
+    [Postman-Token] => e9e1193e-0cfc-833a-427e-2a3e2cefb451
+    [Accept] => */*
+    [Accept-Encoding] => gzip, deflate
+    [Accept-Language] => en-US,en;q=0.8
+    [Cookie] => CAKEPHP=4hepnvn3q62kdo8qqujv60n4e5
+)
+
+=====================================================================
+
+=========================06:06:01===========================
+Array
+(
+    [Host] => 12.201.42.18
+    [Connection] => keep-alive
+    [Content-Length] => 0
+    [user_id] => NTI2
+    [merchant_id] => 85
+    [Cache-Control] => no-cache
+    [Origin] => chrome-extension://fhbjgbiflinjbdggehcddcbncdddomop
+    [User-Agent] => Mozilla/5.0 (X11; Linux i686) AppleWebKit/537.36 (KHTML, like Gecko) Ubuntu Chromium/45.0.2454.101 Chrome/45.0.2454.101 Safari/537.36
+    [Postman-Token] => c079eb36-0a27-4778-885b-8cc3f34dbfcf
+    [Accept] => */*
+    [Accept-Encoding] => gzip, deflate
+    [Accept-Language] => en-US,en;q=0.8
+    [Cookie] => CAKEPHP=4hepnvn3q62kdo8qqujv60n4e5
+)
+
+=====================================================================
+
+=========================06:20:37===========================
+Array
+(
+    [user_id] => NTI2
+    [merchant_id] => 85
+    [Host] => 12.201.42.18
+    [Connection] => Keep-Alive
+    [Accept-Encoding] => gzip
+    [User-Agent] => okhttp/3.4.1
+)
+
+=====================================================================
+
+=========================06:20:52===========================
+Array
+(
+    [user_id] => NTI2
+    [merchant_id] => 85
+    [Host] => 12.201.42.18
+    [Connection] => Keep-Alive
+    [Accept-Encoding] => gzip
+    [User-Agent] => okhttp/3.4.1
+)
+
+=====================================================================
+
+=========================09:29:21===========================
+Array
+(
+    [Host] => 12.201.42.18
+    [Accept] => */*
+    [Connection] => keep-alive
+    [Cookie] => CAKEPHP=5lp3tbibhmurffsipuh2icto93
+    [user_id] => NTI2
+    [merchant_id] => 85
+    [Accept-Language] => en-us
+    [Accept-Encoding] => gzip, deflate
+    [User-Agent] => FoodOrder/1 CFNetwork/758.3.15 Darwin/15.6.0
+)
+
+=====================================================================
+
+=========================09:30:40===========================
+Array
+(
+    [Host] => 12.201.42.18
+    [Accept] => */*
+    [Connection] => keep-alive
+    [Cookie] => CAKEPHP=5lp3tbibhmurffsipuh2icto93
+    [user_id] => NTI2
+    [merchant_id] => 85
+    [Accept-Language] => en-us
+    [Accept-Encoding] => gzip, deflate
+    [User-Agent] => FoodOrder/1 CFNetwork/758.3.15 Darwin/15.6.0
+)
+
+=====================================================================
+
+=========================09:49:20===========================
+Array
+(
+    [Host] => 12.201.42.18
+    [Connection] => keep-alive
+    [Content-Length] => 42
+    [user_id] => NTI2
+    [merchant_id] => 85
+    [Cache-Control] => no-cache
+    [Origin] => chrome-extension://fhbjgbiflinjbdggehcddcbncdddomop
+    [Content-Type] => text/plain;charset=UTF-8
+    [User-Agent] => Mozilla/5.0 (X11; Linux i686) AppleWebKit/537.36 (KHTML, like Gecko) Ubuntu Chromium/45.0.2454.101 Chrome/45.0.2454.101 Safari/537.36
+    [Postman-Token] => a3cc32d3-b5ba-ffe7-5140-afe7d59ca16c
+    [Accept] => */*
+    [Accept-Encoding] => gzip, deflate
+    [Accept-Language] => en-US,en;q=0.8
+    [Cookie] => CAKEPHP=b7rmsl51oru2ouk3h3ds9a6bi6
+)
+{"store_id":"108","order_type":"carryout"}
+=====================================================================
+
+=========================11:38:21===========================
+Array
+(
+    [Host] => 12.201.42.18
+    [Connection] => keep-alive
+    [Content-Length] => 2152
+    [user_id] => NTI2
+    [merchant_id] => 85
+    [Cache-Control] => no-cache
+    [Origin] => chrome-extension://fhbjgbiflinjbdggehcddcbncdddomop
+    [Content-Type] => text/plain;charset=UTF-8
+    [User-Agent] => Mozilla/5.0 (X11; Linux i686) AppleWebKit/537.36 (KHTML, like Gecko) Ubuntu Chromium/45.0.2454.101 Chrome/45.0.2454.101 Safari/537.36
+    [Postman-Token] => 5472a4e6-d60f-41cf-1bd6-8c0f501aadb4
+    [Accept] => */*
+    [Accept-Encoding] => gzip, deflate
+    [Accept-Language] => en-US,en;q=0.8
+    [Cookie] => CAKEPHP=2u5g80gki9m9qelnpmrfa37oi7
+)
+{"cart_item_list":[{"category_id":"824","comment":"","ExtendedPromo":[],"free_units":"","item_tax_value":"","item_id":"4972","Offers":[],"quantity":"2","selectedSubAddonsModels":[],"selectedSubPreferencesModels":[],"size_id":"","tax":"0.0","total_price":"90.0"},{"category_id":"824","comment":"","ExtendedPromo":[],"free_units":"","item_tax_value":"","item_id":"4973","Offers":[],"quantity":"2","selectedSubAddonsModels":[],"selectedSubPreferencesModels":[],"size_id":"","tax":"0.0","total_price":"90.0"},{"category_id":"836","comment":"","ExtendedPromo":[],"free_units":"","item_tax_value":"8.5","item_id":"4974","Offers":[],"quantity":"3","selectedSubAddonsModels":[],"selectedSubPreferencesModels":[],"size_id":"334","tax":"1.275","total_price":"15.0"},{"category_id":"836","comment":"","ExtendedPromo":[],"free_units":"1","item_tax_value":"8.5","item_id":"5102","Offers":[{"Item_price":"20","category_id":"836","isSizeApplicable":true,"isUnitApplicable":true,"is_fixed_price":false,"item_id":"5102","offer_id":"116","offered_items":[{"category_id":"845","Offered_id":"153","offered_item_id":"5008","price":"12.00","size_id":"341"},{"category_id":"842","Offered_id":"154","offered_item_id":"5006","price":"10.00","size_id":"0"}],"offerprice":"","size_id":"334","unit":"2"}],"quantity":"2","selectedSubAddonsModels":[],"selectedSubPreferencesModels":[],"size_id":"334","tax":"5.27","total_price":"62.0"},{"category_id":"836","comment":"","ExtendedPromo":[],"free_units":"","item_tax_value":"","item_id":"4981","Offers":[],"quantity":"2","selectedSubAddonsModels":[],"selectedSubPreferencesModels":[{"price":"2.00","subprefernce_id":"4225"}],"size_id":"","tax":"0.0","total_price":"12.0"}],"coupon_code":"920810","coupon_discount":"100","delivery_fee":"0.00","extended_discount":"0.0","order_details":{"address_id":"592","date":"13-11-2016","order_type":"Delivery","time":"16:25"},"payment_method":{"address":"","card_type":"","cc_number":"","city":"","cvv":"","expiry":"","fname":"","lastname":"","payment_type":"Paypal","state":"","zip_code":""},"service_fee":"","store_id":"108","sub_total_price":"269.0","total_amount":"175.54","total_tax":"6.54"}
+=====================================================================
+
+=========================11:39:16===========================
+Array
+(
+    [user_id] => NTI2
+    [merchant_id] => 85
+    [Host] => 12.201.42.18
+    [Connection] => Keep-Alive
+    [Accept-Encoding] => gzip
+    [User-Agent] => okhttp/3.4.1
+)
+
+=====================================================================
+
+=========================13:06:53===========================
+Array
+(
+    [Host] => 12.201.42.18
+    [Accept] => */*
+    [Connection] => keep-alive
+    [Cookie] => CAKEPHP=f92udgcq3ltkm2cvkhvuluuqn7
+    [user_id] => NTI2
+    [merchant_id] => 85
+    [Accept-Language] => en-us
+    [Accept-Encoding] => gzip, deflate
+    [User-Agent] => FoodOrder/1 CFNetwork/808.0.2 Darwin/16.0.0
+)
+
+=====================================================================

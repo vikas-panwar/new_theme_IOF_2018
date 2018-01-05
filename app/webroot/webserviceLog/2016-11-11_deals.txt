@@ -1,0 +1,2244 @@
+
+=========================06:07:00===========================
+Array
+(
+    [user_id] => NTI2
+    [merchant_id] => 85
+    [Content-Type] => application/json; charset=UTF-8
+    [Content-Length] => 18
+    [Host] => 12.201.42.18
+    [Connection] => Keep-Alive
+    [Accept-Encoding] => gzip
+    [User-Agent] => okhttp/3.4.1
+)
+{"store_id":"108"}
+=====================================================================
+
+=========================06:09:20===========================
+Array
+(
+    [user_id] => NTI2
+    [merchant_id] => 85
+    [Content-Type] => application/json; charset=UTF-8
+    [Content-Length] => 18
+    [Host] => 12.201.42.18
+    [Connection] => Keep-Alive
+    [Accept-Encoding] => gzip
+    [User-Agent] => okhttp/3.4.1
+)
+{"store_id":"108"}
+=====================================================================
+
+=========================06:12:33===========================
+Array
+(
+    [user_id] => NTI2
+    [merchant_id] => 85
+    [Content-Type] => application/json; charset=UTF-8
+    [Content-Length] => 18
+    [Host] => 12.201.42.18
+    [Connection] => Keep-Alive
+    [Accept-Encoding] => gzip
+    [User-Agent] => okhttp/3.4.1
+)
+{"store_id":"108"}
+=====================================================================
+
+=========================06:14:45===========================
+Array
+(
+    [user_id] => NTI2
+    [merchant_id] => 85
+    [Content-Type] => application/json; charset=UTF-8
+    [Content-Length] => 18
+    [Host] => 12.201.42.18
+    [Connection] => Keep-Alive
+    [Accept-Encoding] => gzip
+    [User-Agent] => okhttp/3.4.1
+)
+{"store_id":"108"}
+=====================================================================
+
+=========================06:16:03===========================
+Array
+(
+    [user_id] => NTI2
+    [merchant_id] => 85
+    [Content-Type] => application/json; charset=UTF-8
+    [Content-Length] => 18
+    [Host] => 12.201.42.18
+    [Connection] => Keep-Alive
+    [Accept-Encoding] => gzip
+    [User-Agent] => okhttp/3.4.1
+)
+{"store_id":"108"}
+=====================================================================
+
+=========================06:16:56===========================
+Array
+(
+    [user_id] => NTI2
+    [merchant_id] => 85
+    [Content-Type] => application/json; charset=UTF-8
+    [Content-Length] => 18
+    [Host] => 12.201.42.18
+    [Connection] => Keep-Alive
+    [Accept-Encoding] => gzip
+    [User-Agent] => okhttp/3.4.1
+)
+{"store_id":"108"}
+=====================================================================
+
+=========================06:20:32===========================
+Array
+(
+    [user_id] => NTI2
+    [merchant_id] => 85
+    [Content-Type] => application/json; charset=UTF-8
+    [Content-Length] => 18
+    [Host] => 12.201.42.18
+    [Connection] => Keep-Alive
+    [Accept-Encoding] => gzip
+    [User-Agent] => okhttp/3.4.1
+)
+{"store_id":"108"}
+=====================================================================
+
+=========================06:22:54===========================
+Array
+(
+    [Host] => 12.201.42.18
+    [Content-Type] => application/json
+    [Cookie] => CAKEPHP=qmf0jdnd1cu7n058168bl2hov5
+    [User-Agent] => FoodOrder/1 CFNetwork/758.3.15 Darwin/15.6.0
+    [Connection] => keep-alive
+    [Accept] => application/json
+    [user_id] => NTI2
+    [Accept-Language] => en-us
+    [merchant_id] => 85
+    [Content-Length] => 18
+    [Accept-Encoding] => gzip, deflate
+)
+{"store_id":"108"}
+=====================================================================
+
+=========================06:23:36===========================
+Array
+(
+    [Host] => 12.201.42.18
+    [Content-Type] => application/json
+    [Cookie] => CAKEPHP=qmf0jdnd1cu7n058168bl2hov5
+    [User-Agent] => FoodOrder/1 CFNetwork/758.3.15 Darwin/15.6.0
+    [Connection] => keep-alive
+    [Accept] => application/json
+    [user_id] => NTI2
+    [Accept-Language] => en-us
+    [merchant_id] => 85
+    [Content-Length] => 18
+    [Accept-Encoding] => gzip, deflate
+)
+{"store_id":"108"}
+=====================================================================
+
+=========================06:23:43===========================
+Array
+(
+    [Host] => 12.201.42.18
+    [Content-Type] => application/json
+    [Cookie] => CAKEPHP=qmf0jdnd1cu7n058168bl2hov5
+    [User-Agent] => FoodOrder/1 CFNetwork/758.3.15 Darwin/15.6.0
+    [Connection] => keep-alive
+    [Accept] => application/json
+    [user_id] => NTI2
+    [Accept-Language] => en-us
+    [merchant_id] => 85
+    [Content-Length] => 18
+    [Accept-Encoding] => gzip, deflate
+)
+{"store_id":"108"}
+=====================================================================
+
+=========================06:23:59===========================
+Array
+(
+    [Host] => 12.201.42.18
+    [Content-Type] => application/json
+    [Cookie] => CAKEPHP=qmf0jdnd1cu7n058168bl2hov5
+    [User-Agent] => FoodOrder/1 CFNetwork/758.3.15 Darwin/15.6.0
+    [Connection] => keep-alive
+    [Accept] => application/json
+    [user_id] => NTI2
+    [Accept-Language] => en-us
+    [merchant_id] => 85
+    [Content-Length] => 18
+    [Accept-Encoding] => gzip, deflate
+)
+{"store_id":"108"}
+=====================================================================
+
+=========================06:24:11===========================
+Array
+(
+    [Host] => 12.201.42.18
+    [Content-Type] => application/json
+    [Cookie] => CAKEPHP=qmf0jdnd1cu7n058168bl2hov5
+    [User-Agent] => FoodOrder/1 CFNetwork/758.3.15 Darwin/15.6.0
+    [Connection] => keep-alive
+    [Accept] => application/json
+    [user_id] => NTI2
+    [Accept-Language] => en-us
+    [merchant_id] => 85
+    [Content-Length] => 18
+    [Accept-Encoding] => gzip, deflate
+)
+{"store_id":"108"}
+=====================================================================
+
+=========================06:31:57===========================
+Array
+(
+    [user_id] => NTI2
+    [merchant_id] => 85
+    [Content-Type] => application/json; charset=UTF-8
+    [Content-Length] => 18
+    [Host] => 12.201.42.18
+    [Connection] => Keep-Alive
+    [Accept-Encoding] => gzip
+    [User-Agent] => okhttp/3.4.1
+)
+{"store_id":"108"}
+=====================================================================
+
+=========================06:32:06===========================
+Array
+(
+    [Host] => 12.201.42.18
+    [Content-Type] => application/json
+    [Cookie] => CAKEPHP=qmf0jdnd1cu7n058168bl2hov5
+    [User-Agent] => FoodOrder/1 CFNetwork/758.3.15 Darwin/15.6.0
+    [Connection] => keep-alive
+    [Accept] => application/json
+    [user_id] => NTI2
+    [Accept-Language] => en-us
+    [merchant_id] => 85
+    [Content-Length] => 18
+    [Accept-Encoding] => gzip, deflate
+)
+{"store_id":"108"}
+=====================================================================
+
+=========================06:37:40===========================
+Array
+(
+    [user_id] => NTI2
+    [merchant_id] => 85
+    [Content-Type] => application/json; charset=UTF-8
+    [Content-Length] => 18
+    [Host] => 12.201.42.18
+    [Connection] => Keep-Alive
+    [Accept-Encoding] => gzip
+    [User-Agent] => okhttp/3.4.1
+)
+{"store_id":"108"}
+=====================================================================
+
+=========================06:37:54===========================
+Array
+(
+    [user_id] => NTI2
+    [merchant_id] => 85
+    [Content-Type] => application/json; charset=UTF-8
+    [Content-Length] => 18
+    [Host] => 12.201.42.18
+    [Connection] => Keep-Alive
+    [Accept-Encoding] => gzip
+    [User-Agent] => okhttp/3.4.1
+)
+{"store_id":"108"}
+=====================================================================
+
+=========================06:43:30===========================
+Array
+(
+    [user_id] => NTI2
+    [merchant_id] => 85
+    [Content-Type] => application/json; charset=UTF-8
+    [Content-Length] => 18
+    [Host] => 12.201.42.18
+    [Connection] => Keep-Alive
+    [Accept-Encoding] => gzip
+    [User-Agent] => okhttp/3.4.1
+)
+{"store_id":"108"}
+=====================================================================
+
+=========================06:43:32===========================
+Array
+(
+    [user_id] => NTI2
+    [merchant_id] => 85
+    [Content-Type] => application/json; charset=UTF-8
+    [Content-Length] => 18
+    [Host] => 12.201.42.18
+    [Connection] => Keep-Alive
+    [Accept-Encoding] => gzip
+    [User-Agent] => okhttp/3.4.1
+)
+{"store_id":"108"}
+=====================================================================
+
+=========================06:44:19===========================
+Array
+(
+    [user_id] => NTI2
+    [merchant_id] => 85
+    [Content-Type] => application/json; charset=UTF-8
+    [Content-Length] => 18
+    [Host] => 12.201.42.18
+    [Connection] => Keep-Alive
+    [Accept-Encoding] => gzip
+    [User-Agent] => okhttp/3.4.1
+)
+{"store_id":"108"}
+=====================================================================
+
+=========================06:44:21===========================
+Array
+(
+    [user_id] => NTI2
+    [merchant_id] => 85
+    [Content-Type] => application/json; charset=UTF-8
+    [Content-Length] => 18
+    [Host] => 12.201.42.18
+    [Connection] => Keep-Alive
+    [Accept-Encoding] => gzip
+    [User-Agent] => okhttp/3.4.1
+)
+{"store_id":"108"}
+=====================================================================
+
+=========================06:45:51===========================
+Array
+(
+    [user_id] => NTI2
+    [merchant_id] => 85
+    [Content-Type] => application/json; charset=UTF-8
+    [Content-Length] => 18
+    [Host] => 12.201.42.18
+    [Connection] => Keep-Alive
+    [Accept-Encoding] => gzip
+    [User-Agent] => okhttp/3.4.1
+)
+{"store_id":"108"}
+=====================================================================
+
+=========================06:46:45===========================
+Array
+(
+    [user_id] => NTI2
+    [merchant_id] => 85
+    [Content-Type] => application/json; charset=UTF-8
+    [Content-Length] => 18
+    [Host] => 12.201.42.18
+    [Connection] => Keep-Alive
+    [Accept-Encoding] => gzip
+    [User-Agent] => okhttp/3.4.1
+)
+{"store_id":"108"}
+=====================================================================
+
+=========================06:46:48===========================
+Array
+(
+    [user_id] => NTI2
+    [merchant_id] => 85
+    [Content-Type] => application/json; charset=UTF-8
+    [Content-Length] => 18
+    [Host] => 12.201.42.18
+    [Connection] => Keep-Alive
+    [Accept-Encoding] => gzip
+    [User-Agent] => okhttp/3.4.1
+)
+{"store_id":"108"}
+=====================================================================
+
+=========================06:46:58===========================
+Array
+(
+    [user_id] => NTI2
+    [merchant_id] => 85
+    [Content-Type] => application/json; charset=UTF-8
+    [Content-Length] => 18
+    [Host] => 12.201.42.18
+    [Connection] => Keep-Alive
+    [Accept-Encoding] => gzip
+    [User-Agent] => okhttp/3.4.1
+)
+{"store_id":"108"}
+=====================================================================
+
+=========================06:53:25===========================
+Array
+(
+    [user_id] => NTI2
+    [merchant_id] => 85
+    [Content-Type] => application/json; charset=UTF-8
+    [Content-Length] => 18
+    [Host] => 12.201.42.18
+    [Connection] => Keep-Alive
+    [Accept-Encoding] => gzip
+    [User-Agent] => okhttp/3.4.1
+)
+{"store_id":"108"}
+=====================================================================
+
+=========================06:53:42===========================
+Array
+(
+    [user_id] => NTI2
+    [merchant_id] => 85
+    [Content-Type] => application/json; charset=UTF-8
+    [Content-Length] => 18
+    [Host] => 12.201.42.18
+    [Connection] => Keep-Alive
+    [Accept-Encoding] => gzip
+    [User-Agent] => okhttp/3.4.1
+)
+{"store_id":"108"}
+=====================================================================
+
+=========================06:55:33===========================
+Array
+(
+    [user_id] => NTI2
+    [merchant_id] => 85
+    [Content-Type] => application/json; charset=UTF-8
+    [Content-Length] => 18
+    [Host] => 12.201.42.18
+    [Connection] => Keep-Alive
+    [Accept-Encoding] => gzip
+    [User-Agent] => okhttp/3.4.1
+)
+{"store_id":"108"}
+=====================================================================
+
+=========================06:57:29===========================
+Array
+(
+    [Host] => 12.201.42.18
+    [Content-Type] => application/json
+    [Cookie] => CAKEPHP=qmf0jdnd1cu7n058168bl2hov5
+    [User-Agent] => FoodOrder/1 CFNetwork/758.3.15 Darwin/15.6.0
+    [Connection] => keep-alive
+    [Accept] => application/json
+    [user_id] => NTI2
+    [Accept-Language] => en-us
+    [merchant_id] => 85
+    [Content-Length] => 18
+    [Accept-Encoding] => gzip, deflate
+)
+{"store_id":"108"}
+=====================================================================
+
+=========================06:57:30===========================
+Array
+(
+    [user_id] => NTI2
+    [merchant_id] => 85
+    [Content-Type] => application/json; charset=UTF-8
+    [Content-Length] => 18
+    [Host] => 12.201.42.18
+    [Connection] => Keep-Alive
+    [Accept-Encoding] => gzip
+    [User-Agent] => okhttp/3.4.1
+)
+{"store_id":"108"}
+=====================================================================
+
+=========================06:57:42===========================
+Array
+(
+    [user_id] => NTI2
+    [merchant_id] => 85
+    [Content-Type] => application/json; charset=UTF-8
+    [Content-Length] => 18
+    [Host] => 12.201.42.18
+    [Connection] => Keep-Alive
+    [Accept-Encoding] => gzip
+    [User-Agent] => okhttp/3.4.1
+)
+{"store_id":"108"}
+=====================================================================
+
+=========================06:58:42===========================
+Array
+(
+    [user_id] => NTI2
+    [merchant_id] => 85
+    [Content-Type] => application/json; charset=UTF-8
+    [Content-Length] => 18
+    [Host] => 12.201.42.18
+    [Connection] => Keep-Alive
+    [Accept-Encoding] => gzip
+    [User-Agent] => okhttp/3.4.1
+)
+{"store_id":"108"}
+=====================================================================
+
+=========================07:01:29===========================
+Array
+(
+    [user_id] => NTI2
+    [merchant_id] => 85
+    [Content-Type] => application/json; charset=UTF-8
+    [Content-Length] => 18
+    [Host] => 12.201.42.18
+    [Connection] => Keep-Alive
+    [Accept-Encoding] => gzip
+    [User-Agent] => okhttp/3.4.1
+)
+{"store_id":"108"}
+=====================================================================
+
+=========================07:01:38===========================
+Array
+(
+    [user_id] => NTI2
+    [merchant_id] => 85
+    [Content-Type] => application/json; charset=UTF-8
+    [Content-Length] => 18
+    [Host] => 12.201.42.18
+    [Connection] => Keep-Alive
+    [Accept-Encoding] => gzip
+    [User-Agent] => okhttp/3.4.1
+)
+{"store_id":"108"}
+=====================================================================
+
+=========================07:01:43===========================
+Array
+(
+    [user_id] => NTI2
+    [merchant_id] => 85
+    [Content-Type] => application/json; charset=UTF-8
+    [Content-Length] => 18
+    [Host] => 12.201.42.18
+    [Connection] => Keep-Alive
+    [Accept-Encoding] => gzip
+    [User-Agent] => okhttp/3.4.1
+)
+{"store_id":"108"}
+=====================================================================
+
+=========================07:03:48===========================
+Array
+(
+    [user_id] => NTI2
+    [merchant_id] => 85
+    [Content-Type] => application/json; charset=UTF-8
+    [Content-Length] => 18
+    [Host] => 12.201.42.18
+    [Connection] => Keep-Alive
+    [Accept-Encoding] => gzip
+    [User-Agent] => okhttp/3.4.1
+)
+{"store_id":"108"}
+=====================================================================
+
+=========================07:03:52===========================
+Array
+(
+    [user_id] => NTI2
+    [merchant_id] => 85
+    [Content-Type] => application/json; charset=UTF-8
+    [Content-Length] => 18
+    [Host] => 12.201.42.18
+    [Connection] => Keep-Alive
+    [Accept-Encoding] => gzip
+    [User-Agent] => okhttp/3.4.1
+)
+{"store_id":"108"}
+=====================================================================
+
+=========================07:03:59===========================
+Array
+(
+    [user_id] => NTI2
+    [merchant_id] => 85
+    [Content-Type] => application/json; charset=UTF-8
+    [Content-Length] => 18
+    [Host] => 12.201.42.18
+    [Connection] => Keep-Alive
+    [Accept-Encoding] => gzip
+    [User-Agent] => okhttp/3.4.1
+)
+{"store_id":"108"}
+=====================================================================
+
+=========================07:24:18===========================
+Array
+(
+    [Host] => 12.201.42.18
+    [Content-Type] => application/json
+    [Cookie] => CAKEPHP=5lp3tbibhmurffsipuh2icto93
+    [User-Agent] => FoodOrder/1 CFNetwork/758.3.15 Darwin/15.6.0
+    [Connection] => keep-alive
+    [Accept] => application/json
+    [user_id] => NTI2
+    [Accept-Language] => en-us
+    [merchant_id] => 85
+    [Content-Length] => 18
+    [Accept-Encoding] => gzip, deflate
+)
+{"store_id":"108"}
+=====================================================================
+
+=========================07:25:59===========================
+Array
+(
+    [Host] => 12.201.42.18
+    [Content-Type] => application/json
+    [Cookie] => CAKEPHP=5lp3tbibhmurffsipuh2icto93
+    [User-Agent] => FoodOrder/1 CFNetwork/758.3.15 Darwin/15.6.0
+    [Connection] => keep-alive
+    [Accept] => application/json
+    [user_id] => NTI2
+    [Accept-Language] => en-us
+    [merchant_id] => 85
+    [Content-Length] => 18
+    [Accept-Encoding] => gzip, deflate
+)
+{"store_id":"108"}
+=====================================================================
+
+=========================07:28:41===========================
+Array
+(
+    [Host] => 12.201.42.18
+    [Content-Type] => application/json
+    [Cookie] => CAKEPHP=5lp3tbibhmurffsipuh2icto93
+    [User-Agent] => FoodOrder/1 CFNetwork/758.3.15 Darwin/15.6.0
+    [Connection] => keep-alive
+    [Accept] => application/json
+    [user_id] => NTI2
+    [Accept-Language] => en-us
+    [merchant_id] => 85
+    [Content-Length] => 18
+    [Accept-Encoding] => gzip, deflate
+)
+{"store_id":"108"}
+=====================================================================
+
+=========================07:29:13===========================
+Array
+(
+    [Host] => 12.201.42.18
+    [Content-Type] => application/json
+    [Cookie] => CAKEPHP=5lp3tbibhmurffsipuh2icto93
+    [User-Agent] => FoodOrder/1 CFNetwork/758.3.15 Darwin/15.6.0
+    [Connection] => keep-alive
+    [Accept] => application/json
+    [user_id] => NTI2
+    [Accept-Language] => en-us
+    [merchant_id] => 85
+    [Content-Length] => 18
+    [Accept-Encoding] => gzip, deflate
+)
+{"store_id":"108"}
+=====================================================================
+
+=========================07:31:36===========================
+Array
+(
+    [Host] => 12.201.42.18
+    [Content-Type] => application/json
+    [Cookie] => CAKEPHP=5lp3tbibhmurffsipuh2icto93
+    [User-Agent] => FoodOrder/1 CFNetwork/758.3.15 Darwin/15.6.0
+    [Connection] => keep-alive
+    [Accept] => application/json
+    [user_id] => NTI2
+    [Accept-Language] => en-us
+    [merchant_id] => 85
+    [Content-Length] => 18
+    [Accept-Encoding] => gzip, deflate
+)
+{"store_id":"108"}
+=====================================================================
+
+=========================07:32:16===========================
+Array
+(
+    [Host] => 12.201.42.18
+    [Content-Type] => application/json
+    [Cookie] => CAKEPHP=5lp3tbibhmurffsipuh2icto93
+    [User-Agent] => FoodOrder/1 CFNetwork/758.3.15 Darwin/15.6.0
+    [Connection] => keep-alive
+    [Accept] => application/json
+    [user_id] => NTI2
+    [Accept-Language] => en-us
+    [merchant_id] => 85
+    [Content-Length] => 18
+    [Accept-Encoding] => gzip, deflate
+)
+{"store_id":"108"}
+=====================================================================
+
+=========================07:34:53===========================
+Array
+(
+    [Host] => 12.201.42.18
+    [Content-Type] => application/json
+    [Cookie] => CAKEPHP=5lp3tbibhmurffsipuh2icto93
+    [User-Agent] => FoodOrder/1 CFNetwork/758.3.15 Darwin/15.6.0
+    [Connection] => keep-alive
+    [Accept] => application/json
+    [user_id] => NTI2
+    [Accept-Language] => en-us
+    [merchant_id] => 85
+    [Content-Length] => 18
+    [Accept-Encoding] => gzip, deflate
+)
+{"store_id":"108"}
+=====================================================================
+
+=========================07:39:00===========================
+Array
+(
+    [Host] => 12.201.42.18
+    [Content-Type] => application/json
+    [Cookie] => CAKEPHP=5lp3tbibhmurffsipuh2icto93
+    [User-Agent] => FoodOrder/1 CFNetwork/758.3.15 Darwin/15.6.0
+    [Connection] => keep-alive
+    [Accept] => application/json
+    [user_id] => NTI2
+    [Accept-Language] => en-us
+    [merchant_id] => 85
+    [Content-Length] => 18
+    [Accept-Encoding] => gzip, deflate
+)
+{"store_id":"108"}
+=====================================================================
+
+=========================07:41:13===========================
+Array
+(
+    [Host] => 12.201.42.18
+    [Content-Type] => application/json
+    [Cookie] => CAKEPHP=5lp3tbibhmurffsipuh2icto93
+    [User-Agent] => FoodOrder/1 CFNetwork/758.3.15 Darwin/15.6.0
+    [Connection] => keep-alive
+    [Accept] => application/json
+    [user_id] => NTI2
+    [Accept-Language] => en-us
+    [merchant_id] => 85
+    [Content-Length] => 18
+    [Accept-Encoding] => gzip, deflate
+)
+{"store_id":"108"}
+=====================================================================
+
+=========================07:43:38===========================
+Array
+(
+    [Host] => 12.201.42.18
+    [Content-Type] => application/json
+    [Cookie] => CAKEPHP=5lp3tbibhmurffsipuh2icto93
+    [User-Agent] => FoodOrder/1 CFNetwork/758.3.15 Darwin/15.6.0
+    [Connection] => keep-alive
+    [Accept] => application/json
+    [user_id] => NTI2
+    [Accept-Language] => en-us
+    [merchant_id] => 85
+    [Content-Length] => 18
+    [Accept-Encoding] => gzip, deflate
+)
+{"store_id":"111"}
+=====================================================================
+
+=========================07:49:02===========================
+Array
+(
+    [Host] => 12.201.42.18
+    [Content-Type] => application/json
+    [Cookie] => CAKEPHP=5lp3tbibhmurffsipuh2icto93
+    [User-Agent] => FoodOrder/1 CFNetwork/758.3.15 Darwin/15.6.0
+    [Connection] => keep-alive
+    [Accept] => application/json
+    [user_id] => NTI2
+    [Accept-Language] => en-us
+    [merchant_id] => 85
+    [Content-Length] => 18
+    [Accept-Encoding] => gzip, deflate
+)
+{"store_id":"108"}
+=====================================================================
+
+=========================07:49:09===========================
+Array
+(
+    [Host] => 12.201.42.18
+    [Content-Type] => application/json
+    [Cookie] => CAKEPHP=5lp3tbibhmurffsipuh2icto93
+    [User-Agent] => FoodOrder/1 CFNetwork/758.3.15 Darwin/15.6.0
+    [Connection] => keep-alive
+    [Accept] => application/json
+    [user_id] => NTI2
+    [Accept-Language] => en-us
+    [merchant_id] => 85
+    [Content-Length] => 18
+    [Accept-Encoding] => gzip, deflate
+)
+{"store_id":"108"}
+=====================================================================
+
+=========================07:49:41===========================
+Array
+(
+    [Host] => 12.201.42.18
+    [Content-Type] => application/json
+    [Cookie] => CAKEPHP=5lp3tbibhmurffsipuh2icto93
+    [User-Agent] => FoodOrder/1 CFNetwork/758.3.15 Darwin/15.6.0
+    [Connection] => keep-alive
+    [Accept] => application/json
+    [user_id] => NTI2
+    [Accept-Language] => en-us
+    [merchant_id] => 85
+    [Content-Length] => 18
+    [Accept-Encoding] => gzip, deflate
+)
+{"store_id":"109"}
+=====================================================================
+
+=========================07:49:49===========================
+Array
+(
+    [Host] => 12.201.42.18
+    [Content-Type] => application/json
+    [Cookie] => CAKEPHP=5lp3tbibhmurffsipuh2icto93
+    [User-Agent] => FoodOrder/1 CFNetwork/758.3.15 Darwin/15.6.0
+    [Connection] => keep-alive
+    [Accept] => application/json
+    [user_id] => NTI2
+    [Accept-Language] => en-us
+    [merchant_id] => 85
+    [Content-Length] => 18
+    [Accept-Encoding] => gzip, deflate
+)
+{"store_id":"109"}
+=====================================================================
+
+=========================07:50:06===========================
+Array
+(
+    [Host] => 12.201.42.18
+    [Content-Type] => application/json
+    [Cookie] => CAKEPHP=5lp3tbibhmurffsipuh2icto93
+    [User-Agent] => FoodOrder/1 CFNetwork/758.3.15 Darwin/15.6.0
+    [Connection] => keep-alive
+    [Accept] => application/json
+    [user_id] => NTI2
+    [Accept-Language] => en-us
+    [merchant_id] => 85
+    [Content-Length] => 18
+    [Accept-Encoding] => gzip, deflate
+)
+{"store_id":"111"}
+=====================================================================
+
+=========================07:50:12===========================
+Array
+(
+    [Host] => 12.201.42.18
+    [Content-Type] => application/json
+    [Cookie] => CAKEPHP=5lp3tbibhmurffsipuh2icto93
+    [User-Agent] => FoodOrder/1 CFNetwork/758.3.15 Darwin/15.6.0
+    [Connection] => keep-alive
+    [Accept] => application/json
+    [user_id] => NTI2
+    [Accept-Language] => en-us
+    [merchant_id] => 85
+    [Content-Length] => 18
+    [Accept-Encoding] => gzip, deflate
+)
+{"store_id":"111"}
+=====================================================================
+
+=========================09:07:26===========================
+Array
+(
+    [Host] => 12.201.42.18
+    [Content-Type] => application/json
+    [Cookie] => CAKEPHP=5lp3tbibhmurffsipuh2icto93
+    [User-Agent] => FoodOrder/1 CFNetwork/758.3.15 Darwin/15.6.0
+    [Connection] => keep-alive
+    [Accept] => application/json
+    [user_id] => NTI2
+    [Accept-Language] => en-us
+    [merchant_id] => 85
+    [Content-Length] => 18
+    [Accept-Encoding] => gzip, deflate
+)
+{"store_id":"108"}
+=====================================================================
+
+=========================09:12:38===========================
+Array
+(
+    [Host] => 12.201.42.18
+    [Content-Type] => application/json
+    [Cookie] => CAKEPHP=5lp3tbibhmurffsipuh2icto93
+    [User-Agent] => FoodOrder/1 CFNetwork/758.3.15 Darwin/15.6.0
+    [Connection] => keep-alive
+    [Accept] => application/json
+    [user_id] => NTI2
+    [Accept-Language] => en-us
+    [merchant_id] => 85
+    [Content-Length] => 18
+    [Accept-Encoding] => gzip, deflate
+)
+{"store_id":"108"}
+=====================================================================
+
+=========================09:14:13===========================
+Array
+(
+    [Host] => 12.201.42.18
+    [Content-Type] => application/json
+    [Cookie] => CAKEPHP=5lp3tbibhmurffsipuh2icto93
+    [User-Agent] => FoodOrder/1 CFNetwork/758.3.15 Darwin/15.6.0
+    [Connection] => keep-alive
+    [Accept] => application/json
+    [user_id] => NTI2
+    [Accept-Language] => en-us
+    [merchant_id] => 85
+    [Content-Length] => 18
+    [Accept-Encoding] => gzip, deflate
+)
+{"store_id":"108"}
+=====================================================================
+
+=========================09:16:26===========================
+Array
+(
+    [user_id] => NTI2
+    [merchant_id] => 85
+    [Content-Type] => application/json; charset=UTF-8
+    [Content-Length] => 18
+    [Host] => 12.201.42.18
+    [Connection] => Keep-Alive
+    [Accept-Encoding] => gzip
+    [User-Agent] => okhttp/3.4.1
+)
+{"store_id":"108"}
+=====================================================================
+
+=========================09:21:17===========================
+Array
+(
+    [Host] => 12.201.42.18
+    [Content-Type] => application/json
+    [Cookie] => CAKEPHP=5lp3tbibhmurffsipuh2icto93
+    [User-Agent] => FoodOrder/1 CFNetwork/758.3.15 Darwin/15.6.0
+    [Connection] => keep-alive
+    [Accept] => application/json
+    [user_id] => NTI2
+    [Accept-Language] => en-us
+    [merchant_id] => 85
+    [Content-Length] => 18
+    [Accept-Encoding] => gzip, deflate
+)
+{"store_id":"108"}
+=====================================================================
+
+=========================09:22:15===========================
+Array
+(
+    [Host] => 12.201.42.18
+    [Content-Type] => application/json
+    [Cookie] => CAKEPHP=5lp3tbibhmurffsipuh2icto93
+    [User-Agent] => FoodOrder/1 CFNetwork/758.3.15 Darwin/15.6.0
+    [Connection] => keep-alive
+    [Accept] => application/json
+    [user_id] => NTI2
+    [Accept-Language] => en-us
+    [merchant_id] => 85
+    [Content-Length] => 18
+    [Accept-Encoding] => gzip, deflate
+)
+{"store_id":"108"}
+=====================================================================
+
+=========================09:22:35===========================
+Array
+(
+    [Host] => 12.201.42.18
+    [Content-Type] => application/json
+    [Cookie] => CAKEPHP=5lp3tbibhmurffsipuh2icto93
+    [User-Agent] => FoodOrder/1 CFNetwork/758.3.15 Darwin/15.6.0
+    [Connection] => keep-alive
+    [Accept] => application/json
+    [user_id] => NTI2
+    [Accept-Language] => en-us
+    [merchant_id] => 85
+    [Content-Length] => 18
+    [Accept-Encoding] => gzip, deflate
+)
+{"store_id":"108"}
+=====================================================================
+
+=========================09:23:50===========================
+Array
+(
+    [Host] => 12.201.42.18
+    [Content-Type] => application/json
+    [Cookie] => CAKEPHP=5lp3tbibhmurffsipuh2icto93
+    [User-Agent] => FoodOrder/1 CFNetwork/758.3.15 Darwin/15.6.0
+    [Connection] => keep-alive
+    [Accept] => application/json
+    [user_id] => NTI2
+    [Accept-Language] => en-us
+    [merchant_id] => 85
+    [Content-Length] => 18
+    [Accept-Encoding] => gzip, deflate
+)
+{"store_id":"108"}
+=====================================================================
+
+=========================09:24:22===========================
+Array
+(
+    [Host] => 12.201.42.18
+    [Content-Type] => application/json
+    [Cookie] => CAKEPHP=5lp3tbibhmurffsipuh2icto93
+    [User-Agent] => FoodOrder/1 CFNetwork/758.3.15 Darwin/15.6.0
+    [Connection] => keep-alive
+    [Accept] => application/json
+    [user_id] => NTI2
+    [Accept-Language] => en-us
+    [merchant_id] => 85
+    [Content-Length] => 18
+    [Accept-Encoding] => gzip, deflate
+)
+{"store_id":"108"}
+=====================================================================
+
+=========================09:25:24===========================
+Array
+(
+    [Host] => 12.201.42.18
+    [Content-Type] => application/json
+    [Cookie] => CAKEPHP=5lp3tbibhmurffsipuh2icto93
+    [User-Agent] => FoodOrder/1 CFNetwork/758.3.15 Darwin/15.6.0
+    [Connection] => keep-alive
+    [Accept] => application/json
+    [user_id] => NTI2
+    [Accept-Language] => en-us
+    [merchant_id] => 85
+    [Content-Length] => 18
+    [Accept-Encoding] => gzip, deflate
+)
+{"store_id":"108"}
+=====================================================================
+
+=========================09:26:10===========================
+Array
+(
+    [Host] => 12.201.42.18
+    [Content-Type] => application/json
+    [Cookie] => CAKEPHP=5lp3tbibhmurffsipuh2icto93
+    [User-Agent] => FoodOrder/1 CFNetwork/758.3.15 Darwin/15.6.0
+    [Connection] => keep-alive
+    [Accept] => application/json
+    [user_id] => NTI2
+    [Accept-Language] => en-us
+    [merchant_id] => 85
+    [Content-Length] => 18
+    [Accept-Encoding] => gzip, deflate
+)
+{"store_id":"108"}
+=====================================================================
+
+=========================09:29:54===========================
+Array
+(
+    [Host] => 12.201.42.18
+    [Content-Type] => application/json
+    [Cookie] => CAKEPHP=5lp3tbibhmurffsipuh2icto93
+    [User-Agent] => FoodOrder/1 CFNetwork/758.3.15 Darwin/15.6.0
+    [Connection] => keep-alive
+    [Accept] => application/json
+    [user_id] => NTI2
+    [Accept-Language] => en-us
+    [merchant_id] => 85
+    [Content-Length] => 18
+    [Accept-Encoding] => gzip, deflate
+)
+{"store_id":"108"}
+=====================================================================
+
+=========================09:30:02===========================
+Array
+(
+    [Host] => 12.201.42.18
+    [Content-Type] => application/json
+    [Cookie] => CAKEPHP=5lp3tbibhmurffsipuh2icto93
+    [User-Agent] => FoodOrder/1 CFNetwork/758.3.15 Darwin/15.6.0
+    [Connection] => keep-alive
+    [Accept] => application/json
+    [user_id] => NTI2
+    [Accept-Language] => en-us
+    [merchant_id] => 85
+    [Content-Length] => 18
+    [Accept-Encoding] => gzip, deflate
+)
+{"store_id":"108"}
+=====================================================================
+
+=========================09:30:37===========================
+Array
+(
+    [Host] => 12.201.42.18
+    [Content-Type] => application/json
+    [Cookie] => CAKEPHP=5lp3tbibhmurffsipuh2icto93
+    [User-Agent] => FoodOrder/1 CFNetwork/758.3.15 Darwin/15.6.0
+    [Connection] => keep-alive
+    [Accept] => application/json
+    [user_id] => NTI2
+    [Accept-Language] => en-us
+    [merchant_id] => 85
+    [Content-Length] => 18
+    [Accept-Encoding] => gzip, deflate
+)
+{"store_id":"108"}
+=====================================================================
+
+=========================09:34:51===========================
+Array
+(
+    [Host] => 12.201.42.18
+    [Content-Type] => application/json
+    [Cookie] => CAKEPHP=5lp3tbibhmurffsipuh2icto93
+    [User-Agent] => FoodOrder/1 CFNetwork/758.3.15 Darwin/15.6.0
+    [Connection] => keep-alive
+    [Accept] => application/json
+    [user_id] => NTI2
+    [Accept-Language] => en-us
+    [merchant_id] => 85
+    [Content-Length] => 18
+    [Accept-Encoding] => gzip, deflate
+)
+{"store_id":"108"}
+=====================================================================
+
+=========================09:47:55===========================
+Array
+(
+    [user_id] => NTI2
+    [merchant_id] => 85
+    [Content-Type] => application/json; charset=UTF-8
+    [Content-Length] => 18
+    [Host] => 12.201.42.18
+    [Connection] => Keep-Alive
+    [Accept-Encoding] => gzip
+    [User-Agent] => okhttp/3.4.1
+)
+{"store_id":"108"}
+=====================================================================
+
+=========================09:48:05===========================
+Array
+(
+    [user_id] => NTI2
+    [merchant_id] => 85
+    [Content-Type] => application/json; charset=UTF-8
+    [Content-Length] => 18
+    [Host] => 12.201.42.18
+    [Connection] => Keep-Alive
+    [Accept-Encoding] => gzip
+    [User-Agent] => okhttp/3.4.1
+)
+{"store_id":"108"}
+=====================================================================
+
+=========================09:52:28===========================
+Array
+(
+    [user_id] => NTI2
+    [merchant_id] => 85
+    [Content-Type] => application/json; charset=UTF-8
+    [Content-Length] => 18
+    [Host] => 12.201.42.18
+    [Connection] => Keep-Alive
+    [Accept-Encoding] => gzip
+    [User-Agent] => okhttp/3.4.1
+)
+{"store_id":"108"}
+=====================================================================
+
+=========================09:54:45===========================
+Array
+(
+    [user_id] => NTI2
+    [merchant_id] => 85
+    [Content-Type] => application/json; charset=UTF-8
+    [Content-Length] => 18
+    [Host] => 12.201.42.18
+    [Connection] => Keep-Alive
+    [Accept-Encoding] => gzip
+    [User-Agent] => okhttp/3.4.1
+)
+{"store_id":"108"}
+=====================================================================
+
+=========================09:57:38===========================
+Array
+(
+    [Host] => 12.201.42.18
+    [Content-Type] => application/json
+    [Cookie] => CAKEPHP=ljappbbstipf7rv83jdikdpqp3
+    [User-Agent] => FoodOrder/1 CFNetwork/758.3.15 Darwin/15.6.0
+    [Connection] => keep-alive
+    [Accept] => application/json
+    [user_id] => NTI2
+    [Accept-Language] => en-us
+    [merchant_id] => 85
+    [Content-Length] => 18
+    [Accept-Encoding] => gzip, deflate
+)
+{"store_id":"108"}
+=====================================================================
+
+=========================09:57:55===========================
+Array
+(
+    [user_id] => NTI2
+    [merchant_id] => 85
+    [Content-Type] => application/json; charset=UTF-8
+    [Content-Length] => 18
+    [Host] => 12.201.42.18
+    [Connection] => Keep-Alive
+    [Accept-Encoding] => gzip
+    [User-Agent] => okhttp/3.4.1
+)
+{"store_id":"108"}
+=====================================================================
+
+=========================09:59:15===========================
+Array
+(
+    [Host] => 12.201.42.18
+    [Content-Type] => application/json
+    [Cookie] => CAKEPHP=ljappbbstipf7rv83jdikdpqp3
+    [User-Agent] => FoodOrder/1 CFNetwork/758.3.15 Darwin/15.6.0
+    [Connection] => keep-alive
+    [Accept] => application/json
+    [user_id] => NTI2
+    [Accept-Language] => en-us
+    [merchant_id] => 85
+    [Content-Length] => 18
+    [Accept-Encoding] => gzip, deflate
+)
+{"store_id":"108"}
+=====================================================================
+
+=========================10:00:00===========================
+Array
+(
+    [user_id] => NTI2
+    [merchant_id] => 85
+    [Content-Type] => application/json; charset=UTF-8
+    [Content-Length] => 18
+    [Host] => 12.201.42.18
+    [Connection] => Keep-Alive
+    [Accept-Encoding] => gzip
+    [User-Agent] => okhttp/3.4.1
+)
+{"store_id":"108"}
+=====================================================================
+
+=========================10:01:16===========================
+Array
+(
+    [user_id] => NTI2
+    [merchant_id] => 85
+    [Content-Type] => application/json; charset=UTF-8
+    [Content-Length] => 18
+    [Host] => 12.201.42.18
+    [Connection] => Keep-Alive
+    [Accept-Encoding] => gzip
+    [User-Agent] => okhttp/3.4.1
+)
+{"store_id":"108"}
+=====================================================================
+
+=========================10:01:29===========================
+Array
+(
+    [user_id] => NTI2
+    [merchant_id] => 85
+    [Content-Type] => application/json; charset=UTF-8
+    [Content-Length] => 18
+    [Host] => 12.201.42.18
+    [Connection] => Keep-Alive
+    [Accept-Encoding] => gzip
+    [User-Agent] => okhttp/3.4.1
+)
+{"store_id":"108"}
+=====================================================================
+
+=========================10:02:27===========================
+Array
+(
+    [user_id] => NTI2
+    [merchant_id] => 85
+    [Content-Type] => application/json; charset=UTF-8
+    [Content-Length] => 18
+    [Host] => 12.201.42.18
+    [Connection] => Keep-Alive
+    [Accept-Encoding] => gzip
+    [User-Agent] => okhttp/3.4.1
+)
+{"store_id":"108"}
+=====================================================================
+
+=========================10:04:52===========================
+Array
+(
+    [Host] => 12.201.42.18
+    [Content-Type] => application/json
+    [Cookie] => CAKEPHP=ljappbbstipf7rv83jdikdpqp3
+    [User-Agent] => FoodOrder/1 CFNetwork/758.3.15 Darwin/15.6.0
+    [Connection] => keep-alive
+    [Accept] => application/json
+    [user_id] => NTI2
+    [Accept-Language] => en-us
+    [merchant_id] => 85
+    [Content-Length] => 18
+    [Accept-Encoding] => gzip, deflate
+)
+{"store_id":"108"}
+=====================================================================
+
+=========================10:09:03===========================
+Array
+(
+    [Host] => 12.201.42.18
+    [Content-Type] => application/json
+    [Cookie] => CAKEPHP=ljappbbstipf7rv83jdikdpqp3
+    [User-Agent] => FoodOrder/1 CFNetwork/758.3.15 Darwin/15.6.0
+    [Connection] => keep-alive
+    [Accept] => application/json
+    [user_id] => NTI2
+    [Accept-Language] => en-us
+    [merchant_id] => 85
+    [Content-Length] => 18
+    [Accept-Encoding] => gzip, deflate
+)
+{"store_id":"108"}
+=====================================================================
+
+=========================10:12:36===========================
+Array
+(
+    [user_id] => NTI2
+    [merchant_id] => 85
+    [Content-Type] => application/json; charset=UTF-8
+    [Content-Length] => 18
+    [Host] => 12.201.42.18
+    [Connection] => Keep-Alive
+    [Accept-Encoding] => gzip
+    [User-Agent] => okhttp/3.4.1
+)
+{"store_id":"108"}
+=====================================================================
+
+=========================10:12:49===========================
+Array
+(
+    [Host] => 12.201.42.18
+    [Content-Type] => application/json
+    [Cookie] => CAKEPHP=ljappbbstipf7rv83jdikdpqp3
+    [User-Agent] => FoodOrder/1 CFNetwork/758.3.15 Darwin/15.6.0
+    [Connection] => keep-alive
+    [Accept] => application/json
+    [user_id] => NTI2
+    [Accept-Language] => en-us
+    [merchant_id] => 85
+    [Content-Length] => 18
+    [Accept-Encoding] => gzip, deflate
+)
+{"store_id":"108"}
+=====================================================================
+
+=========================10:14:02===========================
+Array
+(
+    [Host] => 12.201.42.18
+    [Content-Type] => application/json
+    [Cookie] => CAKEPHP=ljappbbstipf7rv83jdikdpqp3
+    [User-Agent] => FoodOrder/1 CFNetwork/758.3.15 Darwin/15.6.0
+    [Connection] => keep-alive
+    [Accept] => application/json
+    [user_id] => NTI2
+    [Accept-Language] => en-us
+    [merchant_id] => 85
+    [Content-Length] => 18
+    [Accept-Encoding] => gzip, deflate
+)
+{"store_id":"108"}
+=====================================================================
+
+=========================10:18:11===========================
+Array
+(
+    [user_id] => NTI2
+    [merchant_id] => 85
+    [Content-Type] => application/json; charset=UTF-8
+    [Content-Length] => 18
+    [Host] => 12.201.42.18
+    [Connection] => Keep-Alive
+    [Accept-Encoding] => gzip
+    [User-Agent] => okhttp/3.4.1
+)
+{"store_id":"108"}
+=====================================================================
+
+=========================10:18:16===========================
+Array
+(
+    [user_id] => NTI2
+    [merchant_id] => 85
+    [Content-Type] => application/json; charset=UTF-8
+    [Content-Length] => 18
+    [Host] => 12.201.42.18
+    [Connection] => Keep-Alive
+    [Accept-Encoding] => gzip
+    [User-Agent] => okhttp/3.4.1
+)
+{"store_id":"108"}
+=====================================================================
+
+=========================10:19:19===========================
+Array
+(
+    [user_id] => NTI2
+    [merchant_id] => 85
+    [Content-Type] => application/json; charset=UTF-8
+    [Content-Length] => 18
+    [Host] => 12.201.42.18
+    [Connection] => Keep-Alive
+    [Accept-Encoding] => gzip
+    [User-Agent] => okhttp/3.4.1
+)
+{"store_id":"108"}
+=====================================================================
+
+=========================10:20:46===========================
+Array
+(
+    [user_id] => NTI2
+    [merchant_id] => 85
+    [Content-Type] => application/json; charset=UTF-8
+    [Content-Length] => 18
+    [Host] => 12.201.42.18
+    [Connection] => Keep-Alive
+    [Accept-Encoding] => gzip
+    [User-Agent] => okhttp/3.4.1
+)
+{"store_id":"108"}
+=====================================================================
+
+=========================10:21:54===========================
+Array
+(
+    [user_id] => NTI2
+    [merchant_id] => 85
+    [Content-Type] => application/json; charset=UTF-8
+    [Content-Length] => 18
+    [Host] => 12.201.42.18
+    [Connection] => Keep-Alive
+    [Accept-Encoding] => gzip
+    [User-Agent] => okhttp/3.4.1
+)
+{"store_id":"108"}
+=====================================================================
+
+=========================10:22:28===========================
+Array
+(
+    [Host] => 12.201.42.18
+    [Content-Type] => application/json
+    [Cookie] => CAKEPHP=ljappbbstipf7rv83jdikdpqp3
+    [User-Agent] => FoodOrder/1 CFNetwork/758.3.15 Darwin/15.6.0
+    [Connection] => keep-alive
+    [Accept] => application/json
+    [user_id] => NTI2
+    [Accept-Language] => en-us
+    [merchant_id] => 85
+    [Content-Length] => 18
+    [Accept-Encoding] => gzip, deflate
+)
+{"store_id":"108"}
+=====================================================================
+
+=========================10:22:40===========================
+Array
+(
+    [Host] => 12.201.42.18
+    [Content-Type] => application/json
+    [Cookie] => CAKEPHP=ljappbbstipf7rv83jdikdpqp3
+    [User-Agent] => FoodOrder/1 CFNetwork/758.3.15 Darwin/15.6.0
+    [Connection] => keep-alive
+    [Accept] => application/json
+    [user_id] => NTI2
+    [Accept-Language] => en-us
+    [merchant_id] => 85
+    [Content-Length] => 18
+    [Accept-Encoding] => gzip, deflate
+)
+{"store_id":"108"}
+=====================================================================
+
+=========================10:23:00===========================
+Array
+(
+    [Host] => 12.201.42.18
+    [Content-Type] => application/json
+    [Cookie] => CAKEPHP=ljappbbstipf7rv83jdikdpqp3
+    [User-Agent] => FoodOrder/1 CFNetwork/758.3.15 Darwin/15.6.0
+    [Connection] => keep-alive
+    [Accept] => application/json
+    [user_id] => NTI2
+    [Accept-Language] => en-us
+    [merchant_id] => 85
+    [Content-Length] => 18
+    [Accept-Encoding] => gzip, deflate
+)
+{"store_id":"108"}
+=====================================================================
+
+=========================10:29:41===========================
+Array
+(
+    [user_id] => NTI2
+    [merchant_id] => 85
+    [Content-Type] => application/json; charset=UTF-8
+    [Content-Length] => 18
+    [Host] => 12.201.42.18
+    [Connection] => Keep-Alive
+    [Accept-Encoding] => gzip
+    [User-Agent] => okhttp/3.4.1
+)
+{"store_id":"108"}
+=====================================================================
+
+=========================10:30:14===========================
+Array
+(
+    [Host] => 12.201.42.18
+    [Content-Type] => application/json
+    [Cookie] => CAKEPHP=ljappbbstipf7rv83jdikdpqp3
+    [User-Agent] => FoodOrder/1 CFNetwork/758.3.15 Darwin/15.6.0
+    [Connection] => keep-alive
+    [Accept] => application/json
+    [user_id] => NTI2
+    [Accept-Language] => en-us
+    [merchant_id] => 85
+    [Content-Length] => 18
+    [Accept-Encoding] => gzip, deflate
+)
+{"store_id":"108"}
+=====================================================================
+
+=========================10:43:45===========================
+Array
+(
+    [user_id] => NTI2
+    [merchant_id] => 85
+    [Content-Type] => application/json; charset=UTF-8
+    [Content-Length] => 18
+    [Host] => 12.201.42.18
+    [Connection] => Keep-Alive
+    [Accept-Encoding] => gzip
+    [User-Agent] => okhttp/3.4.1
+)
+{"store_id":"108"}
+=====================================================================
+
+=========================10:45:27===========================
+Array
+(
+    [user_id] => NTI2
+    [merchant_id] => 85
+    [Content-Type] => application/json; charset=UTF-8
+    [Content-Length] => 18
+    [Host] => 12.201.42.18
+    [Connection] => Keep-Alive
+    [Accept-Encoding] => gzip
+    [User-Agent] => okhttp/3.4.1
+)
+{"store_id":"108"}
+=====================================================================
+
+=========================10:45:34===========================
+Array
+(
+    [user_id] => NTI2
+    [merchant_id] => 85
+    [Content-Type] => application/json; charset=UTF-8
+    [Content-Length] => 18
+    [Host] => 12.201.42.18
+    [Connection] => Keep-Alive
+    [Accept-Encoding] => gzip
+    [User-Agent] => okhttp/3.4.1
+)
+{"store_id":"108"}
+=====================================================================
+
+=========================10:56:39===========================
+Array
+(
+    [user_id] => NTI2
+    [merchant_id] => 85
+    [Content-Type] => application/json; charset=UTF-8
+    [Content-Length] => 18
+    [Host] => 12.201.42.18
+    [Connection] => Keep-Alive
+    [Accept-Encoding] => gzip
+    [User-Agent] => okhttp/3.4.1
+)
+{"store_id":"108"}
+=====================================================================
+
+=========================10:59:49===========================
+Array
+(
+    [user_id] => NTI2
+    [merchant_id] => 85
+    [Content-Type] => application/json; charset=UTF-8
+    [Content-Length] => 18
+    [Host] => 12.201.42.18
+    [Connection] => Keep-Alive
+    [Accept-Encoding] => gzip
+    [User-Agent] => okhttp/3.4.1
+)
+{"store_id":"108"}
+=====================================================================
+
+=========================11:07:06===========================
+Array
+(
+    [user_id] => NTI2
+    [merchant_id] => 85
+    [Content-Type] => application/json; charset=UTF-8
+    [Content-Length] => 18
+    [Host] => 12.201.42.18
+    [Connection] => Keep-Alive
+    [Accept-Encoding] => gzip
+    [User-Agent] => okhttp/3.4.1
+)
+{"store_id":"108"}
+=====================================================================
+
+=========================11:08:18===========================
+Array
+(
+    [user_id] => NTI2
+    [merchant_id] => 85
+    [Content-Type] => application/json; charset=UTF-8
+    [Content-Length] => 18
+    [Host] => 12.201.42.18
+    [Connection] => Keep-Alive
+    [Accept-Encoding] => gzip
+    [User-Agent] => okhttp/3.4.1
+)
+{"store_id":"108"}
+=====================================================================
+
+=========================11:10:26===========================
+Array
+(
+    [user_id] => NTI2
+    [merchant_id] => 85
+    [Content-Type] => application/json; charset=UTF-8
+    [Content-Length] => 18
+    [Host] => 12.201.42.18
+    [Connection] => Keep-Alive
+    [Accept-Encoding] => gzip
+    [User-Agent] => okhttp/3.4.1
+)
+{"store_id":"108"}
+=====================================================================
+
+=========================11:11:33===========================
+Array
+(
+    [user_id] => NTI2
+    [merchant_id] => 85
+    [Content-Type] => application/json; charset=UTF-8
+    [Content-Length] => 18
+    [Host] => 12.201.42.18
+    [Connection] => Keep-Alive
+    [Accept-Encoding] => gzip
+    [User-Agent] => okhttp/3.4.1
+)
+{"store_id":"108"}
+=====================================================================
+
+=========================11:14:48===========================
+Array
+(
+    [user_id] => NTI2
+    [merchant_id] => 85
+    [Content-Type] => application/json; charset=UTF-8
+    [Content-Length] => 18
+    [Host] => 12.201.42.18
+    [Connection] => Keep-Alive
+    [Accept-Encoding] => gzip
+    [User-Agent] => okhttp/3.4.1
+)
+{"store_id":"108"}
+=====================================================================
+
+=========================11:15:56===========================
+Array
+(
+    [user_id] => NTI2
+    [merchant_id] => 85
+    [Content-Type] => application/json; charset=UTF-8
+    [Content-Length] => 18
+    [Host] => 12.201.42.18
+    [Connection] => Keep-Alive
+    [Accept-Encoding] => gzip
+    [User-Agent] => okhttp/3.4.1
+)
+{"store_id":"108"}
+=====================================================================
+
+=========================11:18:19===========================
+Array
+(
+    [user_id] => NTI2
+    [merchant_id] => 85
+    [Content-Type] => application/json; charset=UTF-8
+    [Content-Length] => 18
+    [Host] => 12.201.42.18
+    [Connection] => Keep-Alive
+    [Accept-Encoding] => gzip
+    [User-Agent] => okhttp/3.4.1
+)
+{"store_id":"108"}
+=====================================================================
+
+=========================11:25:12===========================
+Array
+(
+    [user_id] => NTI2
+    [merchant_id] => 85
+    [Content-Type] => application/json; charset=UTF-8
+    [Content-Length] => 18
+    [Host] => 12.201.42.18
+    [Connection] => Keep-Alive
+    [Accept-Encoding] => gzip
+    [User-Agent] => okhttp/3.4.1
+)
+{"store_id":"108"}
+=====================================================================
+
+=========================11:27:53===========================
+Array
+(
+    [user_id] => NTI2
+    [merchant_id] => 85
+    [Content-Type] => application/json; charset=UTF-8
+    [Content-Length] => 18
+    [Host] => 12.201.42.18
+    [Connection] => Keep-Alive
+    [Accept-Encoding] => gzip
+    [User-Agent] => okhttp/3.4.1
+)
+{"store_id":"108"}
+=====================================================================
+
+=========================11:29:03===========================
+Array
+(
+    [user_id] => NTI2
+    [merchant_id] => 85
+    [Content-Type] => application/json; charset=UTF-8
+    [Content-Length] => 18
+    [Host] => 12.201.42.18
+    [Connection] => Keep-Alive
+    [Accept-Encoding] => gzip
+    [User-Agent] => okhttp/3.4.1
+)
+{"store_id":"108"}
+=====================================================================
+
+=========================11:29:50===========================
+Array
+(
+    [user_id] => NTI2
+    [merchant_id] => 85
+    [Content-Type] => application/json; charset=UTF-8
+    [Content-Length] => 18
+    [Host] => 12.201.42.18
+    [Connection] => Keep-Alive
+    [Accept-Encoding] => gzip
+    [User-Agent] => okhttp/3.4.1
+)
+{"store_id":"108"}
+=====================================================================
+
+=========================11:30:57===========================
+Array
+(
+    [user_id] => NTI2
+    [merchant_id] => 85
+    [Content-Type] => application/json; charset=UTF-8
+    [Content-Length] => 18
+    [Host] => 12.201.42.18
+    [Connection] => Keep-Alive
+    [Accept-Encoding] => gzip
+    [User-Agent] => okhttp/3.4.1
+)
+{"store_id":"108"}
+=====================================================================
+
+=========================11:35:16===========================
+Array
+(
+    [user_id] => NTI2
+    [merchant_id] => 85
+    [Content-Type] => application/json; charset=UTF-8
+    [Content-Length] => 18
+    [Host] => 12.201.42.18
+    [Connection] => Keep-Alive
+    [Accept-Encoding] => gzip
+    [User-Agent] => okhttp/3.4.1
+)
+{"store_id":"108"}
+=====================================================================
+
+=========================11:37:01===========================
+Array
+(
+    [Host] => 12.201.42.18
+    [Connection] => keep-alive
+    [Content-Length] => 2152
+    [user_id] => NTI2
+    [merchant_id] => 85
+    [Cache-Control] => no-cache
+    [Origin] => chrome-extension://fhbjgbiflinjbdggehcddcbncdddomop
+    [Content-Type] => text/plain;charset=UTF-8
+    [User-Agent] => Mozilla/5.0 (X11; Linux i686) AppleWebKit/537.36 (KHTML, like Gecko) Ubuntu Chromium/45.0.2454.101 Chrome/45.0.2454.101 Safari/537.36
+    [Postman-Token] => 69cb3798-906b-5f45-f561-0fe3290cef87
+    [Accept] => */*
+    [Accept-Encoding] => gzip, deflate
+    [Accept-Language] => en-US,en;q=0.8
+    [Cookie] => CAKEPHP=2u5g80gki9m9qelnpmrfa37oi7
+)
+{"cart_item_list":[{"category_id":"824","comment":"","ExtendedPromo":[],"free_units":"","item_tax_value":"","item_id":"4972","Offers":[],"quantity":"2","selectedSubAddonsModels":[],"selectedSubPreferencesModels":[],"size_id":"","tax":"0.0","total_price":"90.0"},{"category_id":"824","comment":"","ExtendedPromo":[],"free_units":"","item_tax_value":"","item_id":"4973","Offers":[],"quantity":"2","selectedSubAddonsModels":[],"selectedSubPreferencesModels":[],"size_id":"","tax":"0.0","total_price":"90.0"},{"category_id":"836","comment":"","ExtendedPromo":[],"free_units":"","item_tax_value":"8.5","item_id":"4974","Offers":[],"quantity":"3","selectedSubAddonsModels":[],"selectedSubPreferencesModels":[],"size_id":"334","tax":"1.275","total_price":"15.0"},{"category_id":"836","comment":"","ExtendedPromo":[],"free_units":"1","item_tax_value":"8.5","item_id":"5102","Offers":[{"Item_price":"20","category_id":"836","isSizeApplicable":true,"isUnitApplicable":true,"is_fixed_price":false,"item_id":"5102","offer_id":"116","offered_items":[{"category_id":"845","Offered_id":"153","offered_item_id":"5008","price":"12.00","size_id":"341"},{"category_id":"842","Offered_id":"154","offered_item_id":"5006","price":"10.00","size_id":"0"}],"offerprice":"","size_id":"334","unit":"2"}],"quantity":"2","selectedSubAddonsModels":[],"selectedSubPreferencesModels":[],"size_id":"334","tax":"5.27","total_price":"62.0"},{"category_id":"836","comment":"","ExtendedPromo":[],"free_units":"","item_tax_value":"","item_id":"4981","Offers":[],"quantity":"2","selectedSubAddonsModels":[],"selectedSubPreferencesModels":[{"price":"2.00","subprefernce_id":"4225"}],"size_id":"","tax":"0.0","total_price":"12.0"}],"coupon_code":"920810","coupon_discount":"100","delivery_fee":"0.00","extended_discount":"0.0","order_details":{"address_id":"592","date":"13-11-2016","order_type":"Delivery","time":"16:25"},"payment_method":{"address":"","card_type":"","cc_number":"","city":"","cvv":"","expiry":"","fname":"","lastname":"","payment_type":"Paypal","state":"","zip_code":""},"service_fee":"","store_id":"108","sub_total_price":"269.0","total_amount":"175.54","total_tax":"6.54"}
+=====================================================================
+
+=========================11:39:01===========================
+Array
+(
+    [user_id] => NTI2
+    [merchant_id] => 85
+    [Content-Type] => application/json; charset=UTF-8
+    [Content-Length] => 18
+    [Host] => 12.201.42.18
+    [Connection] => Keep-Alive
+    [Accept-Encoding] => gzip
+    [User-Agent] => okhttp/3.4.1
+)
+{"store_id":"108"}
+=====================================================================
+
+=========================11:44:45===========================
+Array
+(
+    [user_id] => NTI2
+    [merchant_id] => 85
+    [Content-Type] => application/json; charset=UTF-8
+    [Content-Length] => 18
+    [Host] => 12.201.42.18
+    [Connection] => Keep-Alive
+    [Accept-Encoding] => gzip
+    [User-Agent] => okhttp/3.4.1
+)
+{"store_id":"108"}
+=====================================================================
+
+=========================11:46:10===========================
+Array
+(
+    [user_id] => NTI2
+    [merchant_id] => 85
+    [Content-Type] => application/json; charset=UTF-8
+    [Content-Length] => 18
+    [Host] => 12.201.42.18
+    [Connection] => Keep-Alive
+    [Accept-Encoding] => gzip
+    [User-Agent] => okhttp/3.4.1
+)
+{"store_id":"108"}
+=====================================================================
+
+=========================11:51:16===========================
+Array
+(
+    [user_id] => NTI2
+    [merchant_id] => 85
+    [Content-Type] => application/json; charset=UTF-8
+    [Content-Length] => 18
+    [Host] => 12.201.42.18
+    [Connection] => Keep-Alive
+    [Accept-Encoding] => gzip
+    [User-Agent] => okhttp/3.4.1
+)
+{"store_id":"108"}
+=====================================================================
+
+=========================11:51:19===========================
+Array
+(
+    [user_id] => NTI2
+    [merchant_id] => 85
+    [Content-Type] => application/json; charset=UTF-8
+    [Content-Length] => 18
+    [Host] => 12.201.42.18
+    [Connection] => Keep-Alive
+    [Accept-Encoding] => gzip
+    [User-Agent] => okhttp/3.4.1
+)
+{"store_id":"108"}
+=====================================================================
+
+=========================11:57:57===========================
+Array
+(
+    [user_id] => NTI2
+    [merchant_id] => 85
+    [Content-Type] => application/json; charset=UTF-8
+    [Content-Length] => 18
+    [Host] => 12.201.42.18
+    [Connection] => Keep-Alive
+    [Accept-Encoding] => gzip
+    [User-Agent] => okhttp/3.4.1
+)
+{"store_id":"108"}
+=====================================================================
+
+=========================12:01:01===========================
+Array
+(
+    [user_id] => NTI2
+    [merchant_id] => 85
+    [Content-Type] => application/json; charset=UTF-8
+    [Content-Length] => 18
+    [Host] => 12.201.42.18
+    [Connection] => Keep-Alive
+    [Accept-Encoding] => gzip
+    [User-Agent] => okhttp/3.4.1
+)
+{"store_id":"108"}
+=====================================================================
+
+=========================12:05:07===========================
+Array
+(
+    [user_id] => NTI2
+    [merchant_id] => 85
+    [Content-Type] => application/json; charset=UTF-8
+    [Content-Length] => 18
+    [Host] => 12.201.42.18
+    [Connection] => Keep-Alive
+    [Accept-Encoding] => gzip
+    [User-Agent] => okhttp/3.4.1
+)
+{"store_id":"108"}
+=====================================================================
+
+=========================12:15:48===========================
+Array
+(
+    [Host] => 12.201.42.18
+    [Content-Type] => application/json
+    [Cookie] => CAKEPHP=ljappbbstipf7rv83jdikdpqp3
+    [User-Agent] => FoodOrder/1 CFNetwork/758.3.15 Darwin/15.6.0
+    [Connection] => keep-alive
+    [Accept] => application/json
+    [user_id] => NTI2
+    [Accept-Language] => en-us
+    [merchant_id] => 85
+    [Content-Length] => 18
+    [Accept-Encoding] => gzip, deflate
+)
+{"store_id":"108"}
+=====================================================================
+
+=========================12:16:03===========================
+Array
+(
+    [Host] => 12.201.42.18
+    [Content-Type] => application/json
+    [Cookie] => CAKEPHP=ljappbbstipf7rv83jdikdpqp3
+    [User-Agent] => FoodOrder/1 CFNetwork/758.3.15 Darwin/15.6.0
+    [Connection] => keep-alive
+    [Accept] => application/json
+    [user_id] => NTI2
+    [Accept-Language] => en-us
+    [merchant_id] => 85
+    [Content-Length] => 18
+    [Accept-Encoding] => gzip, deflate
+)
+{"store_id":"108"}
+=====================================================================
+
+=========================12:23:29===========================
+Array
+(
+    [user_id] => NTI2
+    [merchant_id] => 85
+    [Content-Type] => application/json; charset=UTF-8
+    [Content-Length] => 18
+    [Host] => 12.201.42.18
+    [Connection] => Keep-Alive
+    [Accept-Encoding] => gzip
+    [User-Agent] => okhttp/3.4.1
+)
+{"store_id":"108"}
+=====================================================================
+
+=========================12:31:44===========================
+Array
+(
+    [user_id] => NTI2
+    [merchant_id] => 85
+    [Content-Type] => application/json; charset=UTF-8
+    [Content-Length] => 18
+    [Host] => 12.201.42.18
+    [Connection] => Keep-Alive
+    [Accept-Encoding] => gzip
+    [User-Agent] => okhttp/3.4.1
+)
+{"store_id":"108"}
+=====================================================================
+
+=========================12:35:11===========================
+Array
+(
+    [user_id] => NTI2
+    [merchant_id] => 85
+    [Content-Type] => application/json; charset=UTF-8
+    [Content-Length] => 18
+    [Host] => 12.201.42.18
+    [Connection] => Keep-Alive
+    [Accept-Encoding] => gzip
+    [User-Agent] => okhttp/3.4.1
+)
+{"store_id":"108"}
+=====================================================================
+
+=========================12:35:17===========================
+Array
+(
+    [user_id] => NTI2
+    [merchant_id] => 85
+    [Content-Type] => application/json; charset=UTF-8
+    [Content-Length] => 18
+    [Host] => 12.201.42.18
+    [Connection] => Keep-Alive
+    [Accept-Encoding] => gzip
+    [User-Agent] => okhttp/3.4.1
+)
+{"store_id":"108"}
+=====================================================================
+
+=========================12:54:26===========================
+Array
+(
+    [Host] => 12.201.42.18
+    [Content-Type] => application/json
+    [Cookie] => CAKEPHP=iq8er6svlahmsn7ai794sihio6
+    [User-Agent] => FoodOrder/1 CFNetwork/758.3.15 Darwin/15.6.0
+    [Connection] => keep-alive
+    [Accept] => application/json
+    [user_id] => NTI2
+    [Accept-Language] => en-us
+    [merchant_id] => 85
+    [Content-Length] => 18
+    [Accept-Encoding] => gzip, deflate
+)
+{"store_id":"108"}
+=====================================================================
+
+=========================12:54:31===========================
+Array
+(
+    [user_id] => NTI2
+    [merchant_id] => 85
+    [Content-Type] => application/json; charset=UTF-8
+    [Content-Length] => 18
+    [Host] => 12.201.42.18
+    [Connection] => Keep-Alive
+    [Accept-Encoding] => gzip
+    [User-Agent] => okhttp/3.4.1
+)
+{"store_id":"108"}
+=====================================================================
+
+=========================12:57:55===========================
+Array
+(
+    [user_id] => NTI2
+    [merchant_id] => 85
+    [Content-Type] => application/json; charset=UTF-8
+    [Content-Length] => 18
+    [Host] => 12.201.42.18
+    [Connection] => Keep-Alive
+    [Accept-Encoding] => gzip
+    [User-Agent] => okhttp/3.4.1
+)
+{"store_id":"108"}
+=====================================================================
+
+=========================13:00:48===========================
+Array
+(
+    [user_id] => NTI2
+    [merchant_id] => 85
+    [Content-Type] => application/json; charset=UTF-8
+    [Content-Length] => 18
+    [Host] => 12.201.42.18
+    [Connection] => Keep-Alive
+    [Accept-Encoding] => gzip
+    [User-Agent] => okhttp/3.4.1
+)
+{"store_id":"108"}
+=====================================================================
+
+=========================13:04:21===========================
+Array
+(
+    [Host] => 12.201.42.18
+    [Content-Type] => application/json
+    [Cookie] => CAKEPHP=f92udgcq3ltkm2cvkhvuluuqn7
+    [User-Agent] => FoodOrder/1 CFNetwork/808.0.2 Darwin/16.0.0
+    [Connection] => keep-alive
+    [Accept] => application/json
+    [user_id] => NTI2
+    [Accept-Language] => en-us
+    [merchant_id] => 85
+    [Content-Length] => 18
+    [Accept-Encoding] => gzip, deflate
+)
+{"store_id":"108"}
+=====================================================================
+
+=========================13:04:30===========================
+Array
+(
+    [user_id] => NTI2
+    [merchant_id] => 85
+    [Content-Type] => application/json; charset=UTF-8
+    [Content-Length] => 18
+    [Host] => 12.201.42.18
+    [Connection] => Keep-Alive
+    [Accept-Encoding] => gzip
+    [User-Agent] => okhttp/3.4.1
+)
+{"store_id":"108"}
+=====================================================================
+
+=========================13:04:46===========================
+Array
+(
+    [Host] => 12.201.42.18
+    [Content-Type] => application/json
+    [Cookie] => CAKEPHP=f92udgcq3ltkm2cvkhvuluuqn7
+    [User-Agent] => FoodOrder/1 CFNetwork/808.0.2 Darwin/16.0.0
+    [Connection] => keep-alive
+    [Accept] => application/json
+    [user_id] => NTI2
+    [Accept-Language] => en-us
+    [merchant_id] => 85
+    [Content-Length] => 18
+    [Accept-Encoding] => gzip, deflate
+)
+{"store_id":"108"}
+=====================================================================
+
+=========================13:06:30===========================
+Array
+(
+    [Host] => 12.201.42.18
+    [Content-Type] => application/json
+    [Cookie] => CAKEPHP=f92udgcq3ltkm2cvkhvuluuqn7
+    [User-Agent] => FoodOrder/1 CFNetwork/808.0.2 Darwin/16.0.0
+    [Connection] => keep-alive
+    [Accept] => application/json
+    [user_id] => NTI2
+    [Accept-Language] => en-us
+    [merchant_id] => 85
+    [Content-Length] => 18
+    [Accept-Encoding] => gzip, deflate
+)
+{"store_id":"108"}
+=====================================================================
+
+=========================13:06:39===========================
+Array
+(
+    [Host] => 12.201.42.18
+    [Content-Type] => application/json
+    [Cookie] => CAKEPHP=f92udgcq3ltkm2cvkhvuluuqn7
+    [User-Agent] => FoodOrder/1 CFNetwork/808.0.2 Darwin/16.0.0
+    [Connection] => keep-alive
+    [Accept] => application/json
+    [user_id] => NTI2
+    [Accept-Language] => en-us
+    [merchant_id] => 85
+    [Content-Length] => 18
+    [Accept-Encoding] => gzip, deflate
+)
+{"store_id":"108"}
+=====================================================================
+
+=========================13:06:49===========================
+Array
+(
+    [Host] => 12.201.42.18
+    [Content-Type] => application/json
+    [Cookie] => CAKEPHP=f92udgcq3ltkm2cvkhvuluuqn7
+    [User-Agent] => FoodOrder/1 CFNetwork/808.0.2 Darwin/16.0.0
+    [Connection] => keep-alive
+    [Accept] => application/json
+    [user_id] => NTI2
+    [Accept-Language] => en-us
+    [merchant_id] => 85
+    [Content-Length] => 18
+    [Accept-Encoding] => gzip, deflate
+)
+{"store_id":"108"}
+=====================================================================
+
+=========================13:07:14===========================
+Array
+(
+    [Host] => 12.201.42.18
+    [Content-Type] => application/json
+    [Cookie] => CAKEPHP=f92udgcq3ltkm2cvkhvuluuqn7
+    [User-Agent] => FoodOrder/1 CFNetwork/808.0.2 Darwin/16.0.0
+    [Connection] => keep-alive
+    [Accept] => application/json
+    [user_id] => NTI2
+    [Accept-Language] => en-us
+    [merchant_id] => 85
+    [Content-Length] => 18
+    [Accept-Encoding] => gzip, deflate
+)
+{"store_id":"108"}
+=====================================================================

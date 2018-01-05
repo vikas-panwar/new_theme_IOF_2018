@@ -1,0 +1,578 @@
+
+=========================04:49:38===========================
+Array
+(
+    [Host] => 12.201.42.18
+    [Content-Type] => application/json
+    [Cookie] => CAKEPHP=ahl7qc0qsdplqikq9k33j2vlo2
+    [Connection] => keep-alive
+    [Accept] => application/json
+    [merchant_id] => 85
+    [Accept-Language] => en-us
+    [Content-Length] => 114
+    [Accept-Encoding] => gzip, deflate
+    [User-Agent] => FoodOrder/1 CFNetwork/808.0.2 Darwin/16.0.0
+)
+{"device_token":"98275827352758","email":"ekansh.working@gmail.com","device_type":"iOS","password":"Smartdata123"}
+=====================================================================
+
+=========================04:52:13===========================
+Array
+(
+    [Host] => 12.201.42.18
+    [Content-Type] => application/json
+    [Cookie] => CAKEPHP=i0hpec3vh79ll3vudr0ilen646
+    [Connection] => keep-alive
+    [Accept] => application/json
+    [merchant_id] => 85
+    [Accept-Language] => en-us
+    [Content-Length] => 114
+    [Accept-Encoding] => gzip, deflate
+    [User-Agent] => FoodOrder/1 CFNetwork/808.0.2 Darwin/16.0.0
+)
+{"device_token":"98275827352758","email":"ekansh.working@gmail.com","device_type":"iOS","password":"Smartdata123"}
+=====================================================================
+
+=========================04:57:09===========================
+Array
+(
+    [Host] => 12.201.42.18
+    [Content-Type] => application/json
+    [Cookie] => CAKEPHP=560jvc1ubc6os9oe5hg854tpi0
+    [Connection] => keep-alive
+    [Accept] => application/json
+    [merchant_id] => 85
+    [Accept-Language] => en-us
+    [Content-Length] => 114
+    [Accept-Encoding] => gzip, deflate
+    [User-Agent] => FoodOrder/1 CFNetwork/808.0.2 Darwin/16.0.0
+)
+{"device_token":"98275827352758","email":"ekansh.working@gmail.com","device_type":"iOS","password":"Smartdata123"}
+=====================================================================
+
+=========================04:59:09===========================
+Array
+(
+    [Host] => 12.201.42.18
+    [Content-Type] => application/json
+    [Cookie] => CAKEPHP=akrdkg90acd4bhhlfissuq1ik6
+    [Connection] => keep-alive
+    [Accept] => application/json
+    [merchant_id] => 85
+    [Accept-Language] => en-us
+    [Content-Length] => 114
+    [Accept-Encoding] => gzip, deflate
+    [User-Agent] => FoodOrder/1 CFNetwork/808.0.2 Darwin/16.0.0
+)
+{"device_token":"98275827352758","email":"ekansh.working@gmail.com","device_type":"iOS","password":"Smartdata123"}
+=====================================================================
+
+=========================04:59:47===========================
+Array
+(
+    [Host] => 12.201.42.18
+    [Content-Type] => application/json
+    [Cookie] => CAKEPHP=9n02tdhh2pjc5j8d6v1gd8kmn1
+    [Connection] => keep-alive
+    [Accept] => application/json
+    [merchant_id] => 85
+    [Accept-Language] => en-us
+    [Content-Length] => 114
+    [Accept-Encoding] => gzip, deflate
+    [User-Agent] => FoodOrder/1 CFNetwork/808.0.2 Darwin/16.0.0
+)
+{"device_token":"98275827352758","email":"ekansh.working@gmail.com","device_type":"iOS","password":"Smartdata123"}
+=====================================================================
+
+=========================04:59:52===========================
+Array
+(
+    [Host] => 12.201.42.18
+    [Content-Type] => application/json
+    [Cookie] => CAKEPHP=o36omonm1vb1g5c211nbnloke5
+    [Connection] => keep-alive
+    [Accept] => application/json
+    [merchant_id] => 85
+    [Accept-Language] => en-us
+    [Content-Length] => 114
+    [Accept-Encoding] => gzip, deflate
+    [User-Agent] => FoodOrder/1 CFNetwork/808.0.2 Darwin/16.0.0
+)
+{"device_token":"98275827352758","email":"ekansh.working@gmail.com","device_type":"iOS","password":"Smartdata123"}
+=====================================================================
+
+=========================05:01:47===========================
+Array
+(
+    [Host] => 12.201.42.18
+    [Content-Type] => application/json
+    [Cookie] => CAKEPHP=gjq2vl1svm102cn2gjicig0he0
+    [Connection] => keep-alive
+    [Accept] => application/json
+    [merchant_id] => 85
+    [Accept-Language] => en-us
+    [Content-Length] => 114
+    [Accept-Encoding] => gzip, deflate
+    [User-Agent] => FoodOrder/1 CFNetwork/808.0.2 Darwin/16.0.0
+)
+{"device_token":"98275827352758","email":"ekansh.working@gmail.com","device_type":"iOS","password":"Smartdata123"}
+=====================================================================
+
+=========================05:01:56===========================
+Array
+(
+    [Host] => 12.201.42.18
+    [Content-Type] => application/json
+    [Cookie] => CAKEPHP=gjm1k6le674993saoboupbg1o6
+    [Connection] => keep-alive
+    [Accept] => application/json
+    [merchant_id] => 85
+    [Accept-Language] => en-us
+    [Content-Length] => 114
+    [Accept-Encoding] => gzip, deflate
+    [User-Agent] => FoodOrder/1 CFNetwork/808.0.2 Darwin/16.0.0
+)
+{"device_token":"98275827352758","email":"ekansh.working@gmail.com","device_type":"iOS","password":"Smartdata123"}
+=====================================================================
+
+=========================05:05:12===========================
+Array
+(
+    [Host] => 12.201.42.18
+    [Content-Type] => application/json
+    [Cookie] => CAKEPHP=9aeob1hhtt7nek4e2i005i6br0
+    [Connection] => keep-alive
+    [Accept] => application/json
+    [merchant_id] => 85
+    [Accept-Language] => en-us
+    [Content-Length] => 114
+    [Accept-Encoding] => gzip, deflate
+    [User-Agent] => FoodOrder/1 CFNetwork/808.0.2 Darwin/16.0.0
+)
+{"device_token":"98275827352758","email":"ekansh.working@gmail.com","device_type":"iOS","password":"Smartdata123"}
+=====================================================================
+
+=========================05:33:00===========================
+Array
+(
+    [Host] => 12.201.42.18
+    [Content-Type] => application/json
+    [Cookie] => CAKEPHP=vfopfhr7a02soprt72oocnas46
+    [Connection] => keep-alive
+    [Accept] => application/json
+    [merchant_id] => 85
+    [Accept-Language] => en-us
+    [Content-Length] => 114
+    [Accept-Encoding] => gzip, deflate
+    [User-Agent] => FoodOrder/1 CFNetwork/808.0.2 Darwin/16.0.0
+)
+{"device_token":"98275827352758","email":"ekansh.working@gmail.com","device_type":"iOS","password":"Smartdata123"}
+=====================================================================
+
+=========================05:34:08===========================
+Array
+(
+    [Host] => 12.201.42.18
+    [Content-Type] => application/json
+    [Cookie] => CAKEPHP=cgaqfuijh1qohphcme4m03mds5
+    [Connection] => keep-alive
+    [Accept] => application/json
+    [merchant_id] => 85
+    [Accept-Language] => en-us
+    [Content-Length] => 114
+    [Accept-Encoding] => gzip, deflate
+    [User-Agent] => FoodOrder/1 CFNetwork/808.0.2 Darwin/16.0.0
+)
+{"device_token":"98275827352758","email":"ekansh.working@gmail.com","device_type":"iOS","password":"Smartdata123"}
+=====================================================================
+
+=========================05:36:16===========================
+Array
+(
+    [Host] => 12.201.42.18
+    [Content-Type] => application/json
+    [Cookie] => CAKEPHP=3ih7b3nj377kmog1ijlir95ja5
+    [Connection] => keep-alive
+    [Accept] => application/json
+    [merchant_id] => 85
+    [Accept-Language] => en-us
+    [Content-Length] => 114
+    [Accept-Encoding] => gzip, deflate
+    [User-Agent] => FoodOrder/1 CFNetwork/808.0.2 Darwin/16.0.0
+)
+{"device_token":"98275827352758","email":"ekansh.working@gmail.com","device_type":"iOS","password":"Smartdata123"}
+=====================================================================
+
+=========================05:40:21===========================
+Array
+(
+    [Host] => 12.201.42.18
+    [Content-Type] => application/json
+    [Cookie] => CAKEPHP=q2qhd65nfr8aestidjc1551214
+    [Connection] => keep-alive
+    [Accept] => application/json
+    [merchant_id] => 85
+    [Accept-Language] => en-us
+    [Content-Length] => 114
+    [Accept-Encoding] => gzip, deflate
+    [User-Agent] => FoodOrder/1 CFNetwork/808.0.2 Darwin/16.0.0
+)
+{"device_token":"98275827352758","email":"ekansh.working@gmail.com","device_type":"iOS","password":"Smartdata123"}
+=====================================================================
+
+=========================05:41:28===========================
+Array
+(
+    [Host] => 12.201.42.18
+    [Content-Type] => application/json
+    [Cookie] => CAKEPHP=65a0fhqe25utbj4hi4qu436e70
+    [Connection] => keep-alive
+    [Accept] => application/json
+    [merchant_id] => 85
+    [Accept-Language] => en-us
+    [Content-Length] => 114
+    [Accept-Encoding] => gzip, deflate
+    [User-Agent] => FoodOrder/1 CFNetwork/808.0.2 Darwin/16.0.0
+)
+{"device_token":"98275827352758","email":"ekansh.working@gmail.com","device_type":"iOS","password":"Smartdata123"}
+=====================================================================
+
+=========================05:44:24===========================
+Array
+(
+    [Host] => 12.201.42.18
+    [Content-Type] => application/json
+    [Cookie] => CAKEPHP=bbuuharfql9t1qtrvn5j8hurg6
+    [Connection] => keep-alive
+    [Accept] => application/json
+    [merchant_id] => 85
+    [Accept-Language] => en-us
+    [Content-Length] => 114
+    [Accept-Encoding] => gzip, deflate
+    [User-Agent] => FoodOrder/1 CFNetwork/808.0.2 Darwin/16.0.0
+)
+{"device_token":"98275827352758","email":"ekansh.working@gmail.com","device_type":"iOS","password":"Smartdata123"}
+=====================================================================
+
+=========================05:46:00===========================
+Array
+(
+    [Host] => 12.201.42.18
+    [Content-Type] => application/json
+    [Cookie] => CAKEPHP=sp4lrem65tvjcgmkg99dgftbm2
+    [Connection] => keep-alive
+    [Accept] => application/json
+    [merchant_id] => 85
+    [Accept-Language] => en-us
+    [Content-Length] => 114
+    [Accept-Encoding] => gzip, deflate
+    [User-Agent] => FoodOrder/1 CFNetwork/808.0.2 Darwin/16.0.0
+)
+{"device_token":"98275827352758","email":"ekansh.working@gmail.com","device_type":"iOS","password":"Smartdata123"}
+=====================================================================
+
+=========================06:14:50===========================
+Array
+(
+    [Host] => 12.201.42.18
+    [Content-Type] => application/json
+    [Cookie] => CAKEPHP=tgo7tqkooadcmffhsv3rs9uk41
+    [Connection] => keep-alive
+    [Accept] => application/json
+    [merchant_id] => 85
+    [Accept-Language] => en-us
+    [Content-Length] => 114
+    [Accept-Encoding] => gzip, deflate
+    [User-Agent] => FoodOrder/1 CFNetwork/808.0.2 Darwin/16.0.0
+)
+{"device_token":"98275827352758","email":"ekansh.working@gmail.com","device_type":"iOS","password":"Smartdata123"}
+=====================================================================
+
+=========================06:15:55===========================
+Array
+(
+    [Host] => 12.201.42.18
+    [Content-Type] => application/json
+    [Cookie] => CAKEPHP=gcvf20klqeedni4uh3fkpnn4p7
+    [Connection] => keep-alive
+    [Accept] => application/json
+    [merchant_id] => 85
+    [Accept-Language] => en-us
+    [Content-Length] => 114
+    [Accept-Encoding] => gzip, deflate
+    [User-Agent] => FoodOrder/1 CFNetwork/808.0.2 Darwin/16.0.0
+)
+{"device_token":"98275827352758","email":"ekansh.working@gmail.com","device_type":"iOS","password":"SMartdata123"}
+=====================================================================
+
+=========================06:16:06===========================
+Array
+(
+    [Host] => 12.201.42.18
+    [Content-Type] => application/json
+    [Cookie] => CAKEPHP=gcvf20klqeedni4uh3fkpnn4p7
+    [Connection] => keep-alive
+    [Accept] => application/json
+    [merchant_id] => 85
+    [Accept-Language] => en-us
+    [Content-Length] => 114
+    [Accept-Encoding] => gzip, deflate
+    [User-Agent] => FoodOrder/1 CFNetwork/808.0.2 Darwin/16.0.0
+)
+{"device_token":"98275827352758","email":"ekansh.working@gmail.com","device_type":"iOS","password":"Smartdata123"}
+=====================================================================
+
+=========================06:17:44===========================
+Array
+(
+    [Host] => 12.201.42.18
+    [Content-Type] => application/json
+    [Cookie] => CAKEPHP=7ki5ir2s6uatvhvi6fpk4g3072
+    [Connection] => keep-alive
+    [Accept] => application/json
+    [merchant_id] => 85
+    [Accept-Language] => en-us
+    [Content-Length] => 114
+    [Accept-Encoding] => gzip, deflate
+    [User-Agent] => FoodOrder/1 CFNetwork/808.0.2 Darwin/16.0.0
+)
+{"device_token":"98275827352758","email":"ekansh.working@gmail.com","device_type":"iOS","password":"Smartdata123"}
+=====================================================================
+
+=========================06:26:44===========================
+Array
+(
+    [Host] => 12.201.42.18
+    [Content-Type] => application/json
+    [Cookie] => CAKEPHP=phj6ahfatqtlv4uvdf3inhlki7
+    [Connection] => keep-alive
+    [Accept] => application/json
+    [merchant_id] => 85
+    [Accept-Language] => en-us
+    [Content-Length] => 114
+    [Accept-Encoding] => gzip, deflate
+    [User-Agent] => FoodOrder/1 CFNetwork/808.0.2 Darwin/16.0.0
+)
+{"device_token":"98275827352758","email":"ekansh.working@gmail.com","device_type":"iOS","password":"Smartdata123"}
+=====================================================================
+
+=========================06:28:56===========================
+Array
+(
+    [Host] => 12.201.42.18
+    [Content-Type] => application/json
+    [Cookie] => CAKEPHP=6vmek22sbhemlig1qclcbubju1
+    [Connection] => keep-alive
+    [Accept] => application/json
+    [merchant_id] => 85
+    [Accept-Language] => en-us
+    [Content-Length] => 114
+    [Accept-Encoding] => gzip, deflate
+    [User-Agent] => FoodOrder/1 CFNetwork/808.0.2 Darwin/16.0.0
+)
+{"device_token":"98275827352758","email":"ekansh.working@gmail.com","device_type":"iOS","password":"Smartdata123"}
+=====================================================================
+
+=========================06:31:07===========================
+Array
+(
+    [Host] => 12.201.42.18
+    [Content-Type] => application/json
+    [Cookie] => CAKEPHP=mcg31gh314ns0hvemcoihknql5
+    [Connection] => keep-alive
+    [Accept] => application/json
+    [merchant_id] => 85
+    [Accept-Language] => en-us
+    [Content-Length] => 114
+    [Accept-Encoding] => gzip, deflate
+    [User-Agent] => FoodOrder/1 CFNetwork/808.0.2 Darwin/16.0.0
+)
+{"device_token":"98275827352758","email":"ekansh.working@gmail.com","device_type":"iOS","password":"Smartdata123"}
+=====================================================================
+
+=========================06:35:16===========================
+Array
+(
+    [Host] => 12.201.42.18
+    [Content-Type] => application/json
+    [Cookie] => CAKEPHP=q8qsv6rpdg2c5ct2at35lcrb95
+    [Connection] => keep-alive
+    [Accept] => application/json
+    [merchant_id] => 85
+    [Accept-Language] => en-us
+    [Content-Length] => 114
+    [Accept-Encoding] => gzip, deflate
+    [User-Agent] => FoodOrder/1 CFNetwork/808.0.2 Darwin/16.0.0
+)
+{"device_token":"98275827352758","email":"ekansh.working@gmail.com","device_type":"iOS","password":"Smartdata123"}
+=====================================================================
+
+=========================06:53:03===========================
+Array
+(
+    [Host] => 12.201.42.18
+    [Content-Type] => application/json
+    [Cookie] => CAKEPHP=6r0dm183pvvurbeb45vqj0u7u1
+    [Connection] => keep-alive
+    [Accept] => application/json
+    [merchant_id] => 85
+    [Accept-Language] => en-us
+    [Content-Length] => 114
+    [Accept-Encoding] => gzip, deflate
+    [User-Agent] => FoodOrder/1 CFNetwork/808.0.2 Darwin/16.0.0
+)
+{"device_token":"98275827352758","email":"ekansh.working@gmail.com","device_type":"iOS","password":"Smartdata123"}
+=====================================================================
+
+=========================07:08:01===========================
+Array
+(
+    [Host] => 12.201.42.18
+    [Content-Type] => application/json
+    [Cookie] => CAKEPHP=2k9g503d50ings1rher8c7fn22
+    [Connection] => keep-alive
+    [Accept] => application/json
+    [merchant_id] => 85
+    [Accept-Language] => en-us
+    [Content-Length] => 114
+    [Accept-Encoding] => gzip, deflate
+    [User-Agent] => FoodOrder/1 CFNetwork/808.0.2 Darwin/16.0.0
+)
+{"device_token":"98275827352758","email":"ekansh.working@gmail.com","device_type":"iOS","password":"Smartdata123"}
+=====================================================================
+
+=========================07:13:56===========================
+Array
+(
+    [Host] => 12.201.42.18
+    [Content-Type] => application/json
+    [Cookie] => CAKEPHP=9lii5sjiabk79poj5p09bndlv5
+    [Connection] => keep-alive
+    [Accept] => application/json
+    [merchant_id] => 85
+    [Accept-Language] => en-us
+    [Content-Length] => 114
+    [Accept-Encoding] => gzip, deflate
+    [User-Agent] => FoodOrder/1 CFNetwork/808.0.2 Darwin/16.0.0
+)
+{"device_token":"98275827352758","email":"ekansh.working@gmail.com","device_type":"iOS","password":"Smartdata123"}
+=====================================================================
+
+=========================07:15:07===========================
+Array
+(
+    [Host] => 12.201.42.18
+    [Content-Type] => application/json
+    [Cookie] => CAKEPHP=2u6svqprq6ms01qsg2h9niu0d1
+    [Connection] => keep-alive
+    [Accept] => application/json
+    [merchant_id] => 85
+    [Accept-Language] => en-us
+    [Content-Length] => 114
+    [Accept-Encoding] => gzip, deflate
+    [User-Agent] => FoodOrder/1 CFNetwork/808.0.2 Darwin/16.0.0
+)
+{"device_token":"98275827352758","email":"ekansh.working@gmail.com","device_type":"iOS","password":"Smartdata123"}
+=====================================================================
+
+=========================07:17:54===========================
+Array
+(
+    [Host] => 12.201.42.18
+    [Content-Type] => application/json
+    [Cookie] => CAKEPHP=33o8l0j6nt0m9kplt1gdaj9qb7
+    [Connection] => keep-alive
+    [Accept] => application/json
+    [merchant_id] => 85
+    [Accept-Language] => en-us
+    [Content-Length] => 114
+    [Accept-Encoding] => gzip, deflate
+    [User-Agent] => FoodOrder/1 CFNetwork/808.0.2 Darwin/16.0.0
+)
+{"device_token":"98275827352758","email":"ekansh.working@gmail.com","device_type":"iOS","password":"Smartdata123"}
+=====================================================================
+
+=========================09:33:13===========================
+Array
+(
+    [Host] => 12.201.42.18
+    [Content-Type] => application/json
+    [Cookie] => CAKEPHP=5difnbrd21vctv91cnkjoqf5m6
+    [Connection] => keep-alive
+    [Accept] => application/json
+    [merchant_id] => 85
+    [Accept-Language] => en-us
+    [Content-Length] => 114
+    [Accept-Encoding] => gzip, deflate
+    [User-Agent] => FoodOrder/1 CFNetwork/808.0.2 Darwin/16.0.0
+)
+{"device_token":"98275827352758","email":"ekansh.working@gmail.com","device_type":"iOS","password":"Smartdata123"}
+=====================================================================
+
+=========================09:57:45===========================
+Array
+(
+    [Host] => 12.201.42.18
+    [Content-Type] => application/json
+    [Cookie] => CAKEPHP=o5am4hkj9htg7450v93ntgodp7
+    [Connection] => keep-alive
+    [Accept] => application/json
+    [merchant_id] => 85
+    [Accept-Language] => en-us
+    [Content-Length] => 114
+    [Accept-Encoding] => gzip, deflate
+    [User-Agent] => FoodOrder/1 CFNetwork/808.0.2 Darwin/16.0.0
+)
+{"device_token":"98275827352758","email":"ekansh.working@gmail.com","device_type":"iOS","password":"Smartdata123"}
+=====================================================================
+
+=========================10:12:07===========================
+Array
+(
+    [Host] => 12.201.42.18
+    [Content-Type] => application/json
+    [Cookie] => CAKEPHP=v3u9df5vo8rhn8j2ger648u382
+    [Connection] => keep-alive
+    [Accept] => application/json
+    [merchant_id] => 85
+    [Accept-Language] => en-us
+    [Content-Length] => 114
+    [Accept-Encoding] => gzip, deflate
+    [User-Agent] => FoodOrder/1 CFNetwork/808.0.2 Darwin/16.0.0
+)
+{"device_token":"98275827352758","email":"ekansh.working@gmail.com","device_type":"iOS","password":"Smartdata123"}
+=====================================================================
+
+=========================10:22:49===========================
+Array
+(
+    [Host] => 12.201.42.18
+    [Content-Type] => application/json
+    [Cookie] => CAKEPHP=fogk3s2g2il8al6i9m60pb37g5
+    [Connection] => keep-alive
+    [Accept] => application/json
+    [merchant_id] => 85
+    [Accept-Language] => en-us
+    [Content-Length] => 114
+    [Accept-Encoding] => gzip, deflate
+    [User-Agent] => FoodOrder/1 CFNetwork/808.0.2 Darwin/16.0.0
+)
+{"device_token":"98275827352758","email":"ekansh.working@gmail.com","device_type":"iOS","password":"Smartdata123"}
+=====================================================================
+
+=========================10:26:37===========================
+Array
+(
+    [Host] => 12.201.42.18
+    [Content-Type] => application/json
+    [Cookie] => CAKEPHP=pai6i26vflnnnj8ujkub1lvcr3
+    [Connection] => keep-alive
+    [Accept] => application/json
+    [merchant_id] => 85
+    [Accept-Language] => en-us
+    [Content-Length] => 114
+    [Accept-Encoding] => gzip, deflate
+    [User-Agent] => FoodOrder/1 CFNetwork/808.0.2 Darwin/16.0.0
+)
+{"device_token":"98275827352758","email":"ekansh.working@gmail.com","device_type":"iOS","password":"Smartdata123"}
+=====================================================================

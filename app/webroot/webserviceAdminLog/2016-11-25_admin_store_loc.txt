@@ -1,0 +1,48 @@
+
+=========================13:39:16===========================
+Array
+(
+    [Host] => 12.201.42.18
+    [Accept] => */*
+    [Connection] => keep-alive
+    [Cookie] => CAKEPHP=6p4cq1pshcuqs3o3juk52t6uc5
+    [user_id] => NzU
+    [merchant_id] => 85
+    [Accept-Language] => en-us
+    [Accept-Encoding] => gzip, deflate
+    [User-Agent] => FoodOrder/1 CFNetwork/808.0.2 Darwin/16.0.0
+)
+
+=====================================================================
+
+=========================13:45:46===========================
+Array
+(
+    [Host] => 12.201.42.18
+    [Accept] => */*
+    [Connection] => keep-alive
+    [Cookie] => CAKEPHP=pjg01v87fttpu142115em0oob1
+    [user_id] => NzU
+    [merchant_id] => 85
+    [Accept-Language] => en-us
+    [Accept-Encoding] => gzip, deflate
+    [User-Agent] => FoodOrder/1 CFNetwork/808.0.2 Darwin/16.0.0
+)
+
+=====================================================================
+
+=========================13:55:14===========================
+Array
+(
+    [Host] => 12.201.42.18
+    [Accept] => */*
+    [Connection] => keep-alive
+    [Cookie] => CAKEPHP=pq28ue2l3g46sor5ak9l5lpi04
+    [user_id] => NzU
+    [merchant_id] => 85
+    [Accept-Language] => en-us
+    [Accept-Encoding] => gzip, deflate
+    [User-Agent] => FoodOrder/1 CFNetwork/808.0.2 Darwin/16.0.0
+)
+
+=====================================================================

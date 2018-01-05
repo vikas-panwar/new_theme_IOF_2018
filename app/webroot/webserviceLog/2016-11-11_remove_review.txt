@@ -1,0 +1,30 @@
+
+=========================06:07:44===========================
+Array
+(
+    [user_id] => NTI2
+    [merchant_id] => 85
+    [Content-Type] => application/json; charset=UTF-8
+    [Content-Length] => 19
+    [Host] => 12.201.42.18
+    [Connection] => Keep-Alive
+    [Accept-Encoding] => gzip
+    [User-Agent] => okhttp/3.4.1
+)
+{"review_id":"109"}
+=====================================================================
+
+=========================06:12:46===========================
+Array
+(
+    [user_id] => NTI2
+    [merchant_id] => 85
+    [Content-Type] => application/json; charset=UTF-8
+    [Content-Length] => 19
+    [Host] => 12.201.42.18
+    [Connection] => Keep-Alive
+    [Accept-Encoding] => gzip
+    [User-Agent] => okhttp/3.4.1
+)
+{"review_id":"108"}
+=====================================================================

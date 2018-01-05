@@ -1,0 +1,54 @@
+
+=========================10:00:07===========================
+Array
+(
+    [Host] => 12.201.42.18
+    [Content-Type] => application/json
+    [Cookie] => CAKEPHP=ljappbbstipf7rv83jdikdpqp3
+    [User-Agent] => FoodOrder/1 CFNetwork/758.3.15 Darwin/15.6.0
+    [Connection] => keep-alive
+    [Accept] => application/json
+    [user_id] => NTI2
+    [Accept-Language] => en-us
+    [merchant_id] => 85
+    [Content-Length] => 20
+    [Accept-Encoding] => gzip, deflate
+)
+{"address_id":"592"}
+=====================================================================
+
+=========================10:04:59===========================
+Array
+(
+    [Host] => 12.201.42.18
+    [Content-Type] => application/json
+    [Cookie] => CAKEPHP=ljappbbstipf7rv83jdikdpqp3
+    [User-Agent] => FoodOrder/1 CFNetwork/758.3.15 Darwin/15.6.0
+    [Connection] => keep-alive
+    [Accept] => application/json
+    [user_id] => NTI2
+    [Accept-Language] => en-us
+    [merchant_id] => 85
+    [Content-Length] => 20
+    [Accept-Encoding] => gzip, deflate
+)
+{"address_id":"635"}
+=====================================================================
+
+=========================10:13:02===========================
+Array
+(
+    [Host] => 12.201.42.18
+    [Content-Type] => application/json
+    [Cookie] => CAKEPHP=ljappbbstipf7rv83jdikdpqp3
+    [User-Agent] => FoodOrder/1 CFNetwork/758.3.15 Darwin/15.6.0
+    [Connection] => keep-alive
+    [Accept] => application/json
+    [user_id] => NTI2
+    [Accept-Language] => en-us
+    [merchant_id] => 85
+    [Content-Length] => 20
+    [Accept-Encoding] => gzip, deflate
+)
+{"address_id":"635"}
+=====================================================================

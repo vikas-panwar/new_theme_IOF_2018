@@ -1,0 +1,54 @@
+
+=========================10:01:19===========================
+Array
+(
+    [Host] => 12.201.42.18
+    [Content-Type] => application/json
+    [Cookie] => CAKEPHP=ljappbbstipf7rv83jdikdpqp3
+    [User-Agent] => FoodOrder/1 CFNetwork/758.3.15 Darwin/15.6.0
+    [Connection] => keep-alive
+    [Accept] => application/json
+    [user_id] => NTI2
+    [Accept-Language] => en-us
+    [merchant_id] => 85
+    [Content-Length] => 173
+    [Accept-Encoding] => gzip, deflate
+)
+{"city":"Chandigarh","address":"kumar","country_code":"+91","default":true,"phone":"8558026568","name_on_bell":"mahesh","label":2,"zipcode":"555443424","state":"Chandigarh"}
+=====================================================================
+
+=========================10:10:57===========================
+Array
+(
+    [Host] => 12.201.42.18
+    [Content-Type] => application/json
+    [Cookie] => CAKEPHP=ljappbbstipf7rv83jdikdpqp3
+    [User-Agent] => FoodOrder/1 CFNetwork/758.3.15 Darwin/15.6.0
+    [Connection] => keep-alive
+    [Accept] => application/json
+    [user_id] => NTI2
+    [Accept-Language] => en-us
+    [merchant_id] => 85
+    [Content-Length] => 176
+    [Accept-Encoding] => gzip, deflate
+)
+{"city":"Chandigarh","address":"House No2182","country_code":"+91","default":true,"phone":"6776567656","name_on_bell":"Mahesh","label":2,"zipcode":"45555","state":"Chandigarh"}
+=====================================================================
+
+=========================10:15:26===========================
+Array
+(
+    [Host] => 12.201.42.18
+    [Content-Type] => application/json
+    [Cookie] => CAKEPHP=ljappbbstipf7rv83jdikdpqp3
+    [User-Agent] => FoodOrder/1 CFNetwork/758.3.15 Darwin/15.6.0
+    [Connection] => keep-alive
+    [Accept] => application/json
+    [user_id] => NTI2
+    [Accept-Language] => en-us
+    [merchant_id] => 85
+    [Content-Length] => 178
+    [Accept-Encoding] => gzip, deflate
+)
+{"city":"Chandigarh","address":"Hosue No 3172","country_code":"+91","default":true,"phone":"8558026568","name_on_bell":"Mahesh","label":1,"zipcode":"852131","state":"Chandigarh"}
+=====================================================================

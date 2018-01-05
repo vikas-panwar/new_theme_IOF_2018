@@ -1,0 +1,378 @@
+
+=========================06:07:02===========================
+Array
+(
+    [user_id] => NTI2
+    [merchant_id] => 85
+    [Content-Length] => 0
+    [Host] => 12.201.42.18
+    [Connection] => Keep-Alive
+    [Accept-Encoding] => gzip
+    [User-Agent] => okhttp/3.4.1
+)
+
+=====================================================================
+
+=========================06:07:44===========================
+Array
+(
+    [user_id] => NTI2
+    [merchant_id] => 85
+    [Content-Length] => 0
+    [Host] => 12.201.42.18
+    [Connection] => Keep-Alive
+    [Accept-Encoding] => gzip
+    [User-Agent] => okhttp/3.4.1
+)
+
+=====================================================================
+
+=========================06:09:25===========================
+Array
+(
+    [user_id] => NTI2
+    [merchant_id] => 85
+    [Host] => 12.201.42.18
+    [Connection] => Keep-Alive
+    [Accept-Encoding] => gzip
+    [User-Agent] => okhttp/3.4.1
+)
+
+=====================================================================
+
+=========================06:10:02===========================
+Array
+(
+    [Host] => 12.201.42.18
+    [User-Agent] => Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:42.0) Gecko/20100101 Firefox/42.0
+    [Accept] => text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8
+    [Accept-Language] => null
+    [Accept-Encoding] => gzip, deflate
+    [user_id] => NTI2
+    [merchant_id] => 85
+    [Cookie] => CAKEPHP=ic16pdojl35cq2arcigt8flhn3
+    [Connection] => keep-alive
+)
+
+=====================================================================
+
+=========================06:12:36===========================
+Array
+(
+    [user_id] => NTI2
+    [merchant_id] => 85
+    [Host] => 12.201.42.18
+    [Connection] => Keep-Alive
+    [Accept-Encoding] => gzip
+    [User-Agent] => okhttp/3.4.1
+)
+
+=====================================================================
+
+=========================06:12:47===========================
+Array
+(
+    [user_id] => NTI2
+    [merchant_id] => 85
+    [Host] => 12.201.42.18
+    [Connection] => Keep-Alive
+    [Accept-Encoding] => gzip
+    [User-Agent] => okhttp/3.4.1
+)
+
+=====================================================================
+
+=========================06:12:53===========================
+Array
+(
+    [user_id] => NTI2
+    [merchant_id] => 85
+    [Host] => 12.201.42.18
+    [Connection] => Keep-Alive
+    [Accept-Encoding] => gzip
+    [User-Agent] => okhttp/3.4.1
+)
+
+=====================================================================
+
+=========================06:14:48===========================
+Array
+(
+    [user_id] => NTI2
+    [merchant_id] => 85
+    [Host] => 12.201.42.18
+    [Connection] => Keep-Alive
+    [Accept-Encoding] => gzip
+    [User-Agent] => okhttp/3.4.1
+)
+
+=====================================================================
+
+=========================06:16:06===========================
+Array
+(
+    [user_id] => NTI2
+    [merchant_id] => 85
+    [Host] => 12.201.42.18
+    [Connection] => Keep-Alive
+    [Accept-Encoding] => gzip
+    [User-Agent] => okhttp/3.4.1
+)
+
+=====================================================================
+
+=========================06:17:01===========================
+Array
+(
+    [user_id] => NTI2
+    [merchant_id] => 85
+    [Host] => 12.201.42.18
+    [Connection] => Keep-Alive
+    [Accept-Encoding] => gzip
+    [User-Agent] => okhttp/3.4.1
+)
+
+=====================================================================
+
+=========================06:23:11===========================
+Array
+(
+    [Host] => 12.201.42.18
+    [Accept] => */*
+    [Connection] => keep-alive
+    [Cookie] => CAKEPHP=qmf0jdnd1cu7n058168bl2hov5
+    [user_id] => NTI2
+    [merchant_id] => 85
+    [Accept-Language] => en-us
+    [Accept-Encoding] => gzip, deflate
+    [User-Agent] => FoodOrder/1 CFNetwork/758.3.15 Darwin/15.6.0
+)
+
+=====================================================================
+
+=========================06:30:30===========================
+Array
+(
+    [user_id] => NTI2
+    [merchant_id] => 85
+    [Host] => 12.201.42.18
+    [Connection] => Keep-Alive
+    [Accept-Encoding] => gzip
+    [User-Agent] => okhttp/3.4.1
+)
+
+=====================================================================
+
+=========================06:30:32===========================
+Array
+(
+    [user_id] => NTI2
+    [merchant_id] => 85
+    [Host] => 12.201.42.18
+    [Connection] => Keep-Alive
+    [Accept-Encoding] => gzip
+    [User-Agent] => okhttp/3.4.1
+)
+
+=====================================================================
+
+=========================06:32:00===========================
+Array
+(
+    [user_id] => NTI2
+    [merchant_id] => 85
+    [Host] => 12.201.42.18
+    [Connection] => Keep-Alive
+    [Accept-Encoding] => gzip
+    [User-Agent] => okhttp/3.4.1
+)
+
+=====================================================================
+
+=========================06:32:02===========================
+Array
+(
+    [user_id] => NTI2
+    [merchant_id] => 85
+    [Host] => 12.201.42.18
+    [Connection] => Keep-Alive
+    [Accept-Encoding] => gzip
+    [User-Agent] => okhttp/3.4.1
+)
+
+=====================================================================
+
+=========================06:45:17===========================
+Array
+(
+    [Host] => 12.201.42.18
+    [Connection] => keep-alive
+    [user_id] => NTI2
+    [merchant_id] => 85
+    [Cache-Control] => no-cache
+    [User-Agent] => Mozilla/5.0 (X11; Linux i686) AppleWebKit/537.36 (KHTML, like Gecko) Ubuntu Chromium/45.0.2454.101 Chrome/45.0.2454.101 Safari/537.36
+    [Postman-Token] => b3d6da9d-0eef-00d7-2a7e-b65f62821208
+    [Accept] => */*
+    [Accept-Encoding] => gzip, deflate, sdch
+    [Accept-Language] => en-US,en;q=0.8
+    [Cookie] => CAKEPHP=4hepnvn3q62kdo8qqujv60n4e5
+)
+
+=====================================================================
+
+=========================09:50:00===========================
+Array
+(
+    [Host] => 12.201.42.18
+    [Connection] => keep-alive
+    [Content-Length] => 42
+    [user_id] => NTI2
+    [merchant_id] => 85
+    [Cache-Control] => no-cache
+    [Origin] => chrome-extension://fhbjgbiflinjbdggehcddcbncdddomop
+    [Content-Type] => text/plain;charset=UTF-8
+    [User-Agent] => Mozilla/5.0 (X11; Linux i686) AppleWebKit/537.36 (KHTML, like Gecko) Ubuntu Chromium/45.0.2454.101 Chrome/45.0.2454.101 Safari/537.36
+    [Postman-Token] => cfa8400e-9325-6985-dda1-5e3535bf6bfd
+    [Accept] => */*
+    [Accept-Encoding] => gzip, deflate
+    [Accept-Language] => en-US,en;q=0.8
+    [Cookie] => CAKEPHP=b7rmsl51oru2ouk3h3ds9a6bi6
+)
+{"store_id":"108","order_type":"carryout"}
+=====================================================================
+
+=========================10:44:05===========================
+Array
+(
+    [user_id] => NTI2
+    [merchant_id] => 85
+    [Host] => 12.201.42.18
+    [Connection] => Keep-Alive
+    [Accept-Encoding] => gzip
+    [User-Agent] => okhttp/3.4.1
+)
+
+=====================================================================
+
+=========================10:44:37===========================
+Array
+(
+    [user_id] => NTI2
+    [merchant_id] => 85
+    [Host] => 12.201.42.18
+    [Connection] => Keep-Alive
+    [Accept-Encoding] => gzip
+    [User-Agent] => okhttp/3.4.1
+)
+
+=====================================================================
+
+=========================10:44:41===========================
+Array
+(
+    [Host] => 12.201.42.18
+    [Accept] => */*
+    [Connection] => keep-alive
+    [Cookie] => CAKEPHP=ljappbbstipf7rv83jdikdpqp3
+    [user_id] => NTI2
+    [merchant_id] => 85
+    [Accept-Language] => en-us
+    [Accept-Encoding] => gzip, deflate
+    [User-Agent] => FoodOrder/1 CFNetwork/758.3.15 Darwin/15.6.0
+)
+
+=====================================================================
+
+=========================11:28:07===========================
+Array
+(
+    [user_id] => NTI2
+    [merchant_id] => 85
+    [Host] => 12.201.42.18
+    [Connection] => Keep-Alive
+    [Accept-Encoding] => gzip
+    [User-Agent] => okhttp/3.4.1
+)
+
+=====================================================================
+
+=========================11:29:06===========================
+Array
+(
+    [user_id] => NTI2
+    [merchant_id] => 85
+    [Host] => 12.201.42.18
+    [Connection] => Keep-Alive
+    [Accept-Encoding] => gzip
+    [User-Agent] => okhttp/3.4.1
+)
+
+=====================================================================
+
+=========================11:29:52===========================
+Array
+(
+    [user_id] => NTI2
+    [merchant_id] => 85
+    [Host] => 12.201.42.18
+    [Connection] => Keep-Alive
+    [Accept-Encoding] => gzip
+    [User-Agent] => okhttp/3.4.1
+)
+
+=====================================================================
+
+=========================11:31:00===========================
+Array
+(
+    [user_id] => NTI2
+    [merchant_id] => 85
+    [Host] => 12.201.42.18
+    [Connection] => Keep-Alive
+    [Accept-Encoding] => gzip
+    [User-Agent] => okhttp/3.4.1
+)
+
+=====================================================================
+
+=========================11:35:23===========================
+Array
+(
+    [user_id] => NTI2
+    [merchant_id] => 85
+    [Host] => 12.201.42.18
+    [Connection] => Keep-Alive
+    [Accept-Encoding] => gzip
+    [User-Agent] => okhttp/3.4.1
+)
+
+=====================================================================
+
+=========================11:35:52===========================
+Array
+(
+    [user_id] => NTI2
+    [merchant_id] => 85
+    [Host] => 12.201.42.18
+    [Connection] => Keep-Alive
+    [Accept-Encoding] => gzip
+    [User-Agent] => okhttp/3.4.1
+)
+
+=====================================================================
+
+=========================13:07:24===========================
+Array
+(
+    [Host] => 12.201.42.18
+    [Accept] => */*
+    [Connection] => keep-alive
+    [Cookie] => CAKEPHP=f92udgcq3ltkm2cvkhvuluuqn7
+    [user_id] => NTI2
+    [merchant_id] => 85
+    [Accept-Language] => en-us
+    [Accept-Encoding] => gzip, deflate
+    [User-Agent] => FoodOrder/1 CFNetwork/808.0.2 Darwin/16.0.0
+)
+
+=====================================================================

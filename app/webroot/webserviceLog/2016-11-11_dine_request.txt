@@ -1,0 +1,18 @@
+
+=========================09:30:33===========================
+Array
+(
+    [Host] => 12.201.42.18
+    [Content-Type] => application/json
+    [Cookie] => CAKEPHP=5lp3tbibhmurffsipuh2icto93
+    [User-Agent] => FoodOrder/1 CFNetwork/758.3.15 Darwin/15.6.0
+    [Connection] => keep-alive
+    [Accept] => application/json
+    [user_id] => NTI2
+    [Accept-Language] => en-us
+    [merchant_id] => 85
+    [Content-Length] => 108
+    [Accept-Encoding] => gzip, deflate
+)
+{"store_id":"108","reservation_date":"2016-11-17 03:10:00","number_person":"3","special_request":"Optional"}
+=====================================================================

@@ -1,0 +1,566 @@
+
+=========================09:26:58===========================
+Array
+(
+    [Host] => 12.201.42.18
+    [Content-Type] => application/json
+    [Cookie] => CAKEPHP=5lp3tbibhmurffsipuh2icto93
+    [Connection] => keep-alive
+    [Accept] => application/json
+    [merchant_id] => 85
+    [Accept-Language] => en-us
+    [Content-Length] => 51
+    [Accept-Encoding] => gzip, deflate
+    [User-Agent] => FoodOrder/1 CFNetwork/758.3.15 Darwin/15.6.0
+)
+{"item_id":"4974","size_id":"334","store_id":"108"}
+=====================================================================
+
+=========================09:27:31===========================
+Array
+(
+    [Host] => 12.201.42.18
+    [Content-Type] => application/json
+    [Cookie] => CAKEPHP=5lp3tbibhmurffsipuh2icto93
+    [Connection] => keep-alive
+    [Accept] => application/json
+    [merchant_id] => 85
+    [Accept-Language] => en-us
+    [Content-Length] => 49
+    [Accept-Encoding] => gzip, deflate
+    [User-Agent] => FoodOrder/1 CFNetwork/758.3.15 Darwin/15.6.0
+)
+{"item_id":"4999","size_id":" ","store_id":"108"}
+=====================================================================
+
+=========================09:27:46===========================
+Array
+(
+    [Host] => 12.201.42.18
+    [Content-Type] => application/json
+    [Cookie] => CAKEPHP=5lp3tbibhmurffsipuh2icto93
+    [Connection] => keep-alive
+    [Accept] => application/json
+    [merchant_id] => 85
+    [Accept-Language] => en-us
+    [Content-Length] => 51
+    [Accept-Encoding] => gzip, deflate
+    [User-Agent] => FoodOrder/1 CFNetwork/758.3.15 Darwin/15.6.0
+)
+{"item_id":"5022","size_id":"345","store_id":"108"}
+=====================================================================
+
+=========================09:27:56===========================
+Array
+(
+    [Host] => 12.201.42.18
+    [Content-Type] => application/json
+    [Cookie] => CAKEPHP=5lp3tbibhmurffsipuh2icto93
+    [Connection] => keep-alive
+    [Accept] => application/json
+    [merchant_id] => 85
+    [Accept-Language] => en-us
+    [Content-Length] => 51
+    [Accept-Encoding] => gzip, deflate
+    [User-Agent] => FoodOrder/1 CFNetwork/758.3.15 Darwin/15.6.0
+)
+{"item_id":"5102","size_id":"334","store_id":"108"}
+=====================================================================
+
+=========================10:31:32===========================
+Array
+(
+    [Host] => 12.201.42.18
+    [Content-Type] => application/json
+    [Cookie] => CAKEPHP=ljappbbstipf7rv83jdikdpqp3
+    [Connection] => keep-alive
+    [Accept] => application/json
+    [merchant_id] => 85
+    [Accept-Language] => en-us
+    [Content-Length] => 49
+    [Accept-Encoding] => gzip, deflate
+    [User-Agent] => FoodOrder/1 CFNetwork/758.3.15 Darwin/15.6.0
+)
+{"item_id":"4973","size_id":" ","store_id":"108"}
+=====================================================================
+
+=========================10:31:41===========================
+Array
+(
+    [merchant_id] => 85
+    [Content-Type] => application/json; charset=UTF-8
+    [Content-Length] => 49
+    [Host] => 12.201.42.18
+    [Connection] => Keep-Alive
+    [Accept-Encoding] => gzip
+    [User-Agent] => okhttp/3.4.1
+)
+{"item_id":"4973","size_id":" ","store_id":"108"}
+=====================================================================
+
+=========================10:31:49===========================
+Array
+(
+    [Host] => 12.201.42.18
+    [Content-Type] => application/json
+    [Cookie] => CAKEPHP=ljappbbstipf7rv83jdikdpqp3
+    [Connection] => keep-alive
+    [Accept] => application/json
+    [merchant_id] => 85
+    [Accept-Language] => en-us
+    [Content-Length] => 51
+    [Accept-Encoding] => gzip, deflate
+    [User-Agent] => FoodOrder/1 CFNetwork/758.3.15 Darwin/15.6.0
+)
+{"item_id":"4974","size_id":"334","store_id":"108"}
+=====================================================================
+
+=========================10:31:51===========================
+Array
+(
+    [merchant_id] => 85
+    [Content-Type] => application/json; charset=UTF-8
+    [Content-Length] => 51
+    [Host] => 12.201.42.18
+    [Connection] => Keep-Alive
+    [Accept-Encoding] => gzip
+    [User-Agent] => okhttp/3.4.1
+)
+{"item_id":"4974","size_id":"334","store_id":"108"}
+=====================================================================
+
+=========================10:32:04===========================
+Array
+(
+    [Host] => 12.201.42.18
+    [Content-Type] => application/json
+    [Cookie] => CAKEPHP=ljappbbstipf7rv83jdikdpqp3
+    [Connection] => keep-alive
+    [Accept] => application/json
+    [merchant_id] => 85
+    [Accept-Language] => en-us
+    [Content-Length] => 51
+    [Accept-Encoding] => gzip, deflate
+    [User-Agent] => FoodOrder/1 CFNetwork/758.3.15 Darwin/15.6.0
+)
+{"item_id":"5102","size_id":"334","store_id":"108"}
+=====================================================================
+
+=========================10:32:06===========================
+Array
+(
+    [merchant_id] => 85
+    [Content-Type] => application/json; charset=UTF-8
+    [Content-Length] => 51
+    [Host] => 12.201.42.18
+    [Connection] => Keep-Alive
+    [Accept-Encoding] => gzip
+    [User-Agent] => okhttp/3.4.1
+)
+{"item_id":"5102","size_id":"334","store_id":"108"}
+=====================================================================
+
+=========================10:32:17===========================
+Array
+(
+    [Host] => 12.201.42.18
+    [Content-Type] => application/json
+    [Cookie] => CAKEPHP=ljappbbstipf7rv83jdikdpqp3
+    [Connection] => keep-alive
+    [Accept] => application/json
+    [merchant_id] => 85
+    [Accept-Language] => en-us
+    [Content-Length] => 51
+    [Accept-Encoding] => gzip, deflate
+    [User-Agent] => FoodOrder/1 CFNetwork/758.3.15 Darwin/15.6.0
+)
+{"item_id":"4975","size_id":"337","store_id":"108"}
+=====================================================================
+
+=========================10:32:19===========================
+Array
+(
+    [Host] => 12.201.42.18
+    [Content-Type] => application/json
+    [Cookie] => CAKEPHP=ljappbbstipf7rv83jdikdpqp3
+    [Connection] => keep-alive
+    [Accept] => application/json
+    [merchant_id] => 85
+    [Accept-Language] => en-us
+    [Content-Length] => 51
+    [Accept-Encoding] => gzip, deflate
+    [User-Agent] => FoodOrder/1 CFNetwork/758.3.15 Darwin/15.6.0
+)
+{"item_id":"4975","size_id":"338","store_id":"108"}
+=====================================================================
+
+=========================10:32:19===========================
+Array
+(
+    [merchant_id] => 85
+    [Content-Type] => application/json; charset=UTF-8
+    [Content-Length] => 51
+    [Host] => 12.201.42.18
+    [Connection] => Keep-Alive
+    [Accept-Encoding] => gzip
+    [User-Agent] => okhttp/3.4.1
+)
+{"item_id":"4975","size_id":"337","store_id":"108"}
+=====================================================================
+
+=========================10:32:21===========================
+Array
+(
+    [merchant_id] => 85
+    [Content-Type] => application/json; charset=UTF-8
+    [Content-Length] => 51
+    [Host] => 12.201.42.18
+    [Connection] => Keep-Alive
+    [Accept-Encoding] => gzip
+    [User-Agent] => okhttp/3.4.1
+)
+{"item_id":"4975","size_id":"338","store_id":"108"}
+=====================================================================
+
+=========================10:32:53===========================
+Array
+(
+    [Host] => 12.201.42.18
+    [Content-Type] => application/json
+    [Cookie] => CAKEPHP=ljappbbstipf7rv83jdikdpqp3
+    [Connection] => keep-alive
+    [Accept] => application/json
+    [merchant_id] => 85
+    [Accept-Language] => en-us
+    [Content-Length] => 49
+    [Accept-Encoding] => gzip, deflate
+    [User-Agent] => FoodOrder/1 CFNetwork/758.3.15 Darwin/15.6.0
+)
+{"item_id":"4999","size_id":" ","store_id":"108"}
+=====================================================================
+
+=========================10:33:06===========================
+Array
+(
+    [merchant_id] => 85
+    [Content-Type] => application/json; charset=UTF-8
+    [Content-Length] => 49
+    [Host] => 12.201.42.18
+    [Connection] => Keep-Alive
+    [Accept-Encoding] => gzip
+    [User-Agent] => okhttp/3.4.1
+)
+{"item_id":"4981","size_id":" ","store_id":"108"}
+=====================================================================
+
+=========================10:33:07===========================
+Array
+(
+    [Host] => 12.201.42.18
+    [Content-Type] => application/json
+    [Cookie] => CAKEPHP=ljappbbstipf7rv83jdikdpqp3
+    [Connection] => keep-alive
+    [Accept] => application/json
+    [merchant_id] => 85
+    [Accept-Language] => en-us
+    [Content-Length] => 49
+    [Accept-Encoding] => gzip, deflate
+    [User-Agent] => FoodOrder/1 CFNetwork/758.3.15 Darwin/15.6.0
+)
+{"item_id":"4981","size_id":" ","store_id":"108"}
+=====================================================================
+
+=========================10:36:30===========================
+Array
+(
+    [merchant_id] => 85
+    [Content-Type] => application/json; charset=UTF-8
+    [Content-Length] => 49
+    [Host] => 12.201.42.18
+    [Connection] => Keep-Alive
+    [Accept-Encoding] => gzip
+    [User-Agent] => okhttp/3.4.1
+)
+{"item_id":"4973","size_id":" ","store_id":"108"}
+=====================================================================
+
+=========================10:36:37===========================
+Array
+(
+    [merchant_id] => 85
+    [Content-Type] => application/json; charset=UTF-8
+    [Content-Length] => 51
+    [Host] => 12.201.42.18
+    [Connection] => Keep-Alive
+    [Accept-Encoding] => gzip
+    [User-Agent] => okhttp/3.4.1
+)
+{"item_id":"4974","size_id":"334","store_id":"108"}
+=====================================================================
+
+=========================10:36:47===========================
+Array
+(
+    [merchant_id] => 85
+    [Content-Type] => application/json; charset=UTF-8
+    [Content-Length] => 51
+    [Host] => 12.201.42.18
+    [Connection] => Keep-Alive
+    [Accept-Encoding] => gzip
+    [User-Agent] => okhttp/3.4.1
+)
+{"item_id":"5102","size_id":"334","store_id":"108"}
+=====================================================================
+
+=========================10:36:57===========================
+Array
+(
+    [merchant_id] => 85
+    [Content-Type] => application/json; charset=UTF-8
+    [Content-Length] => 49
+    [Host] => 12.201.42.18
+    [Connection] => Keep-Alive
+    [Accept-Encoding] => gzip
+    [User-Agent] => okhttp/3.4.1
+)
+{"item_id":"4981","size_id":" ","store_id":"108"}
+=====================================================================
+
+=========================10:57:13===========================
+Array
+(
+    [merchant_id] => 85
+    [Content-Type] => application/json; charset=UTF-8
+    [Content-Length] => 51
+    [Host] => 12.201.42.18
+    [Connection] => Keep-Alive
+    [Accept-Encoding] => gzip
+    [User-Agent] => okhttp/3.4.1
+)
+{"item_id":"5102","size_id":"334","store_id":"108"}
+=====================================================================
+
+=========================11:00:13===========================
+Array
+(
+    [merchant_id] => 85
+    [Content-Type] => application/json; charset=UTF-8
+    [Content-Length] => 51
+    [Host] => 12.201.42.18
+    [Connection] => Keep-Alive
+    [Accept-Encoding] => gzip
+    [User-Agent] => okhttp/3.4.1
+)
+{"item_id":"5102","size_id":"334","store_id":"108"}
+=====================================================================
+
+=========================11:33:59===========================
+Array
+(
+    [Host] => 12.201.42.18
+    [User-Agent] => Mozilla/5.0 (X11; Ubuntu; Linux i686; rv:42.0) Gecko/20100101 Firefox/42.0
+    [Accept] => text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8
+    [Accept-Language] => en-US,en;q=0.5
+    [Accept-Encoding] => gzip, deflate
+    [Cookie] => toolbarDisplay=hide
+    [Connection] => keep-alive
+)
+
+=====================================================================
+
+=========================11:46:29===========================
+Array
+(
+    [merchant_id] => 85
+    [Content-Type] => application/json; charset=UTF-8
+    [Content-Length] => 51
+    [Host] => 12.201.42.18
+    [Connection] => Keep-Alive
+    [Accept-Encoding] => gzip
+    [User-Agent] => okhttp/3.4.1
+)
+{"item_id":"5102","size_id":"334","store_id":"108"}
+=====================================================================
+
+=========================11:51:41===========================
+Array
+(
+    [merchant_id] => 85
+    [Content-Type] => application/json; charset=UTF-8
+    [Content-Length] => 51
+    [Host] => 12.201.42.18
+    [Connection] => Keep-Alive
+    [Accept-Encoding] => gzip
+    [User-Agent] => okhttp/3.4.1
+)
+{"item_id":"5102","size_id":"334","store_id":"108"}
+=====================================================================
+
+=========================11:58:26===========================
+Array
+(
+    [merchant_id] => 85
+    [Content-Type] => application/json; charset=UTF-8
+    [Content-Length] => 51
+    [Host] => 12.201.42.18
+    [Connection] => Keep-Alive
+    [Accept-Encoding] => gzip
+    [User-Agent] => okhttp/3.4.1
+)
+{"item_id":"5102","size_id":"334","store_id":"108"}
+=====================================================================
+
+=========================12:01:26===========================
+Array
+(
+    [merchant_id] => 85
+    [Content-Type] => application/json; charset=UTF-8
+    [Content-Length] => 51
+    [Host] => 12.201.42.18
+    [Connection] => Keep-Alive
+    [Accept-Encoding] => gzip
+    [User-Agent] => okhttp/3.4.1
+)
+{"item_id":"5102","size_id":"334","store_id":"108"}
+=====================================================================
+
+=========================12:05:29===========================
+Array
+(
+    [merchant_id] => 85
+    [Content-Type] => application/json; charset=UTF-8
+    [Content-Length] => 51
+    [Host] => 12.201.42.18
+    [Connection] => Keep-Alive
+    [Accept-Encoding] => gzip
+    [User-Agent] => okhttp/3.4.1
+)
+{"item_id":"5102","size_id":"334","store_id":"108"}
+=====================================================================
+
+=========================12:16:30===========================
+Array
+(
+    [Host] => 12.201.42.18
+    [Content-Type] => application/json
+    [Cookie] => CAKEPHP=ljappbbstipf7rv83jdikdpqp3
+    [Connection] => keep-alive
+    [Accept] => application/json
+    [merchant_id] => 85
+    [Accept-Language] => en-us
+    [Content-Length] => 51
+    [Accept-Encoding] => gzip, deflate
+    [User-Agent] => FoodOrder/1 CFNetwork/758.3.15 Darwin/15.6.0
+)
+{"item_id":"5102","size_id":"334","store_id":"108"}
+=====================================================================
+
+=========================12:17:14===========================
+Array
+(
+    [Host] => 12.201.42.18
+    [Content-Type] => application/json
+    [Cookie] => CAKEPHP=ljappbbstipf7rv83jdikdpqp3
+    [Connection] => keep-alive
+    [Accept] => application/json
+    [merchant_id] => 85
+    [Accept-Language] => en-us
+    [Content-Length] => 51
+    [Accept-Encoding] => gzip, deflate
+    [User-Agent] => FoodOrder/1 CFNetwork/758.3.15 Darwin/15.6.0
+)
+{"item_id":"5102","size_id":"334","store_id":"108"}
+=====================================================================
+
+=========================12:17:48===========================
+Array
+(
+    [Host] => 12.201.42.18
+    [Content-Type] => application/json
+    [Cookie] => CAKEPHP=ljappbbstipf7rv83jdikdpqp3
+    [Connection] => keep-alive
+    [Accept] => application/json
+    [merchant_id] => 85
+    [Accept-Language] => en-us
+    [Content-Length] => 51
+    [Accept-Encoding] => gzip, deflate
+    [User-Agent] => FoodOrder/1 CFNetwork/758.3.15 Darwin/15.6.0
+)
+{"item_id":"5102","size_id":"334","store_id":"108"}
+=====================================================================
+
+=========================12:24:06===========================
+Array
+(
+    [merchant_id] => 85
+    [Content-Type] => application/json; charset=UTF-8
+    [Content-Length] => 51
+    [Host] => 12.201.42.18
+    [Connection] => Keep-Alive
+    [Accept-Encoding] => gzip
+    [User-Agent] => okhttp/3.4.1
+)
+{"item_id":"5102","size_id":"334","store_id":"108"}
+=====================================================================
+
+=========================12:32:05===========================
+Array
+(
+    [merchant_id] => 85
+    [Content-Type] => application/json; charset=UTF-8
+    [Content-Length] => 51
+    [Host] => 12.201.42.18
+    [Connection] => Keep-Alive
+    [Accept-Encoding] => gzip
+    [User-Agent] => okhttp/3.4.1
+)
+{"item_id":"5102","size_id":"334","store_id":"108"}
+=====================================================================
+
+=========================12:35:39===========================
+Array
+(
+    [merchant_id] => 85
+    [Content-Type] => application/json; charset=UTF-8
+    [Content-Length] => 51
+    [Host] => 12.201.42.18
+    [Connection] => Keep-Alive
+    [Accept-Encoding] => gzip
+    [User-Agent] => okhttp/3.4.1
+)
+{"item_id":"5102","size_id":"334","store_id":"108"}
+=====================================================================
+
+=========================13:05:08===========================
+Array
+(
+    [Host] => 12.201.42.18
+    [Content-Type] => application/json
+    [Cookie] => CAKEPHP=f92udgcq3ltkm2cvkhvuluuqn7
+    [Connection] => keep-alive
+    [Accept] => application/json
+    [merchant_id] => 85
+    [Accept-Language] => en-us
+    [Content-Length] => 51
+    [Accept-Encoding] => gzip, deflate
+    [User-Agent] => FoodOrder/1 CFNetwork/808.0.2 Darwin/16.0.0
+)
+{"item_id":"4974","size_id":"334","store_id":"108"}
+=====================================================================
+
+=========================13:05:13===========================
+Array
+(
+    [Host] => 12.201.42.18
+    [Content-Type] => application/json
+    [Cookie] => CAKEPHP=f92udgcq3ltkm2cvkhvuluuqn7
+    [Connection] => keep-alive
+    [Accept] => application/json
+    [merchant_id] => 85
+    [Accept-Language] => en-us
+    [Content-Length] => 51
+    [Accept-Encoding] => gzip, deflate
+    [User-Agent] => FoodOrder/1 CFNetwork/808.0.2 Darwin/16.0.0
+)
+{"item_id":"5102","size_id":"334","store_id":"108"}
+=====================================================================
